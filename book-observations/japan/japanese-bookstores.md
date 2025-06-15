@@ -2,16 +2,16 @@
 Kelly Leung | Osaka, Japan | May 27, 2025
 
 ## Bookstores visited
-- TSUTAYA BOOKS Umeda (梅田 蔦屋書店)
+- TSUTAYA BOOKS Umeda (梅田 蔦屋書店)<br>
 大阪府大阪市北区梅田3-1-3　ルクア イーレ9F
 
-- BOOKS KINOKUNIYA Grand Front Osaka (紀伊國屋書店 グランフロント大阪店)
+- BOOKS KINOKUNIYA Grand Front Osaka (紀伊國屋書店 グランフロント大阪店)<br>
 大阪府大阪市北区大深町4-20 グランフロント大阪 ショップ＆レストラン南館6F
 
-- BOOKS KINOKUNIYA Umeda (紀伊國屋書店 梅田本店)
+- BOOKS KINOKUNIYA Umeda (紀伊國屋書店 梅田本店)<br>
 大阪府大阪市北区芝田1-1-3 阪急三番街南館1F
 
-- MARUZEN & JUNKUDO Umeda (丸善&淳久堂 梅田店)
+- MARUZEN & JUNKUDO Umeda (丸善&淳久堂 梅田店)<br>
 大阪府大阪市北区茶屋町7-20 チャスカ茶屋町 地下1階～4階
 
 ---
