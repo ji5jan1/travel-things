@@ -39,7 +39,7 @@ The Empyrean series seems to do very well in Japan! _Fourth Wing_ has got the fi
 ![Illustration for the book](/book-observations/japan/umeda/empyrean2.jpeg "Illustration by Japanese artist")
 Illustration by Japanese artist.
 
-![Iron Flame in 2 volumes](/book-observations/japan/iron-flame.jpeg "2 volumeso of Iron Flame")
+![Iron Flame in 2 volumes](/book-observations/japan/umeda/iron-flame.jpeg "2 volumeso of Iron Flame")
 They separated Iron Flame into 2 books, probably because it'd be too thick after translation! (the book is small)
 
 ![The English Empyrean series](/book-observations/japan/umeda/empyrean-eng.jpeg "English Empyrean series")
