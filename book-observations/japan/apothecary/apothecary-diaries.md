@@ -1,8 +1,8 @@
 # 薬屋のひとりごと | Apothecary Diaries
 ![Banner Image](/book-observations/japan/apothecary/banner-image.jpg "Banner Image from https://img.youtube.com/vi/6RWa03RbyOM/maxresdefault.jpg")
 
-[Official Site](https://kusuriyanohitorigoto.jp/)
-[Official X](https://x.com/kusuriya_PR)
+[Official Site](https://kusuriyanohitorigoto.jp/)  
+[Official X](https://x.com/kusuriya_PR)   
 [Official TikTok](https://www.tiktok.com/@kusuriya_pr)
 
 **Author:** 日向夏 (Natsu Hyuuga)   
@@ -43,7 +43,7 @@
 <!-- Anime -->
 ### TV Anime Series
 
-[🎥 Streaming site](https://kusuriyanohitorigoto.jp/streaming/)
+[🎥 Streaming site](https://kusuriyanohitorigoto.jp/streaming/)   
 [🎵 Spotify Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu?go=1&sp_cid=68563ed6a183f432ff9c5a658f7bd6a2&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=fc8bce6aa1f44ba6)
 
 |   | Season 1 | Season 2 |
@@ -56,7 +56,7 @@
 | **TV Network** | NNS (Nippon TV) | NNS (Nippon TV) |
 | **License** | Netflix, Crunchyroll | Netflix |
 
-- **Merch/ collectibles**
+- **Merch/ collectibles**   
 [Goods page](https://kusuriyanohitorigoto.jp/goods/)
 
 ---

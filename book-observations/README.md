@@ -7,7 +7,7 @@
 
 #### 🇯🇵 Japan
 [🛍️ Bookstores in Umeda, Osaka](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/umeda/umeda-bookstores.md)   
-[💊 Aopthecary Diaries](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/apothecary/apothecary-diaries.md)
+[💊 Apothecary Diaries](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/apothecary/apothecary-diaries.md)
 
 ---
 
