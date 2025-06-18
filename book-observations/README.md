@@ -1,19 +1,19 @@
 ## 📚 BOOKS! 📚
 
 - **2025 book count:** 26
-- **Currently reading:** Apothecary Diaries 13
+- **Currently reading:** 藥師少女的獨語 13 (Apothecary Diaries 13)
 
 --- 
 
 #### 🇯🇵 Japan
-[🛍️ Bookstores in Umeda, Osaka]()
-[💊 Aopthecary Diaries]()
+[🛍️ Bookstores in Umeda, Osaka](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/umeda/umeda-bookstores.md)   
+[💊 Aopthecary Diaries](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/apothecary/apothecary-diaries.md)
 
 ---
 
 #### 🇹🇼 Taiwan
-[🆕 eslite spectrum, Tainan City]()
-[📚 Tainan Municipal Library]()
+[🆕 eslite spectrum, Tainan City](https://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/eslite-tainan/eslite-tainan.md)   
+[📚 Tainan Municipal Library](https://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/tainan-lib/tainan-municipal.md)
 
 --- 
 
