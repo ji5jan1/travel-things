@@ -1,5 +1,5 @@
 # eslite spectrum Tainan
-Kelly Leung | Tainan, Taiwan | June 6, 2025<br>
+Kelly Leung | Tainan, Taiwan | June 6, 2025  
 📍 No. 76, Sec. 1, Zhonghua W. Rd., South Dist., Tainan City 702
 
 - Soft opening on May 28, 2025
