@@ -11,6 +11,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels): my 2025 summer trips!
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site): my HTML site (unfinished and content might be repackaged as MD files)
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing): Great travel spot recommendations (on Google Maps)
+
 ---
 
 **歡迎光臨！**  
