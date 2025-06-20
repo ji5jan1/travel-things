@@ -20,7 +20,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 所以就來這邊啦 (｡・▿・｡)   
 
 #### 🗂️ 目錄 🗂️ 
-- 📚 [`book-observations`](https://github.com/kelly990918/travel-things/tree/main/book-observations：書店/圖書館遊蹤、書評等
+- 📚 [`book-observations`](https://github.com/kelly990918/travel-things/tree/main/book-observations)：書店/圖書館遊蹤、書評等
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels)：2025夏天遊記
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site)：未完成HTML網站（目前有計畫把內容轉為MD格式）
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing)：Google Maps 旅遊地圖
