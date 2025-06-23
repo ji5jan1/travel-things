@@ -9,7 +9,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 #### 🗂️ Directory 🗂️
 - 📚 [`book-observations`](https://github.com/kelly990918/travel-things/tree/main/book-observations/README.md): my visits to bookstores and libraries, also some book reviews and logs
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels/README.md): my 2025 summer trips!
-- 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site/README.md): my HTML site (unfinished and content might be repackaged as MD files)
+- 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site): my HTML site (unfinished and content might be repackaged as MD files)
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing): Great travel spot recommendations (on Google Maps)
 
 ---
@@ -22,7 +22,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 #### 🗂️ 目錄 🗂️ 
 - 📚 [`book-observations`](https://github.com/kelly990918/travel-things/tree/main/book-observations/README.md)：書店/圖書館遊蹤、書評等
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels/README.md)：2025夏天遊記
-- 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site/README.md)：未完成HTML網站（目前有計畫把內容轉為MD格式）
+- 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site)：未完成HTML網站（目前有計畫把內容轉為MD格式）
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing)：Google Maps 旅遊地圖
 
 
