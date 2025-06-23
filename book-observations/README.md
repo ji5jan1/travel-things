@@ -1,7 +1,8 @@
 # 📚 BOOKS 📚
 
-- **2025 book count:** 27
-- **Currently reading:** 藥師少女的獨語 14 (Apothecary Diaries 14)
+- **2025 book count:** 28
+- [**2025 Books**](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md)
+- **Currently reading:** 香港史讀本
 
 --- 
 ## ASIA
