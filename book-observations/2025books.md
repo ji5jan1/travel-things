@@ -1,4 +1,5 @@
 # 2025 Books
+I accidently deleted all my Goodreads record! The Goodreads expert said once the record are deleted, it's also deleted from their database, luckliy I had an unclosed web browser tab that I can save the record. But this is also a sign I should keep a record for myself! So here it is!
 
 ## Read Books 
 
@@ -40,16 +41,17 @@
 |   No. |                     Book Name                  |    Author    |   Purchase Place & Date   |
 |:-----:|------------------------------------------------|:------------:|:-------------------------:|
 |   #   | 香港史讀本                                       | 劉智鵬、劉蜀永 |  誠品生活台南 / Jun 19      |
+|   #   | 山海經【古版彩圖珍藏版】：一窺神祗異獸的起源，最值得典藏的上古百科全書 | 徐客 |   誠品生活台南 / Jun  6  |
+|   #   | 島讀臺灣：旅行時，到書店邂逅一本書！                 |  詹慶齡、余尚彬   |  誠品生活台南 / Jun  19  |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 10    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 11    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 12    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 13    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 14    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 15    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 16    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 17    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
+|   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 18    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
 |   #   | Remarkably Bright Creatures (B&N edition)     |Shelby Van Pelt| B&N Union Square / May 10 |
 |   #   | Why Fish Don’t Exist                           |  Lulu Miller | McNally Jackson Seaport / May 20 |
-|   #   | Why Fish Don’t Exist                           |  Lulu Miller | McNally Jackson Seaport / May 20 |
 |   #   | The Great Book of Ancient Egypt                |  Zahi Hawass |   B&N 5AV /  May 12       |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 10    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 11    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 12    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 13    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 14    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 15    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 16    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 17    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
-|   #  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 18    |日向夏（原作）、倉田三ノ路（作畫）| 博客來電子書 / May 8      |
