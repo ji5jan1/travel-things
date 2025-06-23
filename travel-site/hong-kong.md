@@ -31,3 +31,4 @@
 
 ### 🛍️ Souvenir (non-food)
 [Hong Kong Maper](https://www.hongkongmaper.org/en-tw)
+[SC Fabrics 成昌行布料](https://scfabric-diy.com/): Local-themed fabrics
