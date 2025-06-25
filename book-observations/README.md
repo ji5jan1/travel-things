@@ -1,7 +1,7 @@
 # 📚 BOOKS 📚
 
 - [2025 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md) (2025 book count: 28)
-- **Currently reading:** 香港史讀本
+- Currently reading: 香港史讀本
 
 --- 
 ## ASIA

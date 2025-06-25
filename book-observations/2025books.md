@@ -6,7 +6,7 @@ I accidently deleted all my Goodreads record! The Goodreads expert said once the
 |   No. |                   Book Name <br> 書名                 | Author <br> 作者 | Purchase Place & Date <br> 購買地點/日期 | Finish Date <br> 完讀日 |
 |:-----:|------------------------------------------------------|:----------------:|:--------------------------------------:|:----------------------:|
 |   1   | 古亭六號出口，右轉：2022／2023萬卷樓暑期實習「稿」什麼       |    林婉菁、許庭銣  |          新竹市HyRead                   |    (Unfinished) |
-|   2   | 你的名字 (Your Name.)                                  |      新海誠      |           博客來電子書 / Feb 22          |      Feb 25    |
+|   2   | 你的名字。                                  |      新海誠      |           博客來電子書 / Feb 22          |      Feb 25    |
 |   3   | 你的名字 Another Side: Earthbound                      |     加納新太     |           博客來電子書 / Feb 23          |       Mar 6     |
 |   4   | 安靜，就是力量：內向者如何發揮積極的力量！                   |     蘇珊．坎恩   |          博客來電子書 / Feb 23           |      Apr  2     |
 |   5   | 星之聲 (The Voices of a Distant Star)                  |      大場惑     |                香港HyRead               |    Apr 20       |
@@ -34,13 +34,13 @@ I accidently deleted all my Goodreads record! The Goodreads expert said once the
 |   26  | 藥師少女的獨語 12（輕小說）                               |      日向夏     |         博客來電子書 / Apr 26     |        Jun 18   |
 |   27  | 藥師少女的獨語 13（輕小說）                               |      日向夏     |         博客來電子書 / Apr 26     |        Jun 19   |
 |   28  | 藥師少女的獨語 14（輕小說）                               |      日向夏     |         博客來電子書 / Apr 26     |        Jun 23   |
+|   29  | 香港史讀本                                             |  劉智鵬、劉蜀永   |    誠品生活台南 / Jun 19          |        Jun 25   |
 
 
 
 ## Reading / To Be Read
 |   No. |                   Book Name <br> 書名                 | Author <br> 作者 | Purchase Place & Date <br> 購買地點/日期 |
 |:-----:|------------------------------------------------------|:----------------:|:--------------------------------------:|
-|   #   | 香港史讀本                                             |  劉智鵬、劉蜀永   |           誠品生活台南 / Jun 19           |
 |   #   | 山海經【古版彩圖珍藏版】：一窺神祗異獸的起源，最值得典藏的上古百科全書 |     徐客    |            誠品生活台南 / Jun  6         |
 |   #   | 島讀臺灣：旅行時，到書店邂逅一本書！                       |  詹慶齡、余尚彬   |              誠品生活台南 / Jun  19       |
 |   #   | 香港歷史散步                                           |      丁新豹      |             博客來電子書 / Jun 25         |
