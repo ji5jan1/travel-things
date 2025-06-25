@@ -50,12 +50,12 @@ But I saw quite a lot of translated books, and for most of them, they are in har
 ---
 
 ## 🐉 The Empyrean Series 🐉
-The Empyrean series seems to do very well in Japan! _Fourth Wing_ has got the first place in translated fiction awards, and they got a lot of shelf space in all of the stores I visited.  
 ![Japanese version of Iron Flame](/book-observations/japan/umeda/empyrean1.svg "Iron Flame in Japanese")  
+The Empyrean series seems to do very well in Japan! _Fourth Wing_ has got the first place in translated fiction awards, and they got a lot of shelf space in all of the stores I visited.  
 
 ![Illustration for the book](/book-observations/japan/umeda/empyrean2.svg "Illustration by Japanese artist")   
 ![Empyrean Leaflet](/book-observations/japan/umeda/empyrean-leaflet.svg)  
-Illustration by Japanese artist
+Illustration by Japanese artist, and the free leaflet taken from a bookstore.
 
 ![Iron Flame in 2 volumes](/book-observations/japan/umeda/iron-flame.svg "2 volumeso of Iron Flame")  
 They separated Iron Flame into 2 books, probably because it'd be too thick after translation! (the book is small)
