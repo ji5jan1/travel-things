@@ -30,10 +30,9 @@ Of course, there are the reusable ones. People would buy or make their own leath
 ## Fiction
 
 ### Bunkos（文庫）
-![Apothecary Diaries 6](/book-observations/japan/umeda/apothecary-diaries.jpeg "Apothecary Diaries #6")  
+![Fiction shelves](/book-observations/japan/umeda/bunko.svg)  
 Look at the size of the fiction books—they are small as pocket books! The Japanese literature books are usually in fixed size (around A6 size). They are stacked tightly on the bookshelves, and are organized based on the authors.
 
-![Fiction shelves](/book-observations/japan/umeda/bunko.svg)  
 The bigger bunkos (imprints) have their own book shelves in bookstores, and each bunko has their exclusive book spine design style, so it's easy to distinguish books from different imprints from the spines!
 
 ### Bunko Catalog
@@ -43,7 +42,7 @@ Next to the shelves I saw a mini book hanged—they are the book catalog publish
 ---
 
 ### Where are the English books?
-![Fiction in English](/book-observations/japan/umeda/english-fiction.jpeg "Fiction in English")   
+![Fiction in English](/book-observations/japan/umeda/english-fiction.svg "Fiction in English")   
 I had a hard time looking for the English shelf in the bookstores, as they are all in the corners. The English fiction books that they import (as I observed) are all paperbacks, and there are not much choice for them. Also the paperback edition they import don't have sprayed edges!
 
 But I saw quite a lot of translated books, and for most of them, they are in hard covers. In Japan there are fewer proficient English speakers, even people working in tourist areas. I guess this is because their own market is strong enough that they don't have to depend on the foreign market, so learning a foreign language is not necessary for them.
@@ -52,15 +51,16 @@ But I saw quite a lot of translated books, and for most of them, they are in har
 
 ## 🐉 The Empyrean Series 🐉
 The Empyrean series seems to do very well in Japan! _Fourth Wing_ has got the first place in translated fiction awards, and they got a lot of shelf space in all of the stores I visited.  
-![Japanese version of Iron Flame](/book-observations/japan/umeda/empyrean1.jpeg "Iron Flame in Japanese")  
+![Japanese version of Iron Flame](/book-observations/japan/umeda/empyrean1.svg "Iron Flame in Japanese")  
 
-![Illustration for the book](/book-observations/japan/umeda/empyrean2.jpeg "Illustration by Japanese artist")  
+![Illustration for the book](/book-observations/japan/umeda/empyrean2.svg "Illustration by Japanese artist")  
+![Empyrean Leaflet](/book-observations/japan/umeda/empyrean-leaflet.svg)
 Illustration by Japanese artist
 
-![Iron Flame in 2 volumes](/book-observations/japan/umeda/iron-flame.jpeg "2 volumeso of Iron Flame")  
+![Iron Flame in 2 volumes](/book-observations/japan/umeda/iron-flame.svg "2 volumeso of Iron Flame")  
 They separated Iron Flame into 2 books, probably because it'd be too thick after translation! (the book is small)
 
-![The English Empyrean series](/book-observations/japan/umeda/empyrean-eng.jpeg "English Empyrean series")  
+![The English Empyrean series](/book-observations/japan/umeda/empyrean-eng.svg "English Empyrean series")  
 The bookstores also imported the English version, but I could only see paperback version and without the sprayed edges.
 
 ---
@@ -68,24 +68,23 @@ The bookstores also imported the English version, but I could only see paperback
 ## Nonfiction
 
 ### English vocab with Kuromi 😈
-![Kuromi-themed junior high English vocab book](/book-observations/japan/umeda/english-kuromi.jpeg "Vocab with Kuromi")
+![Kuromi-themed junior high English vocab book](/book-observations/japan/umeda/kuromi.svg "Vocab with Kuromi")
 This is a Japanese junior high level English vocab book. I guess the character makes language learning more interesting?
 
 ---
 
 ### Red Books（赤本）
-![Red books](/book-observations/japan/umeda/red-books.jpeg "Red books")
+![Red books](/book-observations/japan/umeda/red-book.svg "Red books")
 The "red books" are the past papers for university entrance exams. Each book represent one major in a university in Japan. What a stressful shelf of books.
 
 ---
 
 ### _Why Fish Don't Exist_ by Lulu Miller
-![Why Fish Don't Exist, Japanese translated version](/book-observations/japan/umeda/fish2.jpeg)  
-![Why Fish Don't Exist, Japanese translated version](/book-observations/japan/umeda/fish.jpeg)   
+![Why Fish Don't Exist, Japanese translated version](/book-observations/japan/umeda/fish.svg)
 This book deserves it's own corner. Rare stuff. It's the only Japanese (translated) book with such a fancy book cover and sprayed edges. Yes, that's the only book I found.
 
 ---
 
 ### Expo 2025 Osaka
-![Expo 2025 Osaka-themed books](/book-observations/japan/umeda/expo.jpeg)  
+![Expo 2025 Osaka-themed books](/book-observations/japan/umeda/expo.svg)  
 In every bookstore, I saw a shelf/ desk near the entrance that's devoted to the Expo-themed books. The magazine-sized ones are the (non)official guidebooks for visitors in Osaka that are visiting the Expo. On the same desk also displays [_やぶれかぶれ青春記・大阪万博奮闘記_](https://bookmeter.com/books/13124823), which seems to be a memorial of the 1970 Expo that was also held in Osaka.
