@@ -1,9 +1,9 @@
 # 薬屋のひとりごと | Apothecary Diaries
 ![Banner Image](/book-observations/japan/apothecary/banner-image.jpg "Banner Image from https://img.youtube.com/vi/6RWa03RbyOM/maxresdefault.jpg")
 
-[Official Site](https://kusuriyanohitorigoto.jp/)  
-[Official X](https://x.com/kusuriya_PR)   
-[Official TikTok](https://www.tiktok.com/@kusuriya_pr)
+- [Official Site](https://kusuriyanohitorigoto.jp/)  
+- [Official 𝕏](https://x.com/kusuriya_PR)   
+- [Official TikTok](https://www.tiktok.com/@kusuriya_pr)
 
 **Author:** 日向夏 (Natsu Hyuuga)   
 [Author Homepage](https://mypage.syosetu.com/183213/)
@@ -43,8 +43,8 @@
 <!-- Anime -->
 ### TV Anime Series
 
-[🎥 Streaming site](https://kusuriyanohitorigoto.jp/streaming/)   
-[🎵 Spotify Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu?go=1&sp_cid=68563ed6a183f432ff9c5a658f7bd6a2&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=fc8bce6aa1f44ba6)
+🎥 [Streaming site](https://kusuriyanohitorigoto.jp/streaming/)   
+🎵 [Spotify Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu?go=1&sp_cid=68563ed6a183f432ff9c5a658f7bd6a2&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=fc8bce6aa1f44ba6)
 
 |   | Season 1 | Season 2 |
 | :----: | ---- | ---- |
@@ -77,7 +77,7 @@
 ---
 
 ### Events 
-[🌐 Event page](https://kusuriyanohitorigoto.jp/event/)
+🌐 [Event page](https://kusuriyanohitorigoto.jp/event/)
 
 - [Pop Up Store in Marui](https://kusuriyanohitorigoto.jp/event/tv%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8e%e8%96%ac%e5%b1%8b%e3%81%ae%e3%81%b2%e3%81%a8%e3%82%8a%e3%81%94%e3%81%a8%e3%80%8f-popupshop-in-%e3%83%9e%e3%83%ab%e3%82%a4vol-2%e3%80%80%e9%96%8b%e5%82%ac/)
 Kobe: 7/4-7/13/2025
