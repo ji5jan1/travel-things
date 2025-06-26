@@ -19,7 +19,8 @@
 
 
 ### 🇭🇰 <u>Hong Kong<u>
-📝 [書評：香港史讀本](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%A6%99%E6%B8%AF%E5%8F%B2%E8%AE%80%E6%9C%AC.md)
+📝 [書評：香港史讀本](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%A6%99%E6%B8%AF%E5%8F%B2%E8%AE%80%E6%9C%AC.md)   
+🔜 [Hong Kong Book Fair | 香港書展](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/bookfair-2025/hkbookfair25.md)—July 17-23, 2025   
 
 ---
 
