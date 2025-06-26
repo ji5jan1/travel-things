@@ -1,6 +1,6 @@
 # 📚 BOOKS 📚
 
-- [2025 book count: 30](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md)
+- [2025 book count:](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md) 30
 - Currently reading: 香港歷史散步 —— 丁新豹著
 
 --- 
