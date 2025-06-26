@@ -21,6 +21,7 @@
 ## 🎪 Events
 - [Xplore Hong Kong](https://www.xplorehk.com/)
 - [Hong Kong Tourism Board](https://www.discoverhongkong.com/us/what-s-new/events.html)
+- [Lonely Planet](https://www.lonelyplanet.com/destinations/china/hong-kong)
 
 ---
 
