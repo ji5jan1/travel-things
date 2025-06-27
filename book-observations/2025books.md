@@ -1,5 +1,7 @@
 # 2025 Books
-I accidently deleted all my Goodreads record! The Goodreads expert said once the record are deleted, it's also deleted from their database, luckliy I had an unclosed web browser tab that I can save the record. But this is also a sign I should keep a record for myself! So here it is!
+_Why this list?_
+- I accidently deleted all the book record on Goodreads. The Goodread Expert said once the data's deleted, it's lost forever. Luckily I have an unclosed tab that saved the day.
+- They don't include all the Chinese books I read—after all it's an Amazon app and I can't import book links from other platforms!
 
 ## Read Books 
 
