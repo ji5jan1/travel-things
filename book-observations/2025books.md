@@ -44,7 +44,7 @@ I accidently deleted all my Goodreads record! The Goodreads expert said once the
 |:-----:|------------------------------------------------------|:----------------:|:--------------------------------------:|
 |   #   | 山海經【古版彩圖珍藏版】：一窺神祗異獸的起源，最值得典藏的上古百科全書 |     徐客    |            誠品生活台南 / Jun  6         |
 |   #   | 島讀臺灣：旅行時，到書店邂逅一本書！                       |  詹慶齡、余尚彬   |              誠品生活台南 / Jun  19       |
-|   #   | 香港歷史散步                                           |      丁新豹      |             博客來電子書 / Jun 25         |
+|   #   | 香港歷史散步（增訂版）                                   |      丁新豹      |             博客來電子書 / Jun 25         |
 |   #   | 香港鐵路百年蛻變（第三版）                                |   陳志華、李健信  |             博客來電子書 / Jun 25         |
 |   #   | 也斯的香港故事：文學史論述研究                            |      王家琪      |             博客來電子書 / Jun 25         |
 |   #   | 香港日記                                              |      彭定康      |             博客來電子書 / Jun 25         |
@@ -66,4 +66,4 @@ I accidently deleted all my Goodreads record! The Goodreads expert said once the
 |   #   | Why Fish Don’t Exist                                 |  Lulu Miller    |        McNally Jackson Seaport / May 20 |
 |   #   | The Great Book of Ancient Egypt                      |  Zahi Hawass    |         B&N 5AV /  May 12               |
 
-Last update: June 25, 2025
+Last update: June 27, 2025
