@@ -62,9 +62,10 @@
 ---
 
 ### Brand Collaborations
+- [AVOIT](https://www.youtube.com/watch?v=e4JonOGp6kQ) — special package/ bluetooth earbud design
 - [Universal Studios Japan](https://www.usj.co.jp/web/en/us/events/universal-cool-japan-2025/kusuriyanohitorigoto) — Mystery Walk
 - [Universal Studios Japan](https://kusuriyanohitorigoto.jp/news/1582/) — special meal
-- [Natslife Cafe 薬屋祭 vol.2 (Tokyo, Osaka, Nagoya) ](https://cafe.natslive.jp/collabo75) (7/4-27/7/2025) – special meal and merch
+- [Natslife Cafe 薬屋祭 vol.2](https://cafe.natslive.jp/collabo75) (7/4-27/7/2025) – special meal and merch (Tokyo, Osaka, Nagoya) 
 - [Monster Strike](https://www.monster-strike.com/news/20250612_1.html) (mobile game)
 - [Meishoku Bigansui](https://www.meishoku.co.jp/bigan/kusuriyanohitorigoto/) (skin toner)
 - [極楽湯・RAKU SPA](https://rakuspa.com/kusuriyanohitorigoto/) (5/22-6/17/2025)
