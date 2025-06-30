@@ -25,6 +25,10 @@ Hope you'll enjoy my content~ (✿´‿`)
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site)：未完成HTML網站（目前有計畫把內容轉為MD格式）
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing)：Google Maps 旅遊地圖
 
+---
 
+### Author
+Kelly Leung, MS in Publishing, School of Professional Studies, New York University
 
+---
 _inspired by_ [_HowToCook_](https://github.com/Anduin2017/HowToCook)
