@@ -62,8 +62,8 @@
 ---
 
 ### Brand Collaborations
-- [AVOIT](https://www.youtube.com/watch?v=e4JonOGp6kQ) — special package/ bluetooth earbud design
-- [Universal Studios Japan](https://www.usj.co.jp/web/en/us/events/universal-cool-japan-2025/kusuriyanohitorigoto) — Mystery Walk
+- [AVIOT TE-Q3-KSR](https://www.youtube.com/watch?v=e4JonOGp6kQ) — special package/ bluetooth earbud design
+- [Universal Studios Japan](https://www.usj.co.jp/web/en/us/events/universal-cool-japan-2025/kusuriyanohitorigoto) — Mystery Walk <br> [Special Video 1](https://www.youtube.com/watch?v=tbQCto5ILoU&t=122s) [Special Video 2](https://www.youtube.com/watch?v=yYU9_O9K_94)
 - [Universal Studios Japan](https://kusuriyanohitorigoto.jp/news/1582/) — special meal
 - [Natslife Cafe 薬屋祭 vol.2](https://cafe.natslive.jp/collabo75) (7/4-27/7/2025) – special meal and merch (Tokyo, Osaka, Nagoya) 
 - [Monster Strike](https://www.monster-strike.com/news/20250612_1.html) (mobile game)
