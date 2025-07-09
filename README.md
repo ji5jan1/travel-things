@@ -30,7 +30,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 ---
 
 ### Author
-Kelly Leung, MS in Publishing, School of Professional Studies, New York University
+Kelly Leung, M.A. (CUHK), M.S. Publishing Candidate (NYU)
 
 ---
 _inspired by_ [_HowToCook_](https://github.com/Anduin2017/HowToCook)
