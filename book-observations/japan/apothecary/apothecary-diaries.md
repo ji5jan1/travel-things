@@ -19,8 +19,7 @@
 - **October 27, 2011:** Self-published on online platform 小説家になろう (Shōsetsuka ni Narō/成為小說家吧)
 - **September 26, 2012:** Acquired by 株式会社主婦の友社 (Shufunotomo), single volume novel through Ray Books
 - **August 29, 2014:** Light novel series (illustrated by 筱冬子 Touko Shino)
-    - 🇯🇵 **Japanese imprint:** [ヒーロー文庫](https://herobunko.com/special/kusuriya/) (Hero Bunko/英雄文庫) <br> 16 volumes (Vol. 16 released on May 30, 2025)
-    🌟 Bestseller (Vol. 16): [ORICON](https://www.oricon.co.jp/rank/obb/w/2025-06-16/) (week 6/2-6/8/2025)
+    - 🇯🇵 **Japanese imprint:** [ヒーロー文庫](https://herobunko.com/special/kusuriya/) (Hero Bunko/英雄文庫) <br> 16 volumes (Vol. 16 released on May 30, 2025) <br> 🌟 Bestseller (Vol. 16): [ORICON](https://www.oricon.co.jp/rank/obb/w/2025-06-16/) (week 6/2-6/8/2025)
     - 🇺🇸 **North America rights:** J-Novel Club (digital), Square Enix (print) <br> 15 volumes (Vol. 15 to be released on September 12, 2025)
     - 🇹🇼 **Traditional Chinese rights:** 台灣角川 (Kadokawa Taiwan) <br> 14 volumes (Vol. 14 released on December 6, 2024)
     - 🇨🇳 **Simplified Chinese rights:** Bilibili Comics (digital)
