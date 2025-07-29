@@ -49,6 +49,7 @@
 - 🍜 [Wing Lok Noodle 永樂粉麵廠](https://www.wingloknoodle.com/)
 
 # 🛍️ Souvenir (non-food)
-- [Hong Kong Maper](https://www.hongkongmaper.org/en-tw)
-- [SC Fabrics 成昌行布料](https://scfabric-diy.com/): Local-themed fabrics  
-- [Nardos Vintage Leather](https://nardos-vintage.myshopify.com/): Vintage HK-themed leather products
+- 🗺️ [Hong Kong Maper](https://www.hongkongmaper.org/en-tw)
+- 🧵 [SC Fabrics 成昌行布料](https://scfabric-diy.com/): Local-themed fabrics  
+- 💼 [Nardos Vintage Leather](https://nardos-vintage.myshopify.com/): Vintage HK-themed leather products
+- 🧦 [Pair Pair Full](https://pairpairfull.com/collections/pair-pair-full-hong-kong-collection): Hong Kong-themed socks
