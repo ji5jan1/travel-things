@@ -100,7 +100,7 @@ Fukoka: 10/11-10/20/2024
 
 ---
 
-### Awards
+### 🏆 Awards 👏🏻
 _(not all included... I can't read Japanese to extract the right data...)_
 - [MANGA WE WANT TO SEE ANIMATED RANKING 2019](https://www.anime-japan.jp/2019/en/main/ajranking/) #19
 - [MANGA WE WANT TO SEE ANIMATED RANKING 2020](https://www.anime-japan.jp/2020/en/main/ajranking/) #9
