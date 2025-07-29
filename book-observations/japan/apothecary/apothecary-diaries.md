@@ -36,8 +36,8 @@
 | **Illustrator** | [Nekokurage](https://x.com/nekokurage_) <br> 貓海月（ねこクラゲ）| Minoji Kurata <br> 倉田三之路（倉田三ノ路）| Itsuki Nanao |
 | **Magazine (imprint)** |  Monthly Big Gangan (月刊BIG GANGAN) by Square Enix | Monthly Sunday Gene-X (月刊Sunday Gene-X) by Shogakukan (小學館) | Manga Up! by Square Enix |
 | **Publisher** | 🇯🇵🇺🇸 Square Enix <br> 🇹🇼 東立出版社有限公司 (Tong Li Publishing Co.) <br> 🇨🇳 天聞角川（代理）湖南美術出版社（出版）| 🇯🇵Shogakukan <br> SEA: Shogakukan Asia <br> 🇹🇼 長鴻出版社股份有限公司Ever Glory Publishing Co., Ltd. | 🇯🇵 Square Enix |
-| **Volumes** | 🇯🇵 15 (Mar 25) <br> 🇹🇼 14 (Feb 25) <br> 🇨🇳 8 (May 24) | 🇯🇵 20 (May ’25) <br> 🇹🇼 18 (Dec ’24) |  |
-| **Purchase Links** | | | [Amazon](https://www.amazon.co.jp/-/zh/dp/B0FBQSXNYX?binding=kindle_edition&ref_=saga_dp_ss_dsk_sdp) <br> [cmoa](https://www.cmoa.jp/title/324182/)|
+| **Volumes** | 🇯🇵 15 (Mar 25) <br> 🇹🇼 14 (Feb 25) <br> 🇨🇳 8 (May 24) | 🇯🇵 20 (May 19, 2025) <br> 🇹🇼 18 (Dec ’24) |  |
+| **Purchase Links** | [Square Enix](https://magazine.jp.square-enix.com/biggangan/introduction/kusuriya/) | [Amazon Kindle](https://www.amazon.co.jp/dp/B07JPCKHDD) <br> [Shogakukan](https://www.shogakukan.co.jp/books/volume/46804) | [Amazon](https://www.amazon.co.jp/-/zh/dp/B0FBQSXNYX?binding=kindle_edition&ref_=saga_dp_ss_dsk_sdp) <br> [cmoa](https://www.cmoa.jp/title/324182/)|
 
 ---
 
