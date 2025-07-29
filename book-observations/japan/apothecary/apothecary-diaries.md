@@ -12,7 +12,8 @@
 
 **Book sales:** over 40M copies ([news coverage](https://gamebiz.jp/news/401637))
 
-**Overview:** The _Apothecary Diaries_ is a historical mystery series set in a fictional empire modeled after Imperial China. The story centers on Maomao, a 17-year-old apothecary raised by her father, Luomen, in a red-light district. Kidnapped and sold into servitude at the emperor’s rear palace (hougong), a complex housing the emperor’s consorts and servants, Maomao uses her wit, medical expertise, and curiosity to solve medical and political mysteries. Her interactions with Jinshi, a high-ranking eunuch with hidden depths, drive much of the narrative, blending palace intrigue, character-driven drama, and a touch of romance. (by Grok)
+**Overview:** The _Apothecary Diaries_ is a historical mystery series set in a fictional empire modeled after Imperial China. The story centers on Maomao, a 17-year-old apothecary raised by her father, Luomen, in a red-light district. Kidnapped and sold into servitude at the emperor’s rear palace (hougong), a complex housing the emperor’s consorts and servants, Maomao uses her wit, medical expertise, and curiosity to solve medical and political mysteries. Her interactions with Jinshi, a high-ranking eunuch with hidden depths, drive much of the narrative, blending palace intrigue, character-driven drama, and a touch of romance.       
+(text written by Grok)
 
 ## From web novel to fracnchise
 ### **Timeline**
