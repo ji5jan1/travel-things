@@ -44,8 +44,9 @@
 
 <!-- Anime -->
 ### 📺 TV Anime Series 💃🏻
-🎥 [Streaming site](https://kusuriyanohitorigoto.jp/streaming/)   
-🎵 [Spotify Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu?go=1&sp_cid=68563ed6a183f432ff9c5a658f7bd6a2&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=fc8bce6aa1f44ba6)
+🎥 [Stream Online](https://kusuriyanohitorigoto.jp/streaming/)   
+🎵 [Spotify Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu?go=1&sp_cid=68563ed6a183f432ff9c5a658f7bd6a2&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=fc8bce6aa1f44ba6)     
+🗣️ [Spotify Podcast](https://open.spotify.com/show/0dADgAeZcoNBzaFL53r8rp)
 
 |   | Season 1 | Season 2 |
 | :----: | ---- | ---- |
@@ -59,6 +60,7 @@
 
 ---
 
+<!-- Game -->
 ### 🆕 Mobile Game 🆕
 #### 薬屋のひとりごと 後宮異聞録 Kusuriya no Hitorigoto: Kokyu Ibunroku
 ![Game poster](/book-observations/japan/apothecary/game.jpeg)
@@ -69,6 +71,7 @@
 
 ---
 
+<!-- Collab -->
 ### 🤝🏻 Brand Collaborations 💈
 - [Tamanohikari 玉乃光](https://ec.tamanohikari.co.jp/collections/kusuriya) JR東海 ×『薬屋のひとりごと』　「猫猫、壬氏の京都たび」コラボ — Biscuits, special sake bottle
 - [AVIOT TE-Q3-KSR](https://www.youtube.com/watch?v=e4JonOGp6kQ) — special package/ bluetooth earbud design
@@ -85,7 +88,7 @@
   - exclusive anime content
 
 ---
-
+<!-- Events -->
 ### 📆 Events 🎪
 🌐 [Event page](https://kusuriyanohitorigoto.jp/event/)
 
@@ -99,7 +102,7 @@ Tokyo: 8/30-23/9/2024
 Fukoka: 10/11-10/20/2024
 
 ---
-
+<!-- Awards -->
 ### 🏆 Awards 👏🏻
 _(not all included... I can't read Japanese to extract the right data...)_
 - [MANGA WE WANT TO SEE ANIMATED RANKING 2019](https://www.anime-japan.jp/2019/en/main/ajranking/) #19
