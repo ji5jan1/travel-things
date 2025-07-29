@@ -61,7 +61,17 @@
 
 ---
 
+### Mobile Game
+**薬屋のひとりごと 後宮異聞録 Kusuriya no Hitorigoto: Kokyu Ibunroku**
+![Game poster](/book-observations/japan/apothecary/game.jpeg)
+- 🌟[Pre-registration Event](https://g123.jp/game/kusuriya?platform=pr&utm_source=Influencer&utm_campaign=kusuriya_ja_anime_Influencer_all&utm_adgroup=anime&lang=ja&shortUrl=86yr9igd)🌟
+- [Official X](https://x.com/kusuriya_ki_ja)
+- [Official Line](https://page.line.me/981dvurl?oat_content=url&openQrModal=true)
+
+---
+
 ### Brand Collaborations
+- [Tamanohikari 玉乃光](https://ec.tamanohikari.co.jp/collections/kusuriya) JR東海×『薬屋のひとりごと』　「猫猫、壬氏の京都たび」コラボ — Biscuits, special sake bottle
 - [AVIOT TE-Q3-KSR](https://www.youtube.com/watch?v=e4JonOGp6kQ) — special package/ bluetooth earbud design
 - [Universal Studios Japan](https://www.usj.co.jp/web/en/us/events/universal-cool-japan-2025/kusuriyanohitorigoto) — Mystery Walk <br> [Special Video 1](https://www.youtube.com/watch?v=tbQCto5ILoU&t=122s) [Special Video 2](https://www.youtube.com/watch?v=yYU9_O9K_94)
 - [Universal Studios Japan](https://kusuriyanohitorigoto.jp/news/1582/) — special meal
@@ -97,3 +107,7 @@ _(not all included... I can't read Japanese to extract the right data...)_
 - [MANGA WE WANT TO SEE ANIMATED RANKING 2020](https://www.anime-japan.jp/2020/en/main/ajranking/) #9
 - [MANGA WE WANT TO SEE ANIMATED RANKING 2022](https://www.anime-japan.jp/2021/en/main/ajranking/) #10
 - [Next Manga Award 2019 (Big Gangan ver.)](https://web.archive.org/web/20191201152653/https://tsugimanga.jp/winner2019-comics.html) #1
+
+---
+
+Last Update: July 2, 2025
