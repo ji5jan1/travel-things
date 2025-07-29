@@ -4,6 +4,7 @@
 - [Official Site](https://kusuriyanohitorigoto.jp/)  
 - [Official 𝕏](https://x.com/kusuriya_PR)   
 - [Official TikTok](https://www.tiktok.com/@kusuriya_pr)
+- [Merchandise Info](https://kusuriyanohitorigoto.jp/goods/)
 
 **Author:** 日向夏 (Natsu Hyuuga)   
 [Author Homepage](https://mypage.syosetu.com/183213/)
@@ -15,8 +16,8 @@
 **Overview:** The _Apothecary Diaries_ is a historical mystery series set in a fictional empire modeled after Imperial China. The story centers on Maomao, a 17-year-old apothecary raised by her father, Luomen, in a red-light district. Kidnapped and sold into servitude at the emperor’s rear palace (hougong), a complex housing the emperor’s consorts and servants, Maomao uses her wit, medical expertise, and curiosity to solve medical and political mysteries. Her interactions with Jinshi, a high-ranking eunuch with hidden depths, drive much of the narrative, blending palace intrigue, character-driven drama, and a touch of romance.       
 (text written by Grok)
 
-## From web novel to fracnchise
-### **Timeline**
+## From web novel to fracnchise 🚀
+### 📕 Novel 📝
 - **October 27, 2011:** Self-published on online platform 小説家になろう (Shōsetsuka ni Narō/成為小說家吧)
 - **September 26, 2012:** Acquired by 株式会社主婦の友社 (Shufunotomo), single volume novel through Ray Books
 - **August 29, 2014:** Light novel series (illustrated by 筱冬子 Touko Shino)
@@ -28,23 +29,24 @@
 --- 
 
 <!-- Manga -->
-### Manga Series
+### 📕 Manga Series 🎨
 
-|  | _薬屋のひとりごと <br> The Apothecary Diaries_ | _薬屋のひとりごと 猫猫の後宮謎解き手帳 <br> The Apothecary Diaries: Maomao's Notes from the Inner Palace_ | _薬屋のひとりごと外伝 小蘭回想録 <br> Gaiden: Xiaolan Kaisōroku_ |
+|  | _薬屋のひとりごと <br> The Apothecary Diaries_ | _薬屋のひとりごと ～猫猫の後宮謎解き手帳～ <br> The Apothecary Diaries: Maomao's Notes from the Inner Palace_ | _薬屋のひとりごと外伝 小蘭回想録 <br> Gaiden: Xiaolan Kaisōroku_ |
 | :----: | ---- | ---- | ---- |
 | **Publish Date** | 5/29/2017 - present | 8/19/2017 - present | 3/23/2025 - present |
 | **Illustrator** | [Nekokurage](https://x.com/nekokurage_) <br> 貓海月（ねこクラゲ）| Minoji Kurata <br> 倉田三之路（倉田三ノ路）| Itsuki Nanao |
 | **Magazine (imprint)** |  Monthly Big Gangan (月刊BIG GANGAN) by Square Enix | Monthly Sunday Gene-X (月刊Sunday Gene-X) by Shogakukan (小學館) | Manga Up! by Square Enix |
 | **Publisher** | 🇯🇵🇺🇸 Square Enix <br> 🇹🇼 東立出版社有限公司 (Tong Li Publishing Co.) <br> 🇨🇳 天聞角川（代理）湖南美術出版社（出版）| 🇯🇵Shogakukan <br> SEA: Shogakukan Asia <br> 🇹🇼 長鴻出版社股份有限公司Ever Glory Publishing Co., Ltd. | 🇯🇵 Square Enix |
-| **Volumes** | 🇯🇵 15 (Mar 25) <br> 🇹🇼 14 (Feb 25) <br> 🇨🇳 8 (May 24) | 🇯🇵 20 (May ’25) <br> 🇹🇼 18 (Dec ’24) |  |
+| **Volumes** | 🇯🇵 15 (Mar 25) <br> 🇹🇼 14 (Feb 25) <br> 🇨🇳 8 (May 24) | 🇯🇵 20 (May 19, 2025) <br> 🇹🇼 18 (Dec ’24) |  |
+| **Purchase Links** | [Square Enix](https://magazine.jp.square-enix.com/biggangan/introduction/kusuriya/) | [Amazon Kindle](https://www.amazon.co.jp/dp/B07JPCKHDD) <br> [Shogakukan](https://www.shogakukan.co.jp/books/volume/46804) | [Amazon](https://www.amazon.co.jp/-/zh/dp/B0FBQSXNYX?binding=kindle_edition&ref_=saga_dp_ss_dsk_sdp) <br> [cmoa](https://www.cmoa.jp/title/324182/)|
 
 ---
 
 <!-- Anime -->
-### TV Anime Series
-
-🎥 [Streaming site](https://kusuriyanohitorigoto.jp/streaming/)   
-🎵 [Spotify Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu?go=1&sp_cid=68563ed6a183f432ff9c5a658f7bd6a2&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=fc8bce6aa1f44ba6)
+### 📺 TV Anime Series 💃🏻
+🎥 [Stream Online](https://kusuriyanohitorigoto.jp/streaming/)   
+🎵 [Spotify Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu?go=1&sp_cid=68563ed6a183f432ff9c5a658f7bd6a2&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=fc8bce6aa1f44ba6)     
+🗣️ [Spotify Podcast](https://open.spotify.com/show/0dADgAeZcoNBzaFL53r8rp)
 
 |   | Season 1 | Season 2 |
 | :----: | ---- | ---- |
@@ -56,22 +58,22 @@
 | **TV Network** | NNS (Nippon TV) | NNS (Nippon TV) |
 | **License** | Netflix, Crunchyroll | Netflix |
 
-- **Merch/ collectibles**   
-[Goods page](https://kusuriyanohitorigoto.jp/goods/)
-
 ---
 
-### Mobile Game
-**薬屋のひとりごと 後宮異聞録 Kusuriya no Hitorigoto: Kokyu Ibunroku**
+<!-- Game -->
+### 🆕 Mobile Game 🆕
+#### 薬屋のひとりごと 後宮異聞録 Kusuriya no Hitorigoto: Kokyu Ibunroku
 ![Game poster](/book-observations/japan/apothecary/game.jpeg)
+***!!Announced on July 30, 2025!!***
 - 🌟 [Pre-registration Event](https://g123.jp/game/kusuriya?platform=pr&utm_source=Influencer&utm_campaign=kusuriya_ja_anime_Influencer_all&utm_adgroup=anime&lang=ja&shortUrl=86yr9igd) 🌟
-- [Official X](https://x.com/kusuriya_ki_ja)
+- [Official 𝕏](https://x.com/kusuriya_ki_ja)
 - [Official Line](https://page.line.me/981dvurl?oat_content=url&openQrModal=true)
 
 ---
 
-### Brand Collaborations
-- [Tamanohikari 玉乃光](https://ec.tamanohikari.co.jp/collections/kusuriya) JR東海×『薬屋のひとりごと』　「猫猫、壬氏の京都たび」コラボ — Biscuits, special sake bottle
+<!-- Collab -->
+### 🤝🏻 Brand Collaborations 💈
+- [Tamanohikari 玉乃光](https://ec.tamanohikari.co.jp/collections/kusuriya) JR東海 ×『薬屋のひとりごと』　「猫猫、壬氏の京都たび」コラボ — Biscuits, special sake bottle
 - [AVIOT TE-Q3-KSR](https://www.youtube.com/watch?v=e4JonOGp6kQ) — special package/ bluetooth earbud design
 - [Universal Studios Japan](https://www.usj.co.jp/web/en/us/events/universal-cool-japan-2025/kusuriyanohitorigoto) — Mystery Walk <br> [Special Video 1](https://www.youtube.com/watch?v=tbQCto5ILoU&t=122s) [Special Video 2](https://www.youtube.com/watch?v=yYU9_O9K_94)
 - [Universal Studios Japan](https://kusuriyanohitorigoto.jp/news/1582/) — special meal
@@ -86,8 +88,8 @@
   - exclusive anime content
 
 ---
-
-### Events 
+<!-- Events -->
+### 📆 Events 🎪
 🌐 [Event page](https://kusuriyanohitorigoto.jp/event/)
 
 - [Pop Up Store in Marui](https://kusuriyanohitorigoto.jp/event/tv%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8e%e8%96%ac%e5%b1%8b%e3%81%ae%e3%81%b2%e3%81%a8%e3%82%8a%e3%81%94%e3%81%a8%e3%80%8f-popupshop-in-%e3%83%9e%e3%83%ab%e3%82%a4vol-2%e3%80%80%e9%96%8b%e5%82%ac/)
@@ -100,8 +102,8 @@ Tokyo: 8/30-23/9/2024
 Fukoka: 10/11-10/20/2024
 
 ---
-
-### Awards
+<!-- Awards -->
+### 🏆 Awards 👏🏻
 _(not all included... I can't read Japanese to extract the right data...)_
 - [MANGA WE WANT TO SEE ANIMATED RANKING 2019](https://www.anime-japan.jp/2019/en/main/ajranking/) #19
 - [MANGA WE WANT TO SEE ANIMATED RANKING 2020](https://www.anime-japan.jp/2020/en/main/ajranking/) #9
