@@ -64,7 +64,7 @@
 ### Mobile Game
 **薬屋のひとりごと 後宮異聞録 Kusuriya no Hitorigoto: Kokyu Ibunroku**
 ![Game poster](/book-observations/japan/apothecary/game.jpeg)
-- 🌟[Pre-registration Event](https://g123.jp/game/kusuriya?platform=pr&utm_source=Influencer&utm_campaign=kusuriya_ja_anime_Influencer_all&utm_adgroup=anime&lang=ja&shortUrl=86yr9igd)🌟
+- 🌟 [Pre-registration Event](https://g123.jp/game/kusuriya?platform=pr&utm_source=Influencer&utm_campaign=kusuriya_ja_anime_Influencer_all&utm_adgroup=anime&lang=ja&shortUrl=86yr9igd) 🌟
 - [Official X](https://x.com/kusuriya_ki_ja)
 - [Official Line](https://page.line.me/981dvurl?oat_content=url&openQrModal=true)
 
@@ -110,4 +110,4 @@ _(not all included... I can't read Japanese to extract the right data...)_
 
 ---
 
-Last Update: July 2, 2025
+Last Update: July 30, 2025
