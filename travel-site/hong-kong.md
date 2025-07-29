@@ -47,6 +47,7 @@
 # 🍫 Souvenir (food)
 - 🦋 [Fine Foods Shop - The Royal Garden](https://eshop.rghk.com.hk/product-category/fine-foods/): butterfly cookies
 - 🍜 [Wing Lok Noodle 永樂粉麵廠](https://www.wingloknoodle.com/)
+- 🍫 [Cacaolab](https://cacaolab.com/zh)
 
 # 🛍️ Souvenir (non-food)
 - 🗺️ [Hong Kong Maper](https://www.hongkongmaper.org/en-tw)
