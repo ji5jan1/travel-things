@@ -29,7 +29,7 @@
 <!-- Manga -->
 ### Manga Series
 
-|  | _The Apothecary Diaries_ | _The Apothecary Diaries: Maomao's Notes from the Inner Palace_ | _薬屋のひとりごと外伝 小蘭回想録（Gaiden: Xiaolan Kaisōroku)_ |
+|  | _ 薬屋のひとりごと <br> The Apothecary Diaries_ | _薬屋のひとりごと 猫猫の後宮謎解き手帳 <br> The Apothecary Diaries: Maomao's Notes from the Inner Palace_ | _薬屋のひとりごと外伝 小蘭回想録 <br> Gaiden: Xiaolan Kaisōroku_ |
 | :----: | ---- | ---- | ---- |
 | **Publish Date** | 5/29/2017 - present | 8/19/2017 - present | 3/23/2025 - present |
 | **Illustrator** | [Nekokurage](https://x.com/nekokurage_) <br> 貓海月（ねこクラゲ）| Minoji Kurata <br> 倉田三之路（倉田三ノ路）| Itsuki Nanao |
