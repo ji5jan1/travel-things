@@ -7,4 +7,4 @@ July 18, 2025
 - 點解咁多都係補充練習同埋雞精？
 - 吾城世一
 
-![Life4Cuts at CityUHK Press Booth...?](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/bookfair-2025/life4.jpeg)
+![Life4Cuts at CityUHK Press Booth...?](/book-observations/hong-kong/bookfair-2025/life4cuts.gif/)
