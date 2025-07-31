@@ -6,3 +6,4 @@ July 18, 2025
 - 好多家長帶住細路仔嚟，仲要拖喼
 - 點解咁多都係補充練習同埋雞精？
 - 吾城世一
+![Life4Cuts at CityUHK Press Booth...?](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/bookfair-2025/life4.jpeg)
