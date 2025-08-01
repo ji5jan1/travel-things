@@ -43,5 +43,5 @@ August 1, 2025
 ---
 
 ### 延伸閱讀(ing)
-- 江湖有字在：臺灣人文出版史特展——活字印刷與出版的誕生（臺灣文學虛擬博物館）（[Link](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=270)）
+- 江湖有字在：臺灣人文出版史特展——活字印刷與出版的誕生（臺灣文學虛擬博物館）（[Link](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=270)）             
 原來之前在台灣教會公報社看到那台就是台灣第一台活版印刷機啊～ 失敬失敬
