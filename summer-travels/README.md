@@ -8,6 +8,6 @@
 
 ### 啲文呢？Where are the articles?
 我都知，我當下唔打啲遊記，之後就應該唔會打。不過⋯⋯我覺得好似要啲時間沉澱下，雖然我都知啲嘢係一個個階段接住嚟，我都係想俾自己有啲時間休息下個腦先走嚟台灣避世㗎啫。     
-我我我，其實講到尾咪又係因為懶。
+我我我咁多做咩，其實講到尾咪又係因為懶。
 
 I'm just lazy to organize everything and create the articles. I got the info and the photos and the experiences to share, just lazy to do so.
