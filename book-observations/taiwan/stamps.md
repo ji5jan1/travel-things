@@ -1,5 +1,6 @@
 # 集章郵趣
 August 1, 2025
+Update: August 13, 2025
 
 首先奉上神人做的集章地圖（[舉](https://maps.app.goo.gl/kZVnimEHXT2BHnNK7)）       
 
@@ -48,3 +49,8 @@ August 1, 2025
 ### 延伸閱讀(ing)
 - 江湖有字在：臺灣人文出版史特展——活字印刷與出版的誕生（臺灣文學虛擬博物館）（[Link](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=270)）             
 原來之前在台灣教會公報社看到那台就是台灣第一台活版印刷機啊～ 失敬失敬
+
+### 中華郵政——風景戳
+[集郵戳圖：全國風景郵戳一覽表](https://www.post.gov.tw/post/internet/Philately/index.jsp?ID=508)      
+//Q: 我想要集紀念郵戳跟風景郵戳，要怎麼集戳?集戳的流程及方式是什麼?     
+A: 於全球資訊網/集郵業務專區/紀念戳圖及風景戳圖之列表查詢郵戳置放局所後，持具有通用郵票或郵資符誌之集郵品臨櫃或附回郵信封郵寄至該局要求加蓋紀念郵戳或風景郵戳。紀念郵戳及風景郵戳皆不蓋銷郵票，加蓋於已銷戳郵品其旁空白處。//
