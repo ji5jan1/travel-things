@@ -52,6 +52,6 @@ Update: August 13, 2025
 
 ### 中華郵政——風景戳
 [集郵戳圖：全國風景郵戳一覽表](https://www.post.gov.tw/post/internet/Philately/index.jsp?ID=508)      
-[Grok資料整合]()
+[Grok資料整合](http://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/stamps/Taiwan_Scenic_Postmarks_by_County.markdown)
 //Q: 我想要集紀念郵戳跟風景郵戳，要怎麼集戳?集戳的流程及方式是什麼?     
 A: 於全球資訊網/集郵業務專區/紀念戳圖及風景戳圖之列表查詢郵戳置放局所後，持具有通用郵票或郵資符誌之集郵品臨櫃或附回郵信封郵寄至該局要求加蓋紀念郵戳或風景郵戳。紀念郵戳及風景郵戳皆不蓋銷郵票，加蓋於已銷戳郵品其旁空白處。//
