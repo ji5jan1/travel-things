@@ -70,5 +70,5 @@ _Why this list?_
 |   #   | Why Fish Don’t Exist                                 |  Lulu Miller    |        McNally Jackson Seaport / May 20 |
 |   #   | The Great Book of Ancient Egypt                      |  Zahi Hawass    |         B&N 5AV /  May 12               |
 |   #   | 這座城市叫香港                                         |      黃宇軒      |      香港書展 / Jul 18                    |
-|   #   | 臺灣活版時代 ： 臺灣活版印刷圖解記錄                       |     高鵬翔      |       政大書城 / Aug 4                    |
-Last update: June 27, 2025
+|   #   | [臺灣活版時代 ： 臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387) |  高鵬翔  |    政大書城 / Aug 4    |
+Last update: August 15, 2025
