@@ -57,8 +57,8 @@ Update: August 26, 2025
 //Q: 我想要集紀念郵戳跟風景郵戳，要怎麼集戳?集戳的流程及方式是什麼?     
 A: 於全球資訊網/集郵業務專區/紀念戳圖及風景戳圖之列表查詢郵戳置放局所後，持具有通用郵票或郵資符誌之集郵品臨櫃或附回郵信封郵寄至該局要求加蓋紀念郵戳或風景郵戳。紀念郵戳及風景郵戳皆不蓋銷郵票，加蓋於已銷戳郵品其旁空白處。//
 
-### USPS——Pictorial Postmarks
-[Postal Bulletin (Published bi-weekly)](https://about.usps.com/resources/postal-bulletin.htm)
+### USPS——Pictorial Postmarks 
+[Postal Bulletin (Published bi-weekly)](https://about.usps.com/resources/postal-bulletin.htm)          
 //As a community service, the Postal Service™ offers pictorial postmarks to commemorate local events celebrated in communities throughout the nation. A list of events for which pictorial postmarks are authorized appears on the following pages. The sponsor of the pictorial postmark appears in italics under the date. Also provided are illustrations of these postmarks.   
 
 People attending these local events may get the postmark in person at the temporary Post Office™ station established there. Those who cannot attend the event but who wish to get the postmark may submit a mail order request. Pictorial postmarks are available only for the dates indicated, and requests must be postmarked no later than 30 days after the requested pictorial postmark date.   
