@@ -1,6 +1,6 @@
 # 集章郵趣
-August 1, 2025
-Update: August 13, 2025
+August 1, 2025 <br>       
+Update: August 26, 2025
 
 首先奉上神人做的集章地圖（[舉](https://maps.app.goo.gl/kZVnimEHXT2BHnNK7)）       
 
@@ -47,11 +47,22 @@ Update: August 13, 2025
 ---
 
 ### 延伸閱讀(ing)
-- 江湖有字在：臺灣人文出版史特展——活字印刷與出版的誕生（臺灣文學虛擬博物館）（[Link](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=270)）             
-原來之前在台灣教會公報社看到那台就是台灣第一台活版印刷機啊～ 失敬失敬
+- 江湖有字在：臺灣人文出版史特展——活字印刷與出版的誕生（臺灣文學虛擬博物館）（[Link](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=270)) <br> 原來之前在台灣教會公報社看到那台就是台灣第一台活版印刷機啊～ 失敬失敬
+- [臺灣活版時代：臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387)
+- [不讓我家成為那間消失的印刷廠 — 專訪樂田活版工房主理人黃宗堂](https://medium.com/artqua/%E4%B8%8D%E8%AE%93%E6%88%91%E5%AE%B6%E6%88%90%E7%82%BA%E9%82%A3%E9%96%93%E6%B6%88%E5%A4%B1%E7%9A%84%E5%8D%B0%E5%88%B7%E5%BB%A0-%E5%B0%88%E8%A8%AA%E6%A8%82%E7%94%B0%E6%B4%BB%E7%89%88%E5%B7%A5%E6%88%BF%E4%B8%BB%E7%90%86%E4%BA%BA%E9%BB%83%E5%AE%97%E5%A0%82-d537c944a61b) <br> 當天是我有眼不識泰山！！！！！早知道多問問題了！！！！下次再回台一定要再去樂田拜訪！
 
 ### 中華郵政——風景戳
 [集郵戳圖：全國風景郵戳一覽表](https://www.post.gov.tw/post/internet/Philately/index.jsp?ID=508)      
 [Grok資料整合](http://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/stamps/Taiwan_Scenic_Postmarks_by_County.markdown)       
 //Q: 我想要集紀念郵戳跟風景郵戳，要怎麼集戳?集戳的流程及方式是什麼?     
 A: 於全球資訊網/集郵業務專區/紀念戳圖及風景戳圖之列表查詢郵戳置放局所後，持具有通用郵票或郵資符誌之集郵品臨櫃或附回郵信封郵寄至該局要求加蓋紀念郵戳或風景郵戳。紀念郵戳及風景郵戳皆不蓋銷郵票，加蓋於已銷戳郵品其旁空白處。//
+
+### USPS——Pictorial Postmarks 
+[Postal Bulletin (Published bi-weekly)](https://about.usps.com/resources/postal-bulletin.htm)          
+//As a community service, the Postal Service™ offers pictorial postmarks to commemorate local events celebrated in communities throughout the nation. A list of events for which pictorial postmarks are authorized appears on the following pages. The sponsor of the pictorial postmark appears in italics under the date. Also provided are illustrations of these postmarks.   
+
+People attending these local events may get the postmark in person at the temporary Post Office™ station established there. Those who cannot attend the event but who wish to get the postmark may submit a mail order request. Pictorial postmarks are available only for the dates indicated, and requests must be postmarked no later than 30 days after the requested pictorial postmark date.   
+
+All requests must include a stamped envelope or postcard bearing at least the minimum First-Class Mail® postage. Items submitted for postmark may not include postage issued after the date of the requested postmark. Such items will be returned unserviced. Customers who want a postmark must affix stamps to any envelope or postcard of their choice, address the envelope or postcard to themselves or others, insert a card of postcard thickness in envelopes for sturdiness, and tuck in the flap. Place the envelope or postcard in a larger envelope and address it to: Pictorial Postmarks, followed by the Name of the Station, Address, City, State, ZIP+4® Code, as listed next to the postmark.     
+
+Customers can also send stamped envelopes and postcards without addresses for postmark, as long as they supply a larger envelope with adequate postage and their return address. After applying the pictorial postmark, the Postal Service returns the items (with or without addresses) under addressed protective cover.//
