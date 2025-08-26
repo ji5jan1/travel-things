@@ -5,6 +5,8 @@
 
 --- 
 ## ASIA
+See my stamp collection [here](https://github.com/kelly990918/travel-things/tree/main/book-observations/stamps/stamp-collections)!!!
+
 ### 🇯🇵 <u>Japan<u>
 🛍️ [Bookstores in Umeda, Osaka | 梅田書店遊蹤](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/umeda/umeda-bookstores.md)   
 💊 [Apothecary Diaries | 藥師少女的獨語](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/apothecary/apothecary-diaries.md)
