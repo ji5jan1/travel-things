@@ -1,6 +1,6 @@
 # 集章郵趣
 August 1, 2025 <br>       
-Update: August 26, 2025
+Update: August 27, 2025
 
 首先奉上神人做的集章地圖（[舉](https://maps.app.goo.gl/kZVnimEHXT2BHnNK7)）       
 
@@ -66,3 +66,7 @@ People attending these local events may get the postmark in person at the tempor
 All requests must include a stamped envelope or postcard bearing at least the minimum First-Class Mail® postage. Items submitted for postmark may not include postage issued after the date of the requested postmark. Such items will be returned unserviced. Customers who want a postmark must affix stamps to any envelope or postcard of their choice, address the envelope or postcard to themselves or others, insert a card of postcard thickness in envelopes for sturdiness, and tuck in the flap. Place the envelope or postcard in a larger envelope and address it to: Pictorial Postmarks, followed by the Name of the Station, Address, City, State, ZIP+4® Code, as listed next to the postmark.     
 
 Customers can also send stamped envelopes and postcards without addresses for postmark, as long as they supply a larger envelope with adequate postage and their return address. After applying the pictorial postmark, the Postal Service returns the items (with or without addresses) under addressed protective cover.//
+
+### Japan: EKI Stamp & JR Train Trip
+- EKI Stamp: NFC Stamps
+- JR Train Trip (web app): [link](https://railway150.jp/contents/stamp/find/)
