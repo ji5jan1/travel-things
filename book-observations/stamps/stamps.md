@@ -68,5 +68,5 @@ All requests must include a stamped envelope or postcard bearing at least the mi
 Customers can also send stamped envelopes and postcards without addresses for postmark, as long as they supply a larger envelope with adequate postage and their return address. After applying the pictorial postmark, the Postal Service returns the items (with or without addresses) under addressed protective cover.//
 
 ### Japan: EKI Stamp & JR Train Trip
-- EKI Stamp: NFC Stamps
+- EKI Stamp (iOS/ Android app): NFC Stamps
 - JR Train Trip (web app): [link](https://railway150.jp/contents/stamp/find/)
