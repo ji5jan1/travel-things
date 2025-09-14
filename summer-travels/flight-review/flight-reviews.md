@@ -40,7 +40,7 @@ Kelly Leung<br>
 🛩️ A380 (JA-381A)<br>
 📺 PTV 👍🏻<br>
 🍱 Two meals 👍🏻<br>
-![ANA in-flight meal](/summer-travels/ana-meal.jpeg "NH181 in-flight meal")<br>
+![ANA in-flight meal](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/ana-meal.jpeg)<br>
 **Comments:** First time on an A380! The aircraft is HUGE, also the leg room is large!<br>  
 The aircraft is clean, and Japanese service is great as always. But I had some hard time with the flight attendant's Japanese accent 😂<br>
 *They serve Haagn Dazs!*
@@ -67,5 +67,5 @@ The aircraft is clean, and Japanese service is great as always. But I had some h
 🛩️ A321 (B-16220)<br>
 📺 No PTV 👎🏻<br>
 🍱 With meal 👍🏻<br>
-![EVA in-flight meal](/summer-travels/eva-meal.jpeg "Meal on EVA flight")<br>
+![EVA in-flight meal](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/eva-meal.jpeg)<br>
 **Comments:** Nice meal, but the couple sat next to me stink... They smelled like tobacco and like they haven't showered for three days.. And people keep walking around (my seat was right next to the bathroom so...)
