@@ -27,23 +27,24 @@ Kelly Leung<br>
 🛩️ B777-200ER (N211UA)<br>
 📺 No PTV 👎🏻<br>
 🍱 No meals 👎🏻<br>
-**Comments:** A delayed United flight. Great chat with 大媽 sat next to me.
+**Comments:** A delayed United flight. Great chat with the Chinese anut who sat next to me.
 
 --- 
 
 #### Flight #3: ANA NH181 HNL-NRT
 **May 25, 2025**<br>
-![Lani the ANA seaturtle aircraft](/summer-travels/ana-lani.jpeg "Lani, the ANA A380 HNL-NRT aircraft")
+[![Lani the ANA seaturtle aircraft]([/summer-travels/ana-lani.jpeg "Lani, the ANA A380 HNL-NRT aircraft"](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/ana-lani.jpeg))
+](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/ana-lani.jpeg)<br>
 🕰️ 12:47 - 15:29 (7h42m)<br>
 ↔️ 6135km<br>
 💺 Seat 68D (aisle)<br>
 🛩️ A380 (JA-381A)<br>
 📺 PTV 👍🏻<br>
 🍱 Two meals 👍🏻<br>
-![ANA in-flight meal](/summer-travels/ana-meal.jpeg "NH181 in-flight meal")
+[![ANA in-flight meal](/summer-travels/ana-meal.jpeg "NH181 in-flight meal")](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/ana-meal.jpeg)<br>
 **Comments:** First time on an A380! The aircraft is HUGE, also the leg room is large!<br>  
-The aircraft is clean, and Japanese service is great as always. But for me, I had some hard time with the flight attendant's Japanese accent 😂<br>
-*They serve Haagn Dazs in flight!*
+The aircraft is clean, and Japanese service is great as always. But I had some hard time with the flight attendant's Japanese accent 😂<br>
+*They serve Haagn Dazs!*
 
 ---
 
@@ -55,7 +56,7 @@ The aircraft is clean, and Japanese service is great as always. But for me, I ha
 🛩️ A320 (JA-09JJ)<br>
 📺 No PTV 👎🏻<br>
 🍱 No meals 👎🏻<br>
-**Comments:** Very short domestic flight with almost 0 service. They have a very strict carry-on policy (7kg)!
+**Comments:** Very short domestic flight with almost 0 service. They have a very strict carry-on policy (7kg)! So glad that I grabbed breakfast before boarding!
 
 --- 
 
@@ -67,5 +68,5 @@ The aircraft is clean, and Japanese service is great as always. But for me, I ha
 🛩️ A321 (B-16220)<br>
 📺 No PTV 👎🏻<br>
 🍱 With meal 👍🏻<br>
-![EVA in-flight meal](/summer-travels/eva-meal.jpeg "Meal on EVA flight")
-**Comments:** Nice meal, but the couple sat next to me stinked... And people keep walking around (my seat was right next to the bathroom so...)
+[![EVA in-flight meal](/summer-travels/eva-meal.jpeg "Meal on EVA flight")](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/eva-meal.jpeg)<br>
+**Comments:** Nice meal, but the couple sat next to me stink... They smelled like tobacco and like they haven't showered for three days.. And people keep walking around (my seat was right next to the bathroom so...)
