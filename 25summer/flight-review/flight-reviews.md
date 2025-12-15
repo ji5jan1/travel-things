@@ -33,14 +33,14 @@ Kelly Leung<br>
 
 #### Flight #3: ANA NH181 HNL-NRT
 **May 25, 2025**<br>
-![Lani the ANA seaturtle aircraft](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/ana-lani.jpeg)<br>
+![Lani the ANA seaturtle aircraft](https://github.com/kelly990918/travel-things/blob/main/25summer/flight-review/ana-lani.jpeg)<br>
 🕰️ 12:47 - 15:29 (7h42m)<br>
 ↔️ 6135km<br>
 💺 Seat 68D (aisle)<br>
 🛩️ A380 (JA-381A)<br>
 📺 PTV 👍🏻<br>
 🍱 Two meals 👍🏻<br>
-![ANA in-flight meal](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/ana-meal.jpeg)<br>
+![ANA in-flight meal](https://github.com/kelly990918/travel-things/blob/main/25summer/flight-review/ana-meal.jpeg)<br>
 **Comments:** First time on an A380! The aircraft is HUGE, also the leg room is large!<br>  
 The aircraft is clean, and Japanese service is great as always. But I had some hard time with the flight attendant's Japanese accent 😂<br>
 *They serve Haagn Dazs!*
@@ -67,5 +67,5 @@ The aircraft is clean, and Japanese service is great as always. But I had some h
 🛩️ A321 (B-16220)<br>
 📺 No PTV 👎🏻<br>
 🍱 With meal 👍🏻<br>
-![EVA in-flight meal](https://github.com/kelly990918/travel-things/blob/main/summer-travels/flight-review/eva-meal.jpeg)<br>
+![EVA in-flight meal](https://github.com/kelly990918/travel-things/blob/main/25summer/flight-review/eva-meal.jpeg)<br>
 **Comments:** Nice meal, but the couple sat next to me stink... They smelled like tobacco and like they haven't showered for three days.. And people keep walking around (my seat was right next to the bathroom so...)
