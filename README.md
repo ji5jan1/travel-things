@@ -34,10 +34,10 @@ Hope you'll enjoy my content~ (✿´‿`)
 ---
 
 ### Author
-Kelly Leung, M.A. (CUHK), M.S. Publishing Candidate (NYU)
+Kelly Leung, M.A. (CUHK), M.S. (NYU)
 
 ---
 _inspired by_ [_HowToCook_](https://github.com/Anduin2017/HowToCook)
 
 --- 
-Copyright (c) 2025 Kelly (@kelly990918)
+Copyright (c) 2025 Kelly Leung (@kelly990918)
