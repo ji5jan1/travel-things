@@ -28,7 +28,3 @@
 ### 🇺🇸 <u>United States<u>
 📚 [McNally Jackson Books Seaport, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/mcnally-jackson-seaport/mcnally-jackson-seaport.md)   
 📚 [Barnes & Noble Union Square, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/bn-unionsq/bn-unionsq.md)
-
----
-🐰 [Connect with me on Goodreads!](https://www.goodreads.com/user/show/118127422-kelly)   
-🐰 [Great Graphic Design Archive](https://www.canva.com/design/DAGmLSnOoTc/U_rGghDPTSjAym2gO-WMUQ/edit?utm_content=DAGmLSnOoTc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
