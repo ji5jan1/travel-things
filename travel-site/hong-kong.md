@@ -16,13 +16,13 @@
 ## 🏞️ Nature
 **Fun facts:**
 1. Hong Kong has over 250 outlying islands, the biggest are Lantau and Hong Kong Island
-2. Hong Kong has 579 named peaks
-3. Even the Hong Kong waters only takes up 0.05% of South China Sea, you can find over 30% of total South China Sea marine fish species ([reference](https://www.arcadiapress.com.hk/wp-content/uploads/2023/07/FishBK-preview-1.pdf))
-4. Hong Kong is home for 84 species of hard corals, even more diverse than the Caribbean Sea ([reference](https://revivingourcorals.wwf.org.hk/en/about-corals/))
-5. It's convenient to discovery the natural beauty of Hong Kong!
+2. Hong Kong has 579 named peaks, about 40% of our land are nature reserves/ country parks
+3. Hong Kong has a [UNESCO Global Geopark](https://www.geopark.gov.hk/en), preserving sedimentary rocks and volcanic rocks
+4. Even the Hong Kong waters only takes up 0.05% of South China Sea, you can find over 30% of total South China Sea marine fish species ([reference](https://www.arcadiapress.com.hk/wp-content/uploads/2023/07/FishBK-preview-1.pdf))
+5. Hong Kong is home for 84 species of hard corals, even more diverse than the Caribbean Sea ([reference](https://revivingourcorals.wwf.org.hk/en/about-corals/))
 
 Sites/ channel recs:
-- [Hong Kong Species — Agriculture, Fisheries and Conservation Department](https://www.afcd.gov.hk/english/conservation/hkbiodiversity/speciesgroup/speciesgroup.html): Discover the biodiversity in Hong Kong!
+- [Hong Kong Species — Agriculture, Fisheries and Conservation Department](https://www.afcd.gov.hk/english/conservation/hkbiodiversity/speciesgroup/speciesgroup.html): Discover Hong Kong biodiversity!
 - [Hong Kong Mountains - Peak Visor](https://peakvisor.com/range/hong-kong-mountains.html)
 - [Oasistrek 綠洲 (Chinese only)](https://www.oasistrek.com/)
 - [KarenLaw騎雲羅 on YouTube](https://www.youtube.com/@karenlaw/featured): outdoor/ hiking content creator
