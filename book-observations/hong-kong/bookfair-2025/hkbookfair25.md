@@ -19,5 +19,6 @@ July 18, 2025
 
 ---
 
-In the most simple terms: the book fair is about kids — it's filled with drilling exercise work books, children's books. Though there're also other adult books, and participants from all over the world, most visitors were parents with luggages or huge backpacks, coming to get discounted work books for their children. I think it's so twisted, and I guess the [Reading Everywhere](https://www.instagram.com/readingeverywherehk/) indie book fair would be more interesting, sadly I only got a few days in HK, and the trip was interrupted by the typhoon :/
+In the most simple terms: the book fair is about kids — it's filled with drilling exercise work books, children's books. Though there're also other adult books, and participants from all over the world, one of the biggest booth was filled with portraits of HKDSE top scorer and private Chinese tutor YY Lam (yes their HKDSE guides were frontlist books ~.~). Most visitors were parents with luggages or huge backpacks, coming to get discounted work books for their children.It's so twisted, and I guess the [Reading Everywhere](https://www.instagram.com/readingeverywherehk/) indie book fair would be more interesting, sadly I only got a few days in HK, and the trip was interrupted by the typhoon.
+
 
