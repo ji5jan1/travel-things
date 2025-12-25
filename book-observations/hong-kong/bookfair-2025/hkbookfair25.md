@@ -16,3 +16,7 @@ July 18, 2025
 香港嘢，點都唔會唔鐘意嘅，不過實際去到又唔知點解覺得唔係太吸引，定係因為覺得買太多書會拎唔到返台灣/美國？書就淨係買咗黃宇軒嘅《這座城市叫香港》。跟住去樓上文具嗰度買Chiikawa鎖匙扣，同埋買咗條九巴毛巾。    
 書展嚟講，早知去[無處不閱讀](https://www.instagram.com/readingeverywherehk/)睇獨立書店，可惜返香港時間唔多，又遇正打風。    
 人生就係咁。   
+
+---
+
+In the most simple terms: the book fair is about kids — it's filled with drilling exercise work books, children's books. Though there're also other adult books, and participants from all over the world, I saw a lot of visitors are parents with luggages or huge backpacks, coming to get discounted work books for their children. I think it's so twisted, and I guess the [Reading Everywhere](https://www.instagram.com/readingeverywherehk/) indie book fair would be more interesting, sadly I only got a few days in HK, and the trip was interrupted by the typhoon :/
