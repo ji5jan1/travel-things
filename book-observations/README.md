@@ -1,7 +1,7 @@
 # 📚 BOOKS 📚
 
-- [2025 book count](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md): 30
-- Currently reading: 大埔故事——孔慧怡
+- [2025 books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md)
+- Currently reading: 這座城市叫香港——黃宇軒
 
 --- 
 ## ASIA
