@@ -9,7 +9,6 @@ Hope you'll enjoy my content~ (✿´‿`)
 ### 🗂️ Directory 🗂️
 - 📚 [`book-observations`](https://github.com/kelly990918/travel-things/tree/main/book-observations): my visits to bookstores and libraries, also some book reviews and logs
 - 💮 [`stamps`](https://github.com/kelly990918/travel-things/blob/main/book-observations/stamps/stamps.md): I am going philatelic and started to collect stamps, printed materials, and souvenior stamps!  
-  - [`stamp-collections`](https://github.com/kelly990918/travel-things/tree/main/stamps/stamp-collections)👈🏻 my souvenir stamp collection
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels): my 2025 summer trips!
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site): my HTML site (unfinished and content to be repackaged as MD files)
   - 🇭🇰 [`#HONGKONG`](https://github.com/kelly990918/travel-things/blob/main/travel-site/hong-kong.md)
@@ -25,7 +24,6 @@ Hope you'll enjoy my content~ (✿´‿`)
 ### 🗂️ 目錄 🗂️ 
 - 📚 [`book-observations`](https://github.com/kelly990918/travel-things/tree/main/book-observations)：書店/圖書館遊蹤、書評等
 - 💮 [`stamps`](https://github.com/kelly990918/travel-things/blob/main/book-observations/stamps/stamps.md): 集郵、集章、集印刷品記事 
-  - [`stamp-collections`](https://github.com/kelly990918/travel-things/tree/main/stamps/stamp-collections)👈🏻看看我集的章！
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels)：2025夏天遊記
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site)：未完成HTML網站（目前有計畫把內容轉為MD格式）
   - 🇭🇰 [`#HONGKONG`](https://github.com/kelly990918/travel-things/blob/main/travel-site/hong-kong.md)
