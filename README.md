@@ -12,6 +12,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels): my 2025 summer trips!
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site): my HTML site (unfinished and content to be repackaged as MD files)
   - 🇭🇰 [`#HONGKONG`](https://github.com/kelly990918/travel-things/blob/main/travel-site/hong-kong.md)
+  - 🇹🇼 [`TAIWAN`](https://github.com/kelly990918/travel-things/blob/main/taiwan-love.md)
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing): Great travel spot recommendations (on Google Maps)
 
 ---
@@ -27,6 +28,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels)：2025夏天遊記
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site)：未完成HTML網站（目前有計畫把內容轉為MD格式）
   - 🇭🇰 [`#HONGKONG`](https://github.com/kelly990918/travel-things/blob/main/travel-site/hong-kong.md)
+  - 🇹🇼 [`TAIWAN`](https://github.com/kelly990918/travel-things/blob/main/taiwan-love.md)
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing)：Google Maps 旅遊地圖
 
 ---
