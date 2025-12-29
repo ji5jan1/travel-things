@@ -1,6 +1,6 @@
 # New York City
 
-_Below are some short articles I wrote in 2024, originally posted on trip.com to exchange travel credits. Now that I'm very annoyed with the post grading system, I stopped doing it. But here are the posts!_
+_Below are some short articles I wrote in 2024, originally posted on trip.com to exchange travel credits. Now that I'm very annoyed with the post grading system, I stopped doing it (they seems to love AI-generated articles more, hmmm). But here are the posts!_
 
 _Enjoy your NYC journey with me!_
 
