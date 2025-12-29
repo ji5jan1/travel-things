@@ -1,6 +1,8 @@
 # New York City
 
-_Below are some short articles I wrote in 2024, originally posted on trip.com to exchange travel credits. Now that I'm very annoyed with the post grading system, I stopped doing it. But here are the posts! Enjoy your NYC journey with me!_
+_Below are some short articles I wrote in 2024, originally posted on trip.com to exchange travel credits. Now that I'm very annoyed with the post grading system, I stopped doing it. But here are the posts!_
+
+_Enjoy your NYC journey with me!_
 
 ## 🌷紐約麥迪遜廣場公園～鬱金香賞花記🌷
 麥迪遜廣場公園位於曼哈頓的第五大道、百老匯大道及23街的交匯點，毗鄰燙斗大廈，裏面除了餐飲設施還設有狗狗的玩樂區，所以這公園長年都非常熱鬧。其中一個最有名的是它在春天時會開好多美麗的花，尤其是鬱金香和櫻花。上學經過看到遊人坐在公園裏跟朋友伴侶聊天賞花，令我也不禁一起把步調放慢，來好好享受春天時，大自然給我們送的禮物。
