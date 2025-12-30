@@ -29,4 +29,4 @@
 ### 🇺🇸 United States
 📚 [McNally Jackson Books Seaport, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/mcnally-jackson-seaport/mcnally-jackson-seaport.md)<br>
 📚 [Barnes & Noble Union Square, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/bn-unionsq/bn-unionsq.md)<br>
-🔜 []()<br>
+🔜 [NYU MS in Publishing!]()<br>
