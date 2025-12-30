@@ -15,7 +15,7 @@
 📚 [Tainan Municipal Library (Tainan Park) | 台南市立圖書館 公園總館](https://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/tainan-lib/park/tainan-municipal.md)<br>
 📚 [Tainan Yancheng Public Library | 臺南市鹽埕圖書館](https://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/tainan-lib/yancheng/yancheng-lib.md)<br>
 📚 [Hsinchu Public Library | 新竹市立圖書館](https://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/hs-libraries/hsinchu-lib.md)<br>
-💮 [Beautiful Stamps | 集章郵趣](https://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/stamps.md)<br>
+💮 [Beautiful Stamps | 集章郵趣](https://github.com/kelly990918/travel-things/blob/main/stamps/stamps.md)<br>
 
 ### 🇭🇰 Hong Kong
 📝 [書評：香港史讀本](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%A6%99%E6%B8%AF%E5%8F%B2%E8%AE%80%E6%9C%AC.md)<br>
