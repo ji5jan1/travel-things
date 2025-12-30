@@ -1,4 +1,5 @@
 # NYU MS in Publishing
+December 30, 2025
 
 I spent my first two years in New York in the NYU MS in Publishing program.
 
