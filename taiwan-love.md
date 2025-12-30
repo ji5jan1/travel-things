@@ -23,26 +23,26 @@
 
 ---
 
-# 已到訪台灣縣市
-- [x] 台北市
-- [x] 新北市
-- [x] 桃園市
-- [x] 台中市
-- [x] 台南市
-- [x] 高雄市
-- [x] 屏東縣
-- [x] 嘉義縣
-- [x] 新竹市
-- [x] 基隆市
-- [x] 澎湖縣
-- [x] 南投縣
-- [x] 新竹縣
-- [ ] 苗栗國
-- [ ] 彰化縣
-- [ ] 雲林縣
-- [ ] 宜蘭縣
-- [ ] 花蓮縣
-- [ ] 台東縣
-- [ ] 金門縣
-- [ ] 連江縣（馬祖）
-- [ ] 嘉義市
+# 已到訪台灣縣市 Cities/ Counties I've visited
+- [x] 台北市 Taipei City
+- [x] 新北市 New Taipei City
+- [x] 桃園市 Taoyuan City
+- [x] 台中市 Taichung City
+- [x] 台南市 Tainan City
+- [x] 高雄市 Kaohsiung City
+- [x] 屏東縣 Pingtung County
+- [x] 嘉義縣 Chiayi County
+- [x] 新竹市 Hsinchu City
+- [x] 基隆市 Keelung City
+- [x] 澎湖縣 Penghu County
+- [x] 南投縣 Nantou County
+- [x] 新竹縣 Hsinchu County
+- [ ] 苗栗國 Miaoli City
+- [ ] 彰化縣 Changhua County
+- [ ] 雲林縣 Yunlin County
+- [ ] 宜蘭縣 Yilan County
+- [ ] 花蓮縣 Hualien County
+- [ ] 台東縣 Taitung County
+- [ ] 金門縣 Kinmen/ Quemoy
+- [ ] 連江縣（馬祖） Lienchiang County (Matsu Islands)
+- [ ] 嘉義市 Chiayi City
