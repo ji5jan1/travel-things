@@ -1,7 +1,3 @@
-<style>
-    
-</style>
-
 # 2025 Books
 _Why this list?_
 - I accidently deleted all the book record on Goodreads. The Goodread Expert said once the data's deleted, it's lost forever. Luckily I have an unclosed tab that saved the day.
