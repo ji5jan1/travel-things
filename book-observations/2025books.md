@@ -47,6 +47,8 @@ _Why this list?_
 |   33  | 香港史讀本                                             |  劉智鵬、劉蜀永   |    誠品生活台南 / Jun 19          |        Jun 25   |
 |   34  | 藥師少女的獨語 15（輕小說）                               |      日向夏     |        政大書城台南店  / Aug 4     |        Aug 12   |
 |   35  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 13                    | 日向夏（原作）、倉田三ノ路（作畫）  | 博客來電子書 / May 8 |      Aug 15    |
+|   36  | 哈利波特(1) 神秘的魔法石                                | J.K. 羅琳（原）、彭倩文（譯）|      博客來電子書          |      Dec 20    |
+|   37  | 哈利波特(2) 消失的密室                                 | J.K. 羅琳（原）、彭倩文（譯）|      博客來電子書         |       Dec 31    |
 
 
 
@@ -69,12 +71,10 @@ _Why this list?_
 |   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 16                    | 日向夏（原作）、倉田三ノ路（作畫）  |        博客來電子書 / May 8  |
 |   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 17                    | 日向夏（原作）、倉田三ノ路（作畫）  |        博客來電子書 / May 8  |
 |   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 18                    | 日向夏（原作）、倉田三ノ路（作畫）  |        博客來電子書 / May 8  |
-|   #   | The Impossible City: A Hong Kong Memoir              | Karen Cheung    |           Amazon Kindle / Mar 30        |
-|   #   | Remarkably Bright Creatures (B&N edition)            | Shelby Van Pelt |          B&N Union Square / May 10      |
-|   #   | Why Fish Don’t Exist                                 |  Lulu Miller    |        McNally Jackson Seaport / May 20 |
 |   #   | The Great Book of Ancient Egypt                      |  Zahi Hawass    |         B&N 5AV /  May 12               |
 |   #   | 這座城市叫香港                                         |      黃宇軒      |      香港書展 / Jul 18                    |
 |   #   | [臺灣活版時代：臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387) |  高鵬翔  |    政大書城 / Aug 4    |
+|   #   | The Collected Prose of Sylvia Plath                 |  Sylvia Plath       |                Amazon / Sept 2024    |
 
 
-Last update: August 15, 2025
+Last update: January 1, 2026
