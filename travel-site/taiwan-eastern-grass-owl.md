@@ -9,4 +9,4 @@ Their populations are seriously threatened. As they are the only owl species tha
 
 To protect the species, bird experts have been working with farmers in Southern Taiwan. The core of the whole scheme (草鴞生態服務給付) is to set up perches (bird stands) in these farms, attracting raptors to visit these farms and hunt rats there. That would also include adopting a more environmentally friendly farming practices, aka going organic. The farmers would never need to use rat poisions to control rat populations, instead maintaining ecology balance through the residence of different species. In return, they get money stipend, and for farms that the grass owls have visited, they get a [badge for verification](https://grassowlfriendly.com/farmers/), that will greatly promote their produce! Today, there are only 17 Grass Owl Friendly verified farmers in Taiwan.
 
-Extra reading: [Grass Owl Friendly Agricultural Products (ZH)](https://grassowlfriendly.com/)
+Extended reading: [Grass Owl Friendly Agricultural Products (ZH)](https://grassowlfriendly.com/)
