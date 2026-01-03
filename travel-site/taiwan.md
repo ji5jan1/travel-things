@@ -8,4 +8,4 @@
 ## Collectibles
 - [StampHero Souvenir Stamp Map 集章地圖](https://maps.app.goo.gl/LCPd4WFgdjXDhEe56)
     - Ink stamps available in tourist spots/ museums/ some Starbucks branches
-    - In transit systems: all MRT & HSR stations, most TRA stations (if you can't see them, ask people at the service desk)
+    - In transit systems: all MRT & HSR stations, most TRA stations (ask people at the service desk if you can't see them)
