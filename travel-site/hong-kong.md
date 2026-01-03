@@ -1,5 +1,17 @@
 # Kelly’s Hong Kong Guide 
 
+## Popular Apps and Web Services
+
+| Apps/ Services | Description | 
+| :---: | --- |
+| [Octopus](https://www.blacksmithbooks.com/books/octopus-the-pioneering-story-of-the-worlds-first-contactless-payment-card/) | First contactless payment card in history |
+| [Octopus for Tourists](https://apps.apple.com/us/app/octopus-for-tourists/id1505492952) | Buy and use Octopus card on mobile devices |
+| [OpenRice](https://www.openrice.com/en/hongkong) | Restaurant booking & review site (reviews are not always reliable though) |
+| [Citymapper](https://citymapper.com/hong-kong) | Transit guide & bus time |
+| Uber | More reliable than taxis (less likely to be scammed) |
+
+--- 
+
 ## 🗺️ Maps
 - 🐰 [Kelly's Travel Spot Recs](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing)
 - [Open3DHK — Lands Department](https://3d.map.gov.hk/)
