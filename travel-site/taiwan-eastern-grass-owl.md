@@ -3,7 +3,7 @@ January 3, 2025
 
 ![Eastern Grass Owl's face shapes are like apples (source: https://www.newsmarket.com.tw/files/2022/10/S__8888379.jpeg)](https://github.com/kelly990918/travel-things/blob/main/travel-site/taiwan-eastern-grass-owl.jpeg)
 
-It's only after watching this amazing [PTS documentary](https://www.youtube.com/watch?v=lCfTqHPeQcY) I learned about this cute owl in Taiwan. _T.l. pithecops_ is the Taiwanese subspecies that only exists in Taiwan! They are extremely endangered species, and their population is less than 500.
+It's only after watching this amazing [PTS documentary](https://www.youtube.com/watch?v=lCfTqHPeQcY) I learned about this cute owl in Taiwan. _T.l. pithecops_ is a subspecies that only exists in Taiwan! They are extremely endangered and their population is less than 500.
 
 They face serious threats from humans. As they are the only owl species that live on the land, they face danger on the land and in the sky. On the land, their nests face fire hazards; their baby birds cannot fly to escape from snakes and stray dogs; and food poisoning because of rat poison. In the sky, sometimes in the farms where they hunt rats, there are bird nets that trap and kill these cute birds.
 
