@@ -11,9 +11,6 @@ Hope you'll enjoy my content~ (✿´‿`)
 - 💮 [`stamps`](https://github.com/kelly990918/travel-things/blob/main/stamps/stamps.md): I am going philatelic and started to collect stamps, printed materials, and souvenior stamps!  
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels): my 2025 summer trips!
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site): travel experiences and tips
-  - 🇭🇰 [`#HONGKONG`](https://github.com/kelly990918/travel-things/blob/main/travel-site/hong-kong.md)
-  - 🇹🇼 [`#TAIWAN`](https://github.com/kelly990918/travel-things/blob/main/taiwan-love.md)
-  - 🗽 [`#NYC`](https://github.com/kelly990918/travel-things/blob/main/nyc.md)
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing): Great travel spot recommendations (on Google Maps)
 
 ---
@@ -28,9 +25,6 @@ Hope you'll enjoy my content~ (✿´‿`)
 - 💮 [`stamps`](https://github.com/kelly990918/travel-things/blob/main/stamps/stamps.md): 集郵、集章、集印刷品記事 
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels)：2025夏天遊記
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site)：自製旅遊攻略
-  - 🇭🇰 [`#HONGKONG`](https://github.com/kelly990918/travel-things/blob/main/travel-site/hong-kong.md)
-  - 🇹🇼 [`#TAIWAN`](https://github.com/kelly990918/travel-things/blob/main/taiwan-love.md)
-  - 🗽 [`#NYC`](https://github.com/kelly990918/travel-things/blob/main/nyc.md)
 - 🐰 [`Kelly's Travel Map`](https://www.google.com/maps/d/u/2/edit?mid=1j03T7jJ7lT43dZZcpVRxhDGrvg12Xns&usp=sharing)：Google Maps 旅遊地圖
 
 ---
