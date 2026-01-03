@@ -69,7 +69,7 @@ _Why this list?_
 |   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 17                    | 日向夏（原作）、倉田三ノ路（作畫）  |        博客來電子書 / May 8  |
 |   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 18                    | 日向夏（原作）、倉田三ノ路（作畫）  |        博客來電子書 / May 8  |
 |   #   | The Great Book of Ancient Egypt                      |  Zahi Hawass    |         B&N 5AV /  May 12               |
-|   #   | ~這座城市叫香港~                                       |      黃宇軒      |      香港書展 / Jul 18                    |
+|   #   | ~這座城市叫香港~                                       |      ~黃宇軒~      |      ~香港書展 / Jul 18~                    |
 |   #   | [臺灣活版時代：臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387) |  高鵬翔  |    政大書城 / Aug 4    |
 |   #   | The Collected Prose of Sylvia Plath                 |  Sylvia Plath       |                Amazon / Sept 2024    |
 
