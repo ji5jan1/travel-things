@@ -11,7 +11,7 @@ _Why this list?_
 |   2   | 你的名字。                                             |      新海誠      |           博客來電子書 / Feb 22          |      Feb 25    |
 |   3   | 你的名字 Another Side: Earthbound                      |     加納新太     |           博客來電子書 / Feb 23          |       Mar 6     |
 |   4   | 安靜，就是力量：內向者如何發揮積極的力量！                   |     蘇珊．坎恩   |          博客來電子書 / Feb 23           |      Apr  2     |
-|   5   | 星之聲 (The Voices of a Distant Star)                  |      大場惑     |                香港HyRead               |    Apr 20       |
+|   5   | 星之聲 (The Voices of a Distant Star) ([review](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/voices-of-a-distant-star.md)) |      大場惑     |                香港HyRead               |    Apr 20       |
 |   6   | A Year with the Seals: Unlocking the Secrets of the Sea's Most Charismatic and Controversial Creatures | Alix Morris | ARC | April 29 |
 |   7   | 藥師少女的獨語 1（輕小說）                                |      日向夏     |         博客來電子書 / Apr 26      |        May 1    |
 |   8   | 藥師少女的獨語 2（輕小說）                                |      日向夏     |         博客來電子書 / Apr 26      |        May 4    |
