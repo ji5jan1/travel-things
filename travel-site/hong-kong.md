@@ -1,5 +1,11 @@
 # Kelly’s Hong Kong Guide 
 
+## General Guide
+- No visa needed (unlike China)
+- Currency: HKD (US$1≈HK$7.8)
+
+--- 
+
 ## Popular Apps and Web Services
 
 | Apps/ Services | Description | 
