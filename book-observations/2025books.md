@@ -40,7 +40,7 @@ _Why this list?_
 |   30  | 藥師少女的獨語 13（輕小說）                               |      日向夏     |         博客來電子書 / Apr 26     |        Jun 19   |
 |   31  | 龍貓的誕生之地                                          |宮崎駿/ 吉卜力工作室|  臺南市鹽埕圖書館借閱 / Jun 19     |        Jun 19   |
 |   32  | 藥師少女的獨語 14（輕小說）                               |      日向夏     |         博客來電子書 / Apr 26     |        Jun 23   |
-|   33  | [香港史讀本](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%A6%99%E6%B8%AF%E5%8F%B2%E8%AE%80%E6%9C%AC.md) |  劉智鵬、劉蜀永   |    誠品生活台南 / Jun 19          |        Jun 25   |
+|   33  | 香港史讀本 ([review](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%A6%99%E6%B8%AF%E5%8F%B2%E8%AE%80%E6%9C%AC.md)) |  劉智鵬、劉蜀永   |    誠品生活台南 / Jun 19          |        Jun 25   |
 |   34  | 藥師少女的獨語 15（輕小說）                               |      日向夏     |        政大書城台南店  / Aug 4     |        Aug 12   |
 |   35  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 13                    | 日向夏（原作）、倉田三ノ路（作畫）  | 博客來電子書 / May 8 |      Aug 15    |
 |   36  | 哈利波特(1) 神秘的魔法石【繁體中文版25週年紀念首發】        | J.K. 羅琳（原）、彭倩文（譯）|      博客來電子書 / Aug 14   |      Dec 20    |
