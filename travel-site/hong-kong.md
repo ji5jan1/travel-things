@@ -65,3 +65,10 @@ Sites/ channel recs:
 - 🧦 [Pair Pair Full](https://pairpairfull.com/collections/pair-pair-full-hong-kong-collection): HK-themed mismatched socks
 - 🍼 [Camel 駱駝牌](https://madebycamel.hk/): insulated bottles
 - 🚕 [TINY 微影](https://www.tiny.com.hk/locale/en-US/corpdefault.aspx?corpname=tiny): HK bus/ taxi toy cars
+
+--- 
+
+## 📚 Books on Hong Kong
+- [這座城市叫香港](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789888846252)（黃宇軒著）
+- [香港散步學](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789887487050)（黃宇軒著）
+- [_Hong Kong Studies_](https://cup.cuhk.edu.hk/index.php?route=product/product&product_id=3533) (CUHK Journal)
