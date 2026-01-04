@@ -37,7 +37,7 @@
 1. Hong Kong has 261 outlying islands, the biggest are Lantau and Hong Kong Island
 2. Hong Kong has 579 named peaks, about 40% of our land are nature reserves/ country parks
 3. Hong Kong has a [UNESCO Global Geopark](https://www.geopark.gov.hk/en), preserving sedimentary rocks and volcanic rocks
-4. Even the Hong Kong waters only takes up 0.05% of South China Sea, you can find over 30% of total South China Sea marine fish species ([Book guide preview](https://www.arcadiapress.com.hk/wp-content/uploads/2023/07/FishBK-preview-1.pdf))
+4. Even the Hong Kong waters only takes up 0.05% of South China Sea, you can find over 30% of total South China Sea marine fish species in this tiny area ([Book guide preview](https://www.arcadiapress.com.hk/wp-content/uploads/2023/07/FishBK-preview-1.pdf))
 5. Hong Kong is home for 84 species of hard corals, even more diverse than the Caribbean Sea ([WWF article](https://revivingourcorals.wwf.org.hk/en/about-corals/))
 
 Sites/ channel recs:
