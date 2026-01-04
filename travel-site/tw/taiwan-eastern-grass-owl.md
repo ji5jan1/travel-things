@@ -1,7 +1,7 @@
 # Endangered Species in Taiwan: Eastern Grass Owl | 台灣瀕危物種：東方草鴞
 January 3, 2025
 
-![Eastern Grass Owl's face shapes are like apples (source: https://www.newsmarket.com.tw/files/2022/10/S__8888379.jpeg)](https://github.com/kelly990918/travel-things/blob/main/travel-site/taiwan-eastern-grass-owl.jpeg)
+![Eastern Grass Owl's face shapes are like apples (source: https://www.newsmarket.com.tw/files/2022/10/S__8888379.jpeg)](https://github.com/kelly990918/travel-things/blob/main/travel-site/tw/taiwan-eastern-grass-owl.jpeg)
 
 It's only after watching this amazing [PTS documentary](https://www.youtube.com/watch?v=lCfTqHPeQcY) I learned about this cute owl in Taiwan. _T.l. pithecops_ is a subspecies that only exists in Taiwan! They are extremely endangered and their population is less than 500.
 
