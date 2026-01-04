@@ -14,6 +14,7 @@
 - [Kelly's Taiwanese Experiences](https://github.com/kelly990918/travel-things/blob/main/travel-site/taiwan.md)
 - [Endangered Species in Taiwan: Eastern Grass Owl | 台灣瀕危物種：東方草鴞](https://github.com/kelly990918/travel-things/blob/main/travel-site/taiwan-eastern-grass-owl.md)
 - [Taiwan Love | 愛・台灣](https://github.com/kelly990918/travel-things/blob/main/travel-site/taiwan-love.md)
+- [《鯨魚谷:恆春頭溝鯨魚化石發掘紀行 (Whale Valley: Whale Fossil Excavation Voyage)》](https://github.com/kelly990918/travel-things/blob/main/travel-site/tw/whale-valley.md)
 
 ## New York City
 - [Past trip.com post entries](https://github.com/kelly990918/travel-things/blob/main/travel-site/nyc.md)
