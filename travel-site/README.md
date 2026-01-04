@@ -8,7 +8,7 @@
 
 ## HONG KONG
 - [Kelly's Hong Kong Guide](https://github.com/kelly990918/travel-things/blob/main/travel-site/hong-kong.md)
-- [Difference in between HK and TW: Food Expressions](https://github.com/kelly990918/travel-things/blob/main/travel-site/hk-tw-food-expressions.md)
+- [Difference in between HK and TW: Food Expressions | 港台大不同之食物用語篇](https://github.com/kelly990918/travel-things/blob/main/travel-site/hk-tw-food-expressions.md)
 
 ## TAIWAN 
 - [Kelly's Taiwanese Experiences](https://github.com/kelly990918/travel-things/blob/main/travel-site/taiwan.md)
