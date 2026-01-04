@@ -32,8 +32,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 ### Author
 Yi Yan Kelly Leung, M.A. (CUHK), M.S. (NYU)
 
----
-_inspired by_ [_HowToCook_](https://github.com/Anduin2017/HowToCook)
+_Inspired by_ [_HowToCook_](https://github.com/Anduin2017/HowToCook)
 
 --- 
 © 2025 Yi Yan Leung. This work is licensed under CC BY-SA 4.0.
