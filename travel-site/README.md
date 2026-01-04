@@ -3,8 +3,8 @@
 | Apps/ Websites | Description |
 | :---: | --- |
 | [ChargeSPOT](https://franchise.chargespot.global/) | Powerbank rental |
-| [Klook](https://www.klook.com/en-US/?spm=Home.TopNavigation.BackHome&clickId=46446fed86) | 
-| [KKday](https://www.kkday.com/en-us) | 
+| [Klook](https://www.klook.com/en-US/?spm=Home.TopNavigation.BackHome&clickId=46446fed86) | Local tour/ eSIM/ tickets |
+| [KKday](https://www.kkday.com/en-us) | Local tour/ eSIM/ tickets |
 
 ## HONG KONG
 - [Kelly's Hong Kong Guide](https://github.com/kelly990918/travel-things/blob/main/travel-site/hong-kong.md)
