@@ -18,3 +18,5 @@ I just finished watching Season 1 of the documentary, and it already amazed me. 
 Watching this documentary reminded this dream, and this is the only time I learned that it is never easy to unearth something from the ground. It takes time, devotion, and a great team for a new discovery. I was so impressed by the devotion Dr. Yang and his team—they did the excavation in summer! Summer in southern Taiwan is no joke, it's hot and humid, not to mention working outdoor!
 
 Season 1 is only the opening: Cubic Pastry said there'll be five seasons in total, and only three were aired! I will add more thoughts to this the more I watch this amazing documentary.
+
+Last Updated: January 4, 2026
