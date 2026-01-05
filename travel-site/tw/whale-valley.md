@@ -5,7 +5,7 @@
 - [Season 2](https://www.youtube.com/playlist?list=PLIAE-umIKALaTebp_gkt6fVKe_vMGLsZc)
 - [Season 3](https://www.youtube.com/playlist?list=PLIAE-umIKALa3S7iCO-ourCGoCj_keZCY)
 
-Cubic Pastry 方塊酥 (We-Bo Chou 周文博)：
+**Cubic Pastry 方塊酥 (We-Bo Chou 周文博):**
 - Master of Archaeology, National Cheng Kung University
 - Facebook: [方塊酥Cubic Pastry 2.0](https://www.facebook.com/p/%E6%96%B9%E5%A1%8A%E9%85%A5Cubic-Pastry-20-61552257663304/)
 - Instagram: [方塊酥cubic pastry](https://www.instagram.com/cubicpastryofficial/)
