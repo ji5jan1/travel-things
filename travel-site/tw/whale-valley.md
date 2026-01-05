@@ -19,4 +19,8 @@ Watching this documentary reminded this dream, and this is the only time I learn
 
 Season 1 is only the opening: Cubic Pastry said there'll be five seasons in total, and only three were aired! I will add more thoughts to this the more I watch this amazing documentary.
 
-Last Updated: January 4, 2026
+January 4, 2026
+
+---
+
+After Season 2: 
