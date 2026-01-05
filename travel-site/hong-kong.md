@@ -10,7 +10,7 @@
 ## Popular Apps and Web Services
 
 | Apps/ Services | Description | 
-| :---: | --- |
+| :------------: | ----------- |
 | [Octopus](https://www.blacksmithbooks.com/books/octopus-the-pioneering-story-of-the-worlds-first-contactless-payment-card/) | First contactless payment card in history |
 | [Octopus for Tourists](https://apps.apple.com/us/app/octopus-for-tourists/id1505492952) | Buy and use Octopus card on mobile devices |
 | [OpenRice](https://www.openrice.com/en/hongkong) | Restaurant booking & review site (reviews are not always reliable though) |

@@ -23,4 +23,8 @@ January 4, 2026
 
 ---
 
-After Season 2: 
+After Season 2: Wow! This is getting more exciting! Even though the rhythm of the documentary is quite slow, it shows the whole process of how the bones were discovered, how they were unearthed, and how they were moved out from the river valley. In this season, a typhoon was approaching, and they had to exacavate the unearthed bones, and protect the site and the remaining bones from water. If the bones are soaked in water, they break easily. So, they had to act fast. They have displayed great teamwork and passion for this huge, prehistoric creature. They were extremely focused on the site, I'm impressed and I relly look up to their work ethics!
+
+January 5, 2026
+
+--- 
