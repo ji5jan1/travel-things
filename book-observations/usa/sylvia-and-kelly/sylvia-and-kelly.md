@@ -1,7 +1,7 @@
 # Sylvia and Kelly
 January 5, 2026
 
-![Plato postcard]()
+![Plato postcard](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/sylvia-and-kelly/plato.jpg)
 
 I almost became a Sylvia Plath scholar. I was serious about that.
 
