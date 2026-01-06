@@ -27,6 +27,7 @@
 ## NORTH AMERICA
 ### 🇺🇸 United States
 🎓 [NYU MS in Publishing!](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/nyu-pub.md)<br>
+👯‍♀️ [Sylvia and Kelly](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/sylvia-and-kelly/sylvia-and-kelly.md)<br>
 📚 [McNally Jackson Books Seaport, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/mcnally-jackson-seaport/mcnally-jackson-seaport.md)<br>
 📚 [Barnes & Noble Union Square, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/bn-unionsq/bn-unionsq.md)<br>
 📝 [Review: _In My Own Process_ by Bruce Lee]()
