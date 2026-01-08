@@ -43,11 +43,20 @@ _Why this list?_
 |   33  | 香港史讀本 ([review](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%A6%99%E6%B8%AF%E5%8F%B2%E8%AE%80%E6%9C%AC.md)) |  劉智鵬、劉蜀永   |    誠品生活台南 / Jun 19          |        Jun 25   |
 |   34  | 藥師少女的獨語 15（輕小說）                               |      日向夏     |        政大書城台南店  / Aug 4     |        Aug 12   |
 |   35  | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 13                    | 日向夏（原作）、倉田三ノ路（作畫）  | 博客來電子書 / May 8 |      Aug 15    |
-|   36  | 哈利波特(1) 神秘的魔法石【繁體中文版25週年紀念首發】        | J.K. 羅琳（原）、彭倩文（譯）|      博客來電子書 / Aug 14   |      Dec 20    |
-|   37  | 小說 葬送的芙莉蓮 ～前奏～                              | 八目迷、山田鐘人    |      嗶哩輕小說                   |      Dec 22    |
-|   38  | 哈利波特(2) 消失的密室【繁體中文版25週年紀念首發】          | J.K. 羅琳（原）、彭倩文（譯）|      博客來電子書 / Aug 14   |      Dec 31   |
-
-
+|   36  | 葬送的芙莉蓮 Vol. 1                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   37  | 葬送的芙莉蓮 Vol. 2                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   38  | 葬送的芙莉蓮 Vol. 3                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   39  | 葬送的芙莉蓮 Vol. 4                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   40  | 葬送的芙莉蓮 Vol. 5                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   41  | 葬送的芙莉蓮 Vol. 6                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   42  | 葬送的芙莉蓮 Vol. 7                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   43  | 葬送的芙莉蓮 Vol. 8                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   44  | 葬送的芙莉蓮 Vol. 9                                    | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   45  | 葬送的芙莉蓮 Vol. 10                                   | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   46  | 葬送的芙莉蓮 Vol. 11                                   | 山田鐘人（原）、阿部司（畫） |          Komiic           |      Nov    |
+|   47  | 哈利波特(1) 神秘的魔法石【繁體中文版25週年紀念首發】        | J.K. 羅琳（原）、彭倩文（譯）|      博客來電子書 / Aug 14   |      Dec 20    |
+|   48  | 小說 葬送的芙莉蓮 ～前奏～                              | 八目迷、山田鐘人    |      嗶哩輕小說                   |      Dec 22    |
+|   49  | 哈利波特(2) 消失的密室【繁體中文版25週年紀念首發】          | J.K. 羅琳（原）、彭倩文（譯）|      博客來電子書 / Aug 14   |      Dec 31   |
 
 ## Reading / To Be Read
 |   No. |                   Book Name <br> 書名                 | Author <br> 作者 | Purchase Place & Date <br> 購買地點/日期 |
@@ -68,7 +77,7 @@ _Why this list?_
 |   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 17                    | 日向夏（原作）、倉田三ノ路（作畫）  |        博客來電子書 / May 8  |
 |   #   | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 18                    | 日向夏（原作）、倉田三ノ路（作畫）  |        博客來電子書 / May 8  |
 |   #   | The Great Book of Ancient Egypt                      |  Zahi Hawass    |         B&N 5AV /  May 12               |
-|   #   | ~這座城市叫香港~                                       |      ~黃宇軒~      |      ~香港書展 / Jul 18~                    |
+|   #   | ~這座城市叫香港~                                       |      ~黃宇軒~      |      ~香港書展 / Jul 18~                |
 |   #   | [臺灣活版時代：臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387) |  高鵬翔  |    政大書城 / Aug 4    |
 |   #   | The Collected Prose of Sylvia Plath                 |  Sylvia Plath       |                Amazon / Sept 2024    |
 
