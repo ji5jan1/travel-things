@@ -83,4 +83,4 @@ _Why this list?_
 |   #   | The Collected Prose of Sylvia Plath                 |  Sylvia Plath       |                Amazon / Sept 2024    |
 
 
-Last update: January 2, 2026
+Last update: January 8, 2026
