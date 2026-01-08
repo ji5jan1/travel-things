@@ -20,6 +20,6 @@
 |   #   | 哈利波特(7) 死神的聖物【繁體中文版25週年紀念首發】        | J.K. 羅琳（原）、林靜華、張定綺、彭倩文、趙丕慧（譯）| 博客來電子書 / Aug 14, 2025 |           |
 
 # 2026 Movies
-|   No. |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點   |  Date <br> 觀影日期 |
+|   No. |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
 |:-----:|------------------------------------------------------|:----------------:|:-------------------------------:|:------------------:|
 |   1   | Avatar: Fire and Ash（阿凡達：火與燼）[RealD 3D]       |   James Cameron  |       AMC 19th East 6           |        Jan 7       |
