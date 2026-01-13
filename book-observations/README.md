@@ -7,7 +7,7 @@
 ## ASIA
 
 ### 🇭🇰 Hong Kong
-📝 [書評：香港史讀本](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%A6%99%E6%B8%AF%E5%8F%B2%E8%AE%80%E6%9C%AC.md) `[zh-TW]`<br>
+📝 [書評：香港史讀本](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%A6%99%E6%B8%AF%E5%8F%B2%E8%AE%80%E6%9C%AC.md) [zh-TW]<br>
 📝 [書評：這座城市叫香港](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%80%99%E5%BA%A7%E5%9F%8E%E5%B8%82%E5%8F%AB%E9%A6%99%E6%B8%AF.md#%E6%9B%B8%E8%A9%95) [zh-TW]<br>
 🛍️ [Hong Kong Book Fair | 香港書展](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/bookfair-2025/hkbookfair25.md)—July 17-23, 2025 [zh-HK/ EN]<br>
 
