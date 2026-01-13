@@ -2,7 +2,7 @@
 
 🆕 [2026 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books.md)<br>
 👓 [2025 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md)<br>
-🧙🏻 [哈利波特](https://github.com/kelly990918/travel-things/blob/main/book-observations/harrypotter.md)<br>
+🧙🏻 [《哈利波特》](https://github.com/kelly990918/travel-things/blob/main/book-observations/harrypotter.md) [zh-HK]<br>
 
 --- 
 ## ASIA
