@@ -1,7 +1,7 @@
 # 《哈利波特》
 2026年1月13日
 
-<div id="image-text" style="display: flex;"
+<div id="image-text" style="display: flex;">
 <img style="height: 300px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/harrypotter.png" alt="Harry Potter on books.com.tw">
 
 <div id="paragraph" style="display: flex; flex-direction: column;">
