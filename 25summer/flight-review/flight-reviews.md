@@ -1,5 +1,4 @@
 # Flight Reviews, May 2025
-Kelly Leung<br>
 *7 days,*<br>
 *5 flights,*<br>
 *1478 minutes in the sky,*<br>
