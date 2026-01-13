@@ -44,12 +44,8 @@ Kelly Leung | Tainan, Taiwan | June 2025
 ---
 
 ## Bookstore
+There's not a lot of walking spaces around the store, so I recommend going on weekdays. The store building is actually big, but the interior design is just... not good enough.<br>
 <img style="height: 300px; width: auto;" alt="eslite bookstore tainan" src="/book-observations/taiwan/eslite-tainan/bookstore.jpeg">
-There's not a lot of walking spaces around the store, so I recommend going on weekdays. The store building is actually big, but the interior design is just... not good enough. 
-
-### Grand Opening Stamp Collecting Event
-Lucky draws and coupons
-<img style="height: 300px; width: auto;" alt="grand opening stamp collecting event" src="/travel-things/book-observations/taiwan/eslite-tainan/stamp.jpeg">
 
 ---
 
@@ -59,7 +55,6 @@ Lucky draws and coupons
 <img style="height: 300px; width: auto;" alt="Indie Publishers shelf 3" src="/book-observations/taiwan/eslite-tainan/indie3.jpeg">
 <img style="height: 300px; width: auto;" alt="Indie Publishers shelf 4" src="/book-observations/taiwan/eslite-tainan/indie4.jpeg">
 
-
 ---
 
 ## Taiwanese Literature Exhibition
@@ -68,9 +63,9 @@ Lucky draws and coupons
 <img style="height: 300px; width: auto;" alt="Taiwanese Lit exhibition 3" src="/book-observations/taiwan/eslite-tainan/tw-lit3.jpeg">
 
 ## Exhibition Activities
-If the books are items on a menu, what would you order?
+If the books are items on a menu, what would you order?<br>
 <img style="height: 300px; width: auto;" alt="Taiwanese lit menu" src="/book-observations/taiwan/eslite-tainan/twlit-restaurant3.jpeg">
 
-Copy Taiwanese literature books!
+Copy Taiwanese literature books!<br>
 <img style="height: 300px; width: auto;" alt="Letters on Chopsticks" src="/book-observations/taiwan/eslite-tainan/twlit-restaurant1.jpeg">
 <img style="height: 300px; width: auto;" alt="Letters on Chopsticks—my take" src="/book-observations/taiwan/eslite-tainan/twlit-restaurant2.jpeg">
