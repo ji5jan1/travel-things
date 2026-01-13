@@ -14,6 +14,7 @@
 - 🛩️ B757-200 (N48127)
 - 📺 PTV 👍🏻
 - 🍱 No meals 👎🏻
+
 **Comments:** Just a normal United flight?
 
 --- 
@@ -26,6 +27,7 @@
 - 🛩️ B777-200ER (N211UA)
 - 📺 No PTV 👎🏻
 - 🍱 No meals 👎🏻
+
 **Comments:** A delayed United flight. Great chat with the Chinese anut who sat next to me.
 
 --- 
@@ -39,7 +41,9 @@
 - 🛩️ A380 (JA-381A)
 - 📺 PTV 👍🏻
 - 🍱 Two meals 👍🏻
+
 ![ANA in-flight meal](https://github.com/kelly990918/travel-things/blob/main/25summer/flight-review/ana-meal.jpeg)<br>
+
 **Comments:** First time on an A380! The aircraft is HUGE, also the leg room is large!<br>  
 The aircraft is clean, and Japanese service is great as always. But I had some hard time with the flight attendant's Japanese accent 😂<br>
 *They serve Haagn Dazs!*
@@ -54,6 +58,7 @@ The aircraft is clean, and Japanese service is great as always. But I had some h
 - 🛩️ A320 (JA-09JJ)
 - 📺 No PTV 👎🏻
 - 🍱 No meals 👎🏻
+
 **Comments:** Very short domestic flight with almost 0 service. They have a very strict carry-on policy (7kg)! So glad that I grabbed breakfast before boarding!
 
 --- 
@@ -66,5 +71,6 @@ The aircraft is clean, and Japanese service is great as always. But I had some h
 - 🛩️ A321 (B-16220)
 - 📺 No PTV 👎🏻
 - 🍱 With meal 👍🏻
+
 ![EVA in-flight meal](https://github.com/kelly990918/travel-things/blob/main/25summer/flight-review/eva-meal.jpeg)<br>
 **Comments:** Nice meal, but the couple sat next to me stink... They smelled like tobacco and like they haven't showered for three days.. And people keep walking around (my seat was right next to the bathroom so...)
