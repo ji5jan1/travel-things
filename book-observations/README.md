@@ -1,7 +1,11 @@
 # 📚 BOOKS 📚
+The language I use is not 100% consistent—depending on the context/ language of the books I read. I added a language tag after each article for your convenience.<br>
+`EN`: English<br>
+`zh-TW`: Written Vernacular Chinese<br>
+`zh-HK`: Written Cantonese<br>
 
-🆕 [2026 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books.md)<br>
-👓 [2025 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md)<br>
+🆕 [2026 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books.md) [zh-TW/ EN]<br>
+👓 [2025 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md) [zh-TW/ EN]<br>
 🧙🏻 [《哈利波特》](https://github.com/kelly990918/travel-things/blob/main/book-observations/harrypotter.md) [zh-HK]<br>
 
 --- 
@@ -31,4 +35,4 @@
 👯‍♀️ [Sylvia and Kelly](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/sylvia-and-kelly/sylvia-and-kelly.md) [EN]<br>
 📚 [McNally Jackson Books Seaport, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/mcnally-jackson-seaport/mcnally-jackson-seaport.md) [EN]<br>
 📚 [Barnes & Noble Union Square, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/bn-unionsq/bn-unionsq.md) [EN]<br>
-📝 [Review: _In My Own Process_ by Bruce Lee]() [EN]
+📝 [Review: _In My Own Process_ by Bruce Lee]() [EN]<br>
