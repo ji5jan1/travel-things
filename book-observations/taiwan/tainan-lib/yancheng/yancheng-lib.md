@@ -1,11 +1,7 @@
-<style>
-  img {height: 400px; width: auto}
-</style>
-
 # Tainan Yancheng Public Library | 臺南市鹽埕圖書館
 📍 No. 51, Xinhe E. Rd., South Dist., Tainan City 702010
 
-<img alt="Yancheng Library" src="/book-observations/taiwan/tainan-lib/yancheng/building.jpeg">
+<img style="height: 400px; width: auto" alt="Yancheng Library" src="/book-observations/taiwan/tainan-lib/yancheng/building.jpeg">
 
 ---
 ## Introduction 
@@ -26,9 +22,9 @@ _from leaflet_
 ---
 ## Images
 ### Staircase 
-<img alt="Staircase 1" src="/book-observations/taiwan/tainan-lib/yancheng/stair.jpeg">
-<img alt="Staircase 2" src="/book-observations/taiwan/tainan-lib/yancheng/stair2.jpeg">
+<img style="height: 400px; width: auto" alt="Staircase 1" src="/book-observations/taiwan/tainan-lib/yancheng/stair.jpeg">
+<img style="height: 400px; width: auto" alt="Staircase 2" src="/book-observations/taiwan/tainan-lib/yancheng/stair2.jpeg">
 
 ### Multicultural Area
 They have a diverse collection of multilingual books, like Vietnamese, Indonseian, Thai, etc. 
-<img alt="Multilingual Book Collections" src="/book-observations/taiwan/tainan-lib/yancheng/multiculture.jpeg">
+<img style="height: 400px; width: auto" alt="Multilingual Book Collections" src="/book-observations/taiwan/tainan-lib/yancheng/multiculture.jpeg">
