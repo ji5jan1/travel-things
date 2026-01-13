@@ -4,6 +4,8 @@ The language I use is not 100% consistent—depending on the context/ language o
 `zh-TW`: Written Vernacular Chinese<br>
 `zh-HK`: Written Cantonese<br>
 
+---
+
 🆕 [2026 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books.md) [zh-TW/ EN]<br>
 👓 [2025 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md) [zh-TW/ EN]<br>
 🧙🏻 [《哈利波特》](https://github.com/kelly990918/travel-things/blob/main/book-observations/harrypotter.md) [zh-HK]<br>
