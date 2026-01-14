@@ -35,7 +35,7 @@
 |   #   | 香港百年：住公屋、飲杯茶、賭馬仔，尋訪在地舊情懷，重溫久違人情味| 雪姬 (Suki Yeung) |                 |      博客來電子書 / Jun 25, 2025         |
 |   #   | 光輝歲月‧香港百年II：追星、炒樓、錢錢錢，那段繁榮發展與創造奇蹟的黃金年代| 雪姬 (Suki Yeung) |        |      博客來電子書 / Jun 25, 2025          |
 |   #   | 香港故事‧香港百年III：霓虹、屋邨、老街坊，獅子山下的時光旅圖，純樸繁華的鄰里日常| 雪姬 (Suki Yeung) |    |      博客來電子書 / Jun 25, 2025       |
-|   #   | The Great Book of Ancient Egypt                      |  Zahi Hawass    |                   |   B&N 5AV /  May 12, 2025             |
+|   #   | The Great Book of Ancient Egypt                      |  Zahi Hawass    |  Anthropology     |   B&N 5AV /  May 12, 2025             |
 |   #   | [臺灣活版時代：臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387) |  高鵬翔  |    |    政大書城 / Aug 4, 2025            |
 |   #   | The Collected Prose of Sylvia Plath               |  Sylvia Plath  |  Fiction & Non-fiction  | Amazon UK (pre-ordered) / Sept 2024 |
 
