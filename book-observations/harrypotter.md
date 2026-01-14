@@ -1,7 +1,7 @@
 # 《哈利波特》
 2026年1月13日
 
-<img style="height: 300px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/harrypotter.png" alt="Harry Potter on books.com.tw">
+<img style="height: 400px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/harrypotter.png" alt="Harry Potter on books.com.tw">
 
 一個有志做作家、進入出版業嘅人話自己冇睇過《哈利波特》？講都冇人信。但我就係到廿六歲先第一次睇。
 
