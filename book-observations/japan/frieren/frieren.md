@@ -32,7 +32,7 @@ _Last Update: January 18, 2026_
 |:----------:|----------------|----------------|----------------|
 | **Author** | Author: 山田鐘人 ([Kanehito Yamada](https://shogakukan-comic.jp/author?cd=9767)) <br> Illustrator: 阿部司 (Tsukasa Abe) ([@abetsukasa](https://x.com/abetsukasa)) | 八目迷 (Mei Hachimoku) ([@hatimokumei](https://x.com/hatimokumei)) | 時海結以 |
 | **Publishing Date** | 8/18/2020-12/18/2025 (15 Volumes) | Vol. 1: 4/17/2024 <br> Vol. 2: 12/18/2025 | Vol. 1: 2/21/2025 <br> Vol. 2: 4/18/2025 <br> Vol. 3: 6/27/2025 <br> Vol. 4: 8/29/2025 <br> Vol. 5: 10/24/2025 |
-| **Publisher/ Imprint** | Shogakukan | Shogakukan | hogakukan |
+| **Publisher/ Imprint** | Shogakukan | Shogakukan | Shogakukan |
 
 ### Anime
 |       | Season 1 | Season 2 | Mini Anime <br> 葬送のフリーレン 〜●●の魔法〜 |
