@@ -21,6 +21,7 @@ The language I use is not 100% consistent—depending on the context/ language o
 ### 🇯🇵 Japan
 🛍️ [Bookstores in Umeda, Osaka | 梅田書店遊蹤](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/umeda/umeda-bookstores.md) [EN]<br> 
 💊 [Apothecary Diaries | 藥師少女的獨語](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/apothecary/apothecary-diaries.md) [EN]<br>
+🪄 [Frieren: Beyond Journey's End | 葬送的芙莉蓮](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/frieren/frieren.md) [EN]<br>
 
 ### 🇹🇼 Taiwan
 🆕 [eslite spectrum, Tainan City | 誠品生活台南](https://github.com/kelly990918/travel-things/blob/main/book-observations/taiwan/eslite-tainan/eslite-tainan.md) [EN]<br> 
