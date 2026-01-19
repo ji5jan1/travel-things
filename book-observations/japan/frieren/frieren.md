@@ -28,11 +28,11 @@ _Last Update: January 18, 2026_
 ## Publishing History
 
 ### Books
-|            | Manga <br> 葬送のフリーレン | Novel <br> 小説 葬送のフリーレン 〜前奏〜 | Novel <br> 小説 アニメ 葬送のフリーレン |
-|:----------:|----------------|----------------|----------------|
-| **Author** | Author: 山田鐘人 ([Kanehito Yamada](https://shogakukan-comic.jp/author?cd=9767)) <br> Illustrator: 阿部司 (Tsukasa Abe) ([@abetsukasa](https://x.com/abetsukasa)) | 八目迷 (Mei Hachimoku) ([@hatimokumei](https://x.com/hatimokumei)) | 時海結以 |
-| **Publishing Date** | 8/18/2020-12/18/2025 (15 Volumes) | Vol. 1: 4/17/2024 <br> Vol. 2: 12/18/2025 | Vol. 1: 2/21/2025 <br> Vol. 2: 4/18/2025 <br> Vol. 3: 6/27/2025 <br> Vol. 4: 8/29/2025 <br> Vol. 5: 10/24/2025 |
-| **Publisher/ Imprint** | Shogakukan | Shogakukan | Shogakukan |
+|            | Manga <br> 葬送のフリーレン | Novel <br> 小説 葬送のフリーレン 〜前奏〜 | Novel <br> 小説 アニメ 葬送のフリーレン | Novel <br> OPテーマ「勇者」楽曲用原作小説「奏送」| 
+|:----------:|----------------|----------------|----------------|----------------|
+| **Author** | Author: 山田鐘人 ([Kanehito Yamada](https://shogakukan-comic.jp/author?cd=9767)) <br> Illustrator: 阿部司 (Tsukasa Abe) ([@abetsukasa](https://x.com/abetsukasa)) | 八目迷 (Mei Hachimoku) ([@hatimokumei](https://x.com/hatimokumei)) | 時海結以 | 木曾次朗 |
+| **Publishing Date** | 8/18/2020-12/18/2025 (15 Volumes) | Vol. 1: 4/17/2024 <br> Vol. 2: 12/18/2025 | Vol. 1: 2/21/2025 <br> Vol. 2: 4/18/2025 <br> Vol. 3: 6/27/2025 <br> Vol. 4: 8/29/2025 <br> Vol. 5: 10/24/2025 | 2023 |
+| **Publisher/ Imprint** | Shogakukan | Shogakukan | Shogakukan | [Link](https://frieren-anime.jp/special/novel/) |
 
 ### Anime
 |       | Season 1 | Season 2 | Mini Anime <br> 葬送のフリーレン 〜●●の魔法〜 |
