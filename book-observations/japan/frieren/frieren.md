@@ -5,7 +5,7 @@ _Last Update: January 20, 2026_
 
 ![Frieren Anime S2 banner (source: https://x.com/Anime_Frieren/status/1707757119712428149/photo/1)](/book-observations/japan/frieren/banner.jpeg)
 
-_A story about Frieren's short adventure with Himmel, her long journeys after his death, and the new people she meets in her life!_
+<h3 style="align:center;"><i>A story about Frieren's short adventure with Himmel, her long journeys after his death, and the new people she meets in her life!</i></h3>
 
 ## Official Platforms
 
