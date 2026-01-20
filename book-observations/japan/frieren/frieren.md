@@ -8,7 +8,8 @@ _Last Update: January 20, 2026_
 ## Official Platforms
 
 - Anime site: [frieren-anime.jp](https://frieren-anime.jp/)
-- Manga site: [Weekly Shonen Sunday (Shogakukan)](https://websunday.net/work/708/) 
+- Manga site: [Weekly Shonen Sunday (Shogakukan)](https://websunday.net/work/708/)
+- Art gallery: [frieren-anime.jp](https://frieren-anime.jp/special/gallery/)
 
 ### Social Media
 | Platform | Handle | Followers |
