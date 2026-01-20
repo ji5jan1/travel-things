@@ -1,7 +1,7 @@
 # 2026 Books
 
-|   No. |  Image  |                    Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類   | Purchase Place & Date <br> 購買地點/日期 | Finish Date <br> 完讀日 |
-|:-----:|---------|------------------------------------------------------|:----------------:|:-----------------:|:--------------------------------------:|:----------------------:|
+|   No. |  Image <br> 封面圖  |                    Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類   | Purchase Place & Date <br> 購買地點/日期 | Finish Date <br> 完讀日 |
+|:-----:|--------------------|------------------------------------------------------|:----------------:|:-----------------:|:--------------------------------------:|:----------------------:|
 |   1   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/1-harrypotter3.jpg"> | 哈利波特(3) 阿茲卡班的逃犯【繁體中文版25週年紀念首發】 |  J.K. 羅琳（原）、彭倩文（譯）  |  西洋文學   |     博客來電子書 / Aug 14, 2025        |    Jan 1       |
 |   2   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/2-hongkong.jpg"> | 這座城市叫香港 ([review](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%80%99%E5%BA%A7%E5%9F%8E%E5%B8%82%E5%8F%AB%E9%A6%99%E6%B8%AF.md#%E9%80%99%E5%BA%A7%E5%9F%8E%E5%B8%82%E5%8F%AB%E9%A6%99%E6%B8%AF-this-city-is-hong-kong)) | 黃宇軒 | 社會學 |  香港書展 / Jul 18, 2025 | Jan 2 |
 |   3   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/3-harrypotter4.jpg"> | 哈利波特(4) 火盃的考驗【繁體中文版25週年紀念首發】 | J.K. 羅琳（原）、彭倩文（譯） | 西洋文學 | 博客來電子書 / Aug 14, 2025 | Jan 4 |
@@ -18,16 +18,16 @@
 
 
 ## Reading
-|   No. |  Image  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
-|:-----:|---------|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
+|   No. |  Image <br> 封面圖  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
+|:-----:|--------------------|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zhuangzi-philosophy.jpg"> | 莊子的生命哲學 | 葉海煙 | 東方哲學 | 新竹市立圖書館HyRead / Jan 10 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/lady-flavor.jpg"> | 好味小姐的日常貓鮮食料理 | 好味小姐 | 寵物 | 香港HyRead / Jan 19 |
 
 
 ## Bookshelf
-|   No. |  Image  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
-|:-----:|---------|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
+|   No. |  Image <br> 封面圖  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
+|:-----:|--------------------|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/tai-po.jpeg"> | 大埔故事 | 孔慧怡 | 社會學 | 誠品生活台南 / Jun  28, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/shanhai.webp"> | 山海經【古版彩圖珍藏版】：一窺神祗異獸的起源，最值得典藏的上古百科全書 | 徐客 | 中國文學 | 誠品生活台南 / Jun  6, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/reading-tawian.webp"> | 島讀臺灣：旅行時，到書店邂逅一本書！ | 詹慶齡、余尚彬 | 旅遊 | 誠品生活台南 / Jun  19, 2025 |
@@ -47,6 +47,6 @@
 
 # 2026 Movies
 
-|   No. |  Image  |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
-|:-----:|---------|------------------------------------------------------|:----------------:|:-------------------------------:|:------------------:|
+|   No. |  Image <br> 封面圖  |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
+|:-----:|--------------------|------------------------------------------------------|:----------------:|:-------------------------------:|:------------------:|
 |   1   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie1-avatar3.jpg"> | Avatar: Fire and Ash（阿凡達：火與燼）[RealD 3D] | James Cameron |  AMC 19th East 6 | Jan 7 |
