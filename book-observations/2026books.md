@@ -20,9 +20,9 @@
 ## Reading
 |   No. |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
 |:-----:|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
-|   #   | In My Own Process                                 | Bruce Lee         |   Non-fiction   |   Strand Bookstore / May 4, 2024     |
-|   #   | 莊子的生命哲學                                       | 葉海煙             |   東方哲學           |  新竹市立圖書館HyRead / Jan 10         |
-
+|   #   | In My Own Process                                 | Bruce Lee         |   Non-fiction   |   Strand Bookstore / May 4, 2024         |
+|   #   | 莊子的生命哲學                                       | 葉海煙             |   東方哲學         |  新竹市立圖書館HyRead / Jan 10           |
+|   #   | 好味小姐的日常貓鮮食料理                                  | 好味小姐        |     寵物          |  香港HyRead / Jan 19                    |
 
 ## Bookshelf
 |   No. |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
