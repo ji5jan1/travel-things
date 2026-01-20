@@ -1,7 +1,7 @@
 # 葬送のフリーレン | Frieren: Beyond Journey's End
 
 _Published: January 18, 2026_<br>
-_Last Update: January 18, 2026_
+_Last Update: January 20, 2026_
 
 ![Frieren Anime S2 banner (source: https://x.com/Anime_Frieren/status/1707757119712428149/photo/1)](/book-observations/japan/frieren/banner.jpeg)
 
@@ -35,6 +35,8 @@ _Last Update: January 18, 2026_
 | **Publisher/ Imprint** | Shogakukan | Shogakukan | Shogakukan | [Link](https://frieren-anime.jp/special/novel/) |
 
 ### Anime
+***🤍 SEASON 2 ON-AIR: 1/26/2026 🩵***<br>
+S2 on-air/ podcast/ mini-animation calendar: [Link](https://frieren-anime.jp/special/calendar/)<br>
 |       | Season 1 | Season 2 | Mini Anime <br> 葬送のフリーレン 〜●●の魔法〜 |
 |:------:|----------|----------|----------|
 | **Air Time** | 9/29/2023-3/22/2024 (28 Episodes) | 1/16/2026-present | 10/11/2023-present |
