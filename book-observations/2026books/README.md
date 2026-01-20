@@ -47,6 +47,6 @@
 
 # 2026 Movies
 
-|   No. |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
-|:-----:|------------------------------------------------------|:----------------:|:-------------------------------:|:------------------:|
-|   1   | Avatar: Fire and Ash（阿凡達：火與燼）[RealD 3D]       |   James Cameron  |       AMC 19th East 6           |        Jan 7       |
+|   No. |  Image  |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
+|:-----:|---------|------------------------------------------------------|:----------------:|:-------------------------------:|:------------------:|
+|   1   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie1-avatar3.jpg"> | Avatar: Fire and Ash（阿凡達：火與燼）[RealD 3D] | James Cameron |  AMC 19th East 6 | Jan 7 |
