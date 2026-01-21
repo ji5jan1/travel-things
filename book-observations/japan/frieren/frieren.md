@@ -54,8 +54,9 @@ S2 on-air/ radio/ mini-animation calendar: [Click here!](https://frieren-anime.j
 ## Special 
 | Speciality | Description/ Link |
 |:----------:|-------------------|
-|  Podcast   | Featuring voice actors on [YouTube](https://www.youtube.com/watch?v=l_KsA0RiALY&list=PLtdSPZNWT1At4bMijey75jsXGGkEgaItQ&index=5) [[Official catalog](https://frieren-anime.jp/special/talkmagic/)]|
+|  Podcast   | Featuring voice actors on [YouTube](https://www.youtube.com/watch?v=l_KsA0RiALY&list=PLtdSPZNWT1At4bMijey75jsXGGkEgaItQ&index=5) ([Official catalog](https://frieren-anime.jp/special/talkmagic/)) |
 | Blu-ray & DVD | [Official site](https://frieren-anime.jp/bddvd/1st/) |
+| Special Screening | [Info](https://frieren-anime.jp/special/screening/) |
 
 | Brand Collaboration | Description/ Link |
 |---------------------|-------------------|
