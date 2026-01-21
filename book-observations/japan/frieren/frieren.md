@@ -15,7 +15,7 @@ _Last Update: January 20, 2026_
 
 ### Social Media
 | Platform | Handle | Followers |
-|----------|--------|-----------|
+|:--------:|--------|-----------|
 | 𝕏 | 『葬送のフリーレン』公式 ([@FRIEREN_PR](https://x.com/FRIEREN_PR/media)) | 1.3M |
 | 𝕏 | 『葬送のフリーレン』アニメ公式 ([@Anime_Frieren](https://x.com/Anime_Frieren)) | 657.4K |
 | 𝕏 | 【公式】アニメ 葬送のフリーレン展 ([@frieren_ten](https://x.com/frieren_ten)) | 25.2K |
