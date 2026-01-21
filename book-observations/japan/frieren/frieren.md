@@ -39,8 +39,8 @@ _Last Update: January 20, 2026_
 
 ### Anime
 🩵🤍 ***SEASON 2 ON-AIR STARTING 1/26/2026*** 🩵🤍<br>
-S2 on-air/ radio/ mini-animation calendar: [Click here!](https://frieren-anime.jp/special/calendar/)<br>
-All anime music on Spotify: [Click here!](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)<br>
+📅 S2 on-air/ radio/ mini-animation calendar: [Click here!](https://frieren-anime.jp/special/calendar/)<br>
+🎼 All anime music on Spotify: [Click here!](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)<br>
 |       | Season 1 | Season 2 | Mini Anime <br> 葬送のフリーレン 〜●●の魔法〜 |
 |:------:|----------|----------|----------|
 | **Air Time** | 9/29/2023-3/22/2024 (28 Episodes) | 1/16/2026-present | 10/11/2023-present |
