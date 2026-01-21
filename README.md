@@ -36,4 +36,4 @@ Yi Yan Kelly Leung, B.A. (CityUHK), M.A. (CUHK), M.S. (NYU)
 _Inspired by_ [_HowToCook_](https://github.com/Anduin2017/HowToCook)
 
 --- 
-© 2025 Yi Yan Leung. This work is licensed under CC BY-SA 4.0.
+© 2026 Yi Yan Leung. This work is licensed under CC BY-SA 4.0.
