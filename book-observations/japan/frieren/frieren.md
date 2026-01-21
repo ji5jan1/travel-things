@@ -46,7 +46,7 @@ S2 on-air/ radio/ mini-animation calendar: [Click here!](https://frieren-anime.j
 | **Studio** | MADHOUSE / TOHO | MADHOUSE / TOHO | TOHO |
 | **Director** | 斎藤圭一郎 | 北川朋哉 | - |
 | **Production** | 「葬送のフリーレン」製作委員会 | 「葬送のフリーレン」製作委員会 | 「葬送のフリーレン」製作委員会 |
-| **Music** | Opening: YOASOBI「勇者 (The Brave)」, Yorushika「晴る (Sunny)」 <br> Ending: milet「Anytime Anywhere」<br> OST: Evan Call <br> Special: milet「bliss」 | Opening: Mrs. GREEN APPLE「lulu.」<br> Ending: milet「The Story of Us」<br> OST: Evan Call | - |
+| **Music** | - Opening: YOASOBI「勇者 (The Brave)」, Yorushika「晴る (Sunny)」 <br> - Ending: milet「Anytime Anywhere」<br> - OST: Evan Call <br> - Special: milet「bliss」 | - Opening: Mrs. GREEN APPLE「lulu.」<br> - Ending: milet「The Story of Us」<br> - OST: Evan Call | - |
 | **License** | Crunchyroll <br> SEA: Muse Communication | Crunchyroll <br> SEA: Muse Communication | - |
 
 ---
