@@ -40,13 +40,14 @@ _Last Update: January 20, 2026_
 ### Anime
 ***🤍 SEASON 2 ON-AIR: 1/26/2026 🩵***<br>
 S2 on-air/ radio/ mini-animation calendar: [Click here!](https://frieren-anime.jp/special/calendar/)<br>
+All anime music on Spotify: [Click here!](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)<br>
 |       | Season 1 | Season 2 | Mini Anime <br> 葬送のフリーレン 〜●●の魔法〜 |
 |:------:|----------|----------|----------|
 | **Air Time** | 9/29/2023-3/22/2024 (28 Episodes) | 1/16/2026-present | 10/11/2023-present |
 | **Studio** | MADHOUSE / TOHO | MADHOUSE / TOHO | TOHO |
 | **Director** | 斎藤圭一郎 | 北川朋哉 | - |
 | **Production** | 「葬送のフリーレン」製作委員会 | 「葬送のフリーレン」製作委員会 | 「葬送のフリーレン」製作委員会 |
-| **Music** | - Opening: YOASOBI「勇者 (The Brave)」, Yorushika「晴る (Sunny)」 <br> - Ending: milet「Anytime Anywhere」<br> - OST: Evan Call <br> - Special: milet「bliss」 | - Opening: Mrs. GREEN APPLE「lulu.」<br> - Ending: milet「The Story of Us」<br> - OST: Evan Call | - |
+| **Music** | - Opening: YOASOBI「[勇者 (The Brave)](https://www.youtube.com/watch?v=QoGM9hCxr4k)」, Yorushika「[晴る (Sunny)](https://www.youtube.com/watch?v=E0d2uEQJbXs)」 <br> - Ending: milet「[Anytime Anywhere](https://www.youtube.com/watch?v=lv5R6C3hz54)」<br> - Special: milet「[bliss](https://www.youtube.com/watch?v=5Ufj38W6-o4)」<br> - [OST](https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS): Evan Call | - Opening: Mrs. GREEN APPLE「[lulu.](https://www.youtube.com/watch?v=C0BG3B7aksU)」<br> - Ending: milet「[The Story of Us](https://www.youtube.com/watch?v=FY4Bx2qtkRM)」<br> - OST: Evan Call | - |
 | **License** | Crunchyroll <br> SEA: Muse Communication | Crunchyroll <br> SEA: Muse Communication | - |
 
 ---
