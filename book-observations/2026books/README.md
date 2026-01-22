@@ -23,7 +23,7 @@
 |:-----:|:------------------:|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zhuangzi-philosophy.jpg"> | 莊子的生命哲學 | 葉海煙 | 東方哲學 | 新竹市立圖書館HyRead / Jan 10 |
-|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/lady-flavor2.jpg"> | 與貓的好味時光:第一本貓與貓奴的鮮食共享料理書 從做點心開始, 享受你與貓的約會 | 好味小姐 | 寵物 | 香港HyRead / Jan 22 |
+|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/lady-flavor2.jpg"> | 與貓的好味時光：第一本貓與貓奴的鮮食共享料理書；從做點心開始，享受你與貓的約會 | 好味小姐 | 寵物 | 香港HyRead / Jan 22 |
 
 
 ## Bookshelf
