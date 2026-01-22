@@ -15,7 +15,7 @@
 |   11   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/11-ksry18.webp"> | 藥屋少女的呢喃～貓貓的後宮解謎手帳～ 18 | 日向夏（原作）、倉田三ノ路（作畫） | 漫畫 | 博客來電子書 / May 8, 2025 | Jan 13 |
 |   12   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/12-cats.jpg"> | 貓的人類征服史：從封神到屠殺，是惡靈也是萌寵！看貓咪與人類千萬年相牽的跌宕命運史 | 林韻 | 文化風俗人類 | 新竹市HyRead / Jan 14 |  Jan 17 |
 |   13   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/13-fanfare_frieren.webp"> | [奏送](https://github.com/kelly990918/travel-things/blob/main/book-observations/japan/frieren/frieren.md) (Fanfare for Frieren) | 木曾次郎 | 短篇小說 | 嗶哩輕小說 <br> [原文 / Original text](https://frieren-anime.jp/special/novel/)| Jan 17 |
-|   14   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/lady-flavor.jpg"> | 好味小姐的日常貓鮮食料理 ([Notes](https://medium.com/@gangankan/d-3-nutrition-for-cats-700a809897f8?postPublishedType=repub)) | 好味小姐 | 寵物 | 香港HyRead / Jan 19 | Jan 22 |
+|   14   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/14-lady-flavor.jpg"> | 好味小姐的日常貓鮮食料理 ([Notes](https://medium.com/@gangankan/d-3-nutrition-for-cats-700a809897f8?postPublishedType=repub)) | 好味小姐 | 寵物 | 香港HyRead / Jan 19 | Jan 22 |
 
 
 ## Reading
