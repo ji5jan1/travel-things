@@ -1,7 +1,7 @@
 # 葬送のフリーレン | Frieren: Beyond Journey's End
 
 _Published: January 18, 2026_<br>
-_Last Update: January 20, 2026_
+_Last Update: January 27, 2026_
 
 ![Frieren Anime S2 banner (source: https://x.com/Anime_Frieren/status/1707757119712428149/photo/1)](/book-observations/japan/frieren/banner.jpeg)
 
@@ -61,6 +61,7 @@ _Last Update: January 20, 2026_
 
 | Brand Collaboration | Description/ Link |
 |---------------------|-------------------|
+| Sweets Paradise | [Announcement](https://www.sweets-paradise.jp/collaboration/2026/frieren) |
 | Universal Studios Japan | Event ([News](https://frieren-anime.jp/news/4499/)/ [Official site](https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2026/frieren)) |
 | Onsen Culture | [Promotional article](https://frieren-anime.jp/news/4568/) |
 | 味ぽん (Ajipon) | Special package ([News](https://frieren-anime.jp/news/1047/)) |
