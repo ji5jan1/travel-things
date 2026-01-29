@@ -1,11 +1,14 @@
 # 葬送のフリーレン | Frieren: Beyond Journey's End
 
 _Published: January 18, 2026_<br>
-_Last Update: January 27, 2026_
+_Last Update: January 29, 2026_
 
 ![Frieren Anime S2 banner (source: https://x.com/Anime_Frieren/status/1707757119712428149/photo/1)](/book-observations/japan/frieren/banner.jpeg)
 
-<div align="center"><h3><i>A story about Frieren's short adventure with Himmel, her long journeys after his death, and the new people she meets in her life!</i></h3></div>
+<div align="center"><h3><i>A story about Frieren's short adventure with Himmel, her long journeys after his death, and the new people she meets in her life!</i><br><br>
+🩵🤍 ANIME SEASON 2 ON-AIR STARTING 1/26/2026 🩵🤍<br>
+<a href="https://www.crunchyroll.com/series/GG5H5XQX4/frieren-beyond-journeys-end" >Stream on Crunchyroll</a>
+</h3></div>
 
 ## Official Platforms
 
@@ -38,7 +41,6 @@ _Last Update: January 27, 2026_
 | **Publisher/ Imprint** | Shogakukan | Shogakukan | Shogakukan | [Text](https://frieren-anime.jp/special/novel/) |
 
 ### Anime
-🩵🤍 ***SEASON 2 ON-AIR STARTING 1/26/2026*** 🩵🤍<br>
 📅 S2 on-air/ radio/ mini-animation calendar: [Click here!](https://frieren-anime.jp/special/calendar/)<br>
 🎼 All anime music on Spotify: [Click here!](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)<br>
 |       | Season 1 | Season 2 | Mini Anime <br> 葬送のフリーレン 〜●●の魔法〜 |
@@ -55,13 +57,13 @@ _Last Update: January 27, 2026_
 ## Special 
 | Speciality | Description/ Link |
 |:----------:|-------------------|
-|  Podcast   | Featuring voice actors on [YouTube](https://www.youtube.com/watch?v=l_KsA0RiALY&list=PLtdSPZNWT1At4bMijey75jsXGGkEgaItQ&index=5) ([Official catalog](https://frieren-anime.jp/special/talkmagic/)) |
+| Podcast "Magic of Talk" | Featuring voice actors on [YouTube](https://www.youtube.com/watch?v=l_KsA0RiALY&list=PLtdSPZNWT1At4bMijey75jsXGGkEgaItQ&index=5) ([Official catalog](https://frieren-anime.jp/special/talkmagic/)) |
 | Blu-ray & DVD | [Official site](https://frieren-anime.jp/bddvd/1st/) |
 | Special Screening | [Info](https://frieren-anime.jp/special/screening/) |
 
 | Brand Collaboration | Description/ Link |
 |---------------------|-------------------|
-| Sweets Paradise | [Announcement](https://www.sweets-paradise.jp/collaboration/2026/frieren) |
+| Sweets Paradise | Themed Cafe(?) [Announcement](https://www.sweets-paradise.jp/collaboration/2026/frieren) |
 | Universal Studios Japan | Event ([News](https://frieren-anime.jp/news/4499/)/ [Official site](https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2026/frieren)) |
 | Onsen Culture | [Promotional article](https://frieren-anime.jp/news/4568/) |
 | 味ぽん (Ajipon) | Special package ([News](https://frieren-anime.jp/news/1047/)) |
@@ -72,7 +74,7 @@ _Last Update: January 27, 2026_
 | Asahi | Special Merch ([News](https://frieren-anime.jp/news/1386/)) |
 | Asahi | Vending machine sweepstakes ([News](https://frieren-anime.jp/news/4337/)) |
 | かっぱ寿司 (Kappa Sushi) | Gifts ([News](https://frieren-anime.jp/news/1376/)/ [Official site](https://www.kappasushi.jp/cp/2024/frieren)) |
-| Identity V | Mobile game merch ([News](https://frieren-anime.jp/news/4274/)) |
+| Identity V | Special character/ maps ([News](https://frieren-anime.jp/news/4274/)) |
 | Grand Summoners | Special characters/ skills ([News](https://frieren-anime.jp/news/4107/)/ [Official site](https://campaign.grandsummoners.com/frieren-gs/index.html)) |
 | 京成電鉄 (Keisei Electric Railway) | Merch ([News](https://frieren-anime.jp/news/3696/)/ [Official site](https://www.edith.co.jp/lp/keisei_frieren)) |
 | PUBG Mobile | [News](https://frieren-anime.jp/news/3689/) |
