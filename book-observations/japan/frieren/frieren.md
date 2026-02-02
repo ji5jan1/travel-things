@@ -63,6 +63,7 @@ _Last Update: January 29, 2026_
 
 | Brand Collaboration | Description/ Link |
 |---------------------|-------------------|
+| earth music & ecology | [Apparel](https://www.cdjapan.co.jp/feature/Frieren-earth-music-ecology-Collaborative-Apparel-Are-Available-for-International-Orders) |
 | Sweets Paradise | Themed Cafe(?) [Announcement](https://www.sweets-paradise.jp/collaboration/2026/frieren) |
 | Universal Studios Japan | Event ([News](https://frieren-anime.jp/news/4499/)/ [Official site](https://www.usj.co.jp/web/ja/jp/events/universal-cool-japan-2026/frieren)) |
 | Onsen Culture | [Promotional article](https://frieren-anime.jp/news/4568/) |
