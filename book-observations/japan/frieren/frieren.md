@@ -1,7 +1,7 @@
 # 葬送のフリーレン | Frieren: Beyond Journey's End
 
 _Published: January 18, 2026_<br>
-_Last Update: January 29, 2026_
+_Last Update: February 1, 2026_
 
 ![Frieren Anime S2 banner (source: https://x.com/Anime_Frieren/status/1707757119712428149/photo/1)](/book-observations/japan/frieren/banner.jpeg)
 
