@@ -18,6 +18,7 @@
 |   14   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/14-lady-flavor.jpg"> | 好味小姐的日常貓鮮食料理 ([Notes](https://medium.com/@gangankan/d-3-nutrition-for-cats-700a809897f8?postPublishedType=repub)) | 好味小姐 | 寵物 | 香港HyRead / Jan 19 | Jan 22 |
 |   15   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/15-clearest.webp"> | 世界上最透明的故事 ([review](https://medium.com/@gangankan/d-8-%E6%9D%89%E4%BA%95%E5%85%89-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E9%80%8F%E6%98%8E%E7%9A%84%E6%95%85%E4%BA%8B-5876ffbf810a)) | 杉井光（作）簡捷（譯） | 推理小說 | 政大書城 / Aug 4, 2025 | Feb 1 |
 |   16   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/16-bento.jpg"> | 便當實驗室開張：每天做給老公、女兒，偶爾也自己吃（台譯）//吧唧一口，全部吃掉（中譯） | 高木直子 | 圖文書 | WeRead 微信讀書 / Feb 1 | Feb 1 |
+|   17   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/17-vitasoy.jpg"> | 賺錢買維他奶 | 筆華棋 | 小說 | [SCRIBD](https://www.scribd.com/document/397513435/vitasoy-2) | Feb 3 |
 
 ## Reading
 |   No. |  Image <br> 封面圖  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
