@@ -5,10 +5,9 @@ Somewhere in Central Park's Ramble, you might hear a lot of birds chirping, and 
 
 Long story short, I just want to share the birds I have spotted this past week!!
 
-![Northern cardinal, downy woodpecker, and tufted titmouse](/travel-site/usa/birding1.jpg)<br>
-![Red-bellied woodpecker, dark-eyed junco, and mourning dove](/travel-site/usa/birding2.jpg)
+<img style="height: 500px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/travel-site/usa/birding1.jpg" alt="Northern cardinal, downy woodpecker, and tufted titmouse">
+<img style="height: 500px; width=auto;" src="https://github.com/kelly990918/travel-things/blob/main/travel-site/usa/birding2.jpg" alt="Red-bellied woodpecker, dark-eyed junco, and mourning dove">
 
 **BONUS**<br>
 Caught a squirrel stealing birds' food like Tom Cruise(??)<br>
-![Squirrel hanging on a feeder](/travel-site/usa/squirrel-invasion.png)
-
+<img style="width: 500px; height: auto;" src="https://github.com/kelly990918/travel-things/blob/main/travel-site/usa/squirrel-invasion.png" alt="Squirrel hanging on a feeder">
