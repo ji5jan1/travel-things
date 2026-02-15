@@ -49,9 +49,10 @@
 
 ---
 
-# 2026 Movies
+# 2026 in Theatres
 
 |   No. |  Image <br> 封面圖  |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
 |:-----:|:------------------:|------------------------------------------------------|:----------------:|:-------------------------------:|:------------------:|
 |   1   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie1-avatar3.jpg"> | Avatar: Fire and Ash（阿凡達：火與燼）[RealD 3D] | James Cameron |  AMC 19th East 6 | Jan 7 |
 |   2   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/melania.jpg "> | MELANIA | Brett Ratner |  AMC Empire 25 | Feb 4 |
+|   3   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/blueangels.jpg"> | Blue Angels 3D | Paul Crowder |  AMC 34th Street 14 | Feb 14 |
