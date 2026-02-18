@@ -19,13 +19,14 @@
 |   15   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/15-clearest.webp"> | 世界上最透明的故事([review](https://medium.com/@gangankan/d-8-%E6%9D%89%E4%BA%95%E5%85%89-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E9%80%8F%E6%98%8E%E7%9A%84%E6%95%85%E4%BA%8B-5876ffbf810a)) | 杉井光（作）簡捷（譯） | 推理小說 | 政大書城 / Aug 4, 2025 | Feb 1 |
 |   16   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/16-bento.jpg"> | 便當實驗室開張：每天做給老公、女兒，偶爾也自己吃（台譯）<br>吧唧一口，全部吃掉（中譯） | 高木直子 | 圖文書 | WeRead 微信讀書 / Feb 1 | Feb 1 |
 |   17   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/17-vitasoy.jpg"> | 賺錢買維他奶 (La Dolce Vitasoy) ([review](https://medium.com/@gangankan/d-9-%E7%AD%86%E8%8F%AF%E6%A3%8B-%E8%B3%BA%E9%8C%A2%E8%B2%B7%E7%B6%AD%E4%BB%96%E5%A5%B6-91b15679889d)) | 筆華棋 | 小說 | [SCRIBD](https://www.scribd.com/document/397513435/vitasoy-2) | Feb 3 |
+|   18   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/18-lady-flavor2.jpg"> | 與貓的好味時光：第一本貓與貓奴的鮮食共享料理書；從做點心開始，享受你與貓的約會 | 好味小姐 | 寵物 | 香港HyRead / Jan 22 | - |
 
 ## Reading
 |   No. |  Image <br> 封面圖  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
 |:-----:|:------------------:|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zhuangzi-philosophy.jpg"> | 莊子的生命哲學 | 葉海煙 | 東方哲學 | 新竹市立圖書館HyRead / Jan 10 |
-|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/lady-flavor2.jpg"> | 與貓的好味時光：第一本貓與貓奴的鮮食共享料理書；從做點心開始，享受你與貓的約會 | 好味小姐 | 寵物 | 香港HyRead / Jan 22 |
+|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/little-prince-kr.jpg"> | 어린 왕자 (Le Petit Prince) | 앙투안 드 생텍쥐페리 (지음) <br> 이하영 (옮김) | 어린이 | 고려서적 (Koryo Books) / Feb 18 |
 
 
 ## Bookshelf
@@ -45,6 +46,7 @@
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/egypt.jpg"> | The Great Book of Ancient Egypt | Zahi Hawass | Anthropology | B&N 5AV /  May 12, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/letterpress.webp"> | [臺灣活版時代：臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387) | 高鵬翔 |    | 政大書城 / Aug 4, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/plath.jpg"> | The Collected Prose of Sylvia Plath | Sylvia Plath | Fiction & Non-fiction | Amazon UK (pre-ordered) / Sept 2024 |
+|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/topik.jpg"> | 2026 한국어능력시험 TOPIK 2(토픽 2) 한 번에 통과하기 | 시대에듀 | 고려서적 (Koryo Books) / Feb 18 |
 
 
 ---
