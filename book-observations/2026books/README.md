@@ -46,7 +46,7 @@
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/egypt.jpg"> | The Great Book of Ancient Egypt | Zahi Hawass | Anthropology | B&N 5AV /  May 12, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/letterpress.webp"> | [臺灣活版時代：臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387) | 高鵬翔 |    | 政大書城 / Aug 4, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/plath.jpg"> | The Collected Prose of Sylvia Plath | Sylvia Plath | Fiction & Non-fiction | Amazon UK (pre-ordered) / Sept 2024 |
-|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/topik.jpg"> | 2026 한국어능력시험 TOPIK 2(토픽 2) 한 번에 통과하기 | 시대에듀 | 고려서적 (Koryo Books) / Feb 18 |
+|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/topik.jpg"> | 2026 한국어능력시험 TOPIK 2(토픽 2) 한 번에 통과하기 | 시대에듀 | | 고려서적 (Koryo Books) / Feb 18 |
 
 
 ---
