@@ -4,10 +4,10 @@ Upload: February 24, 2026
 
 <img style="height: 10em; width: auto;" src="/book-observations/japan/casa-brutus-mar25/cover-image.jpeg" alt="Magazine cover featuring Ishikawa Prefectural Library">
 
-[Link](https://casabrutus.com/magazines/issue/no299)
+[Publication Link](https://casabrutus.com/magazines/issue/no299)
 
 ## List of featured libraries/ bookstores
-
+[Spots presented on Maps](https://www.google.com/maps/d/u/1/edit?mid=1t1IsxhaKVYFUM6SvXxCD6YZwNAm7r7A&usp=sharing)
 ### 図書館 Libraries
 1. 石川県立図書館 (Ishikawa Prefectural Library) <br> Designed by 仙田満 (Mitsuru Senda) <br> 🌐 [Library Site](https://www.library.pref.ishikawa.lg.jp/)
 2. 町田市鶴川緑の交流館　和光大学ポプリホール鶴川 (Wako University Potpourri Hall Tsurukawa) <br> Designed by 仙田満 (Mitsuru Senda) <br> 🌐 [Official Site](https://www.m-shimin-hall.jp/tsurukawa/)
