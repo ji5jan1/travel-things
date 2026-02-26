@@ -6,6 +6,7 @@ The language I use is not 100% consistent—depending on the context/ language o
 
 ---
 
+🗺️ [Books on the Map](https://www.google.com/maps/d/u/1/edit?mid=1t1IsxhaKVYFUM6SvXxCD6YZwNAm7r7A&usp=sharing) <br>
 🆕 [2026 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/README.md) [zh-TW/ EN]<br>
 👓 [2025 Books](https://github.com/kelly990918/travel-things/blob/main/book-observations/2025books.md) [zh-TW/ EN]<br>
 🧙🏻 [《哈利波特》](https://github.com/kelly990918/travel-things/blob/main/book-observations/harrypotter.md) [zh-HK]<br>
