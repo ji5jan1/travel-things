@@ -20,18 +20,19 @@
 |   16   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/16-bento.jpg"> | 便當實驗室開張：每天做給老公、女兒，偶爾也自己吃（台譯）<br>吧唧一口，全部吃掉（中譯） | 高木直子 | 圖文書 | WeRead 微信讀書 / Feb 1 | Feb 1 |
 |   17   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/17-vitasoy.jpg"> | 賺錢買維他奶 (La Dolce Vitasoy) ([review](https://medium.com/@gangankan/d-9-%E7%AD%86%E8%8F%AF%E6%A3%8B-%E8%B3%BA%E9%8C%A2%E8%B2%B7%E7%B6%AD%E4%BB%96%E5%A5%B6-91b15679889d)) | 筆華棋 | 小說 | [SCRIBD](https://www.scribd.com/document/397513435/vitasoy-2) | Feb 3 |
 |   18   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/18-lady-flavor2.jpg"> | 與貓的好味時光：第一本貓與貓奴的鮮食共享料理書；從做點心開始，享受你與貓的約會 | 好味小姐 | 寵物 | 香港HyRead / Jan 22 | - |
+|   19   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zhuangzi-philosophy.jpg"> | 莊子的生命哲學 | 葉海煙 | 東方哲學 | 新竹市立圖書館HyRead / Jan 10 | - |
+
 
 ## Reading
 |   No. |  Image <br> 封面圖  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
 |:-----:|:------------------:|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
-|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
-|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zhuangzi-philosophy.jpg"> | 莊子的生命哲學 | 葉海煙 | 東方哲學 | 新竹市立圖書館HyRead / Jan 10 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/little-prince-kr.jpg"> | 어린 왕자 (Le Petit Prince) | 앙투안 드 생텍쥐페리 (지음) <br> 이하영 (옮김) | 어린이 | 고려서적 (Koryo Books) / Feb 18 |
 
 
 ## Bookshelf
 |   No. |  Image <br> 封面圖  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
 |:-----:|:------------------:|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
+|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zuangzi-new.jpg"> | 新譯莊子讀本 (古籍今注新譯叢書)  | 黃錦鋐 | 中國文學 | Amazon Kindle / Jan 27 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/tai-po.jpeg"> | 大埔故事 | 孔慧怡 | 社會學 | 誠品生活台南 / Jun 28, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/shanhai.webp"> | 山海經【古版彩圖珍藏版】：一窺神祗異獸的起源，最值得典藏的上古百科全書 | 徐客 | 中國文學 | 誠品生活台南 / Jun 6, 2025 |
