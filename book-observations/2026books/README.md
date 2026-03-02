@@ -55,6 +55,7 @@
 
 |   No. |  Image <br> 封面圖  |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
 |:-----:|:------------------:|------------------------------------------------------|:----------------:|:-------------------------------:|:------------------:|
-|   1   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie1-avatar3.jpg"> | Avatar: Fire and Ash（阿凡達：火與燼）[RealD 3D] | James Cameron |  AMC 19th East 6 | Jan 7 |
-|   2   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie2-melania.jpg "> | MELANIA | Brett Ratner |  AMC Empire 25 | Feb 4 |
-|   3   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/movie3-blueangels.jpg"> | Blue Angels 3D ([review](https://medium.com/@gangankan/blue-angels-2024-1249f9967563)) | Paul Crowder |  AMC 34th Street 14 | Feb 14 |
+|   1   | <img style="height: 100px; width: auto;" alt="Poster of Avatar 3" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie1-avatar3.jpg"> | Avatar: Fire and Ash（阿凡達：火與燼）[RealD 3D] | James Cameron |  AMC 19th East 6 | Jan 7 |
+|   2   | <img style="height: 100px; width: auto;" alt="Poster of Melania" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie2-melania.jpg "> | MELANIA | Brett Ratner |  AMC Empire 25 | Feb 4 |
+|   3   | <img style="height: 100px; width: auto;" alt="Poster of Blue Angels" src="/book-observations/2026books/movie3-blueangels.jpg"> | Blue Angels 3D ([review](https://medium.com/@gangankan/blue-angels-2024-1249f9967563)) | Paul Crowder |  AMC 34th Street 14 | Feb 14 |
+|   4   | <img style="height: 100px; width: auto;" alt="Poster of A Better Tomorrow" src="/travel-things/book-observations/2026books/movie4-a_better_tomorrow.jpg"> | A Better Tomorrow - Hong Kong Cinema Classics | John Woo | AMC Kips Bay 15 | Mar 1 |
