@@ -21,6 +21,7 @@
 |   17   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/17-vitasoy.jpg"> | 賺錢買維他奶 (La Dolce Vitasoy) ([review](https://medium.com/@gangankan/d-9-%E7%AD%86%E8%8F%AF%E6%A3%8B-%E8%B3%BA%E9%8C%A2%E8%B2%B7%E7%B6%AD%E4%BB%96%E5%A5%B6-91b15679889d)) | 筆華棋 | 小說 | [SCRIBD](https://www.scribd.com/document/397513435/vitasoy-2) | Feb 3 |
 |   18   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/18-lady-flavor2.jpg"> | 與貓的好味時光：第一本貓與貓奴的鮮食共享料理書；從做點心開始，享受你與貓的約會 | 好味小姐 | 寵物 | 香港HyRead / Jan 22 | - |
 |   19   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zhuangzi-philosophy.jpg"> | 莊子的生命哲學 | 葉海煙 | 東方哲學 | 新竹市立圖書館HyRead / Jan 10 | - |
+|   20   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/20-norwegian_wood.jpg"> | 挪威的森林【30周年紀念版】 | 村上春樹（原）賴明珠（譯） | 日本文學 | 博客來電子書 / Apr 26, 2025 | Mar 2 |
 
 
 ## Reading
