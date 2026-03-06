@@ -55,8 +55,8 @@
 ---
 
 ## 📰 Magazine Shelf
-| <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> |  |
-|:---:|:---:|:---:|
+| <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> |
+|:---:|:---:|
 
 
 ---
