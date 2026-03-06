@@ -55,10 +55,9 @@
 ---
 
 ## 📰 Magazine Shelf
-| Cover <br> 封面圖 | Publication & Issue <br> 書刊名稱/期數  | Purchase place & date <br> 購買地點/日期 |
+|  |  |  |
 |:---:|:---:|:---:|
-| <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | Casa BRUTUS Vol. 299: Book Forest (Mar 2025) | Books Kinokuniya NYC / Feb 21 |
-| <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> | &Premium No.148: Kyoto Local Guide (Apr 2026) | Books Kinokuniya NYC / Mar 1 |
+| <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> |  |  |
 
 ---
 
