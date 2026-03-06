@@ -1,7 +1,7 @@
 # 2026 Books
 
-|   No. |  Image <br> 封面圖  |                    Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類   | Purchase Place & Date <br> 購買地點/日期 | Finish Date <br> 完讀日 |
-|:-----:|:------------------:|------------------------------------------------------|:----------------:|:-----------------:|:--------------------------------------:|:----------------------:|
+|   No. | Image <br> 封面圖 | Book Name <br> 書名 | Author <br> 作者 |  Genre <br> 種類   | Purchase Place & Date <br> 購買地點/日期 | Finish Date <br> 完讀日 |
+|:---:|:---:|---|:---:|:---:|:---:|:---:|
 |   1   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/1-harrypotter3.jpg"> | 哈利波特(3) 阿茲卡班的逃犯【繁體中文版25週年紀念首發】 |  J.K. 羅琳（原）、彭倩文（譯）  |  西洋文學   |     博客來電子書 / Aug 14, 2025        |    Jan 1       |
 |   2   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/2-hongkong.jpg"> | 這座城市叫香港 ([review](https://github.com/kelly990918/travel-things/blob/main/book-observations/hong-kong/reviews/%E9%80%99%E5%BA%A7%E5%9F%8E%E5%B8%82%E5%8F%AB%E9%A6%99%E6%B8%AF.md#%E9%80%99%E5%BA%A7%E5%9F%8E%E5%B8%82%E5%8F%AB%E9%A6%99%E6%B8%AF-this-city-is-hong-kong)) | 黃宇軒 | 社會學 |  香港書展 / Jul 18, 2025 | Jan 2 |
 |   3   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/3-harrypotter4.jpg"> | 哈利波特(4) 火盃的考驗【繁體中文版25週年紀念首發】 | J.K. 羅琳（原）、彭倩文（譯） | 西洋文學 | 博客來電子書 / Aug 14, 2025 | Jan 4 |
@@ -26,15 +26,15 @@
 
 
 
-## Reading
-|   No. |  Image <br> 封面圖  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
-|:-----:|:------------------:|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
+## 👩🏻‍💻 Reading
+|   No. |  Image <br> 封面圖  | Book Name <br> 書名 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
+|:-----:|:---:|---|:---:|:---:|:---:|
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/little-prince-kr.jpg"> | 어린 왕자 (Le Petit Prince) | 앙투안 드 생텍쥐페리 (지음) <br> 이하영 (옮김) | 어린이 | 고려서적 (Koryo Books) / Feb 18 |
 
 
-## Bookshelf
-|   No. |  Image <br> 封面圖  |                   Book Name <br> 書名                 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
-|:-----:|:------------------:|------------------------------------------------------|:----------------:|:---------------:|:--------------------------------------:|
+## 📚 Bookshelf
+|   No. | Image <br> 封面圖 |  Book Name <br> 書名 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
+|:---:|:---:|---|:---:|:---:|:---:|
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zuangzi-new.jpg"> | 新譯莊子讀本 (古籍今注新譯叢書)  | 黃錦鋐 | 中國文學 | Amazon Kindle / Jan 27 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/tai-po.jpeg"> | 大埔故事 | 孔慧怡 | 社會學 | 誠品生活台南 / Jun 28, 2025 |
@@ -52,14 +52,22 @@
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/plath.jpg"> | The Collected Prose of Sylvia Plath | Sylvia Plath | Fiction & Non-fiction | Amazon UK (pre-ordered) / Sept 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/topik.jpg"> | 2026 한국어능력시험 TOPIK 2(토픽 2) 한 번에 통과하기 | 시대에듀 | | 고려서적 (Koryo Books) / Feb 18 |
 
+---
+
+## 📰 Magazine Shelf
+| Cover <br> 封面圖 | Publication & Issue <br> 書刊名稱/期數  | Purchase place & date <br> 購買地點/日期 |
+|:---:|:---:|:---:|
+| <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | Casa BRUTUS Vol. 299: Book Forest (Mar 2025) | Books Kinokuniya NYC / Feb 21 |
+| <img style="height: 200px; width: auto;" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> | &Premium No.148: Kyoto Local Guide (Apr 2026) | Books Kinokuniya NYC / Mar 1 |
 
 ---
 
-# 2026 in Theatres
+# 🎥 2026 in Theatres
 
-|   No. |  Image <br> 封面圖  |                   Movie Name <br> 戲名                | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
-|:-----:|:------------------:|------------------------------------------------------|:----------------:|:-------------------------------:|:------------------:|
+|   No. |  Image <br> 封面圖  | Movie Name <br> 戲名 | Director <br> 導演 | Place/ Platform <br> 觀影地點/平台   |  Date <br> 觀影日期 |
+|:---:|:---:|---|:---:|:---:|:---:|
 |   1   | <img style="height: 100px; width: auto;" alt="Poster of Avatar 3" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie1-avatar3.jpg"> | Avatar: Fire and Ash（阿凡達：火與燼）[RealD 3D] | James Cameron |  AMC 19th East 6 | Jan 7 |
 |   2   | <img style="height: 100px; width: auto;" alt="Poster of Melania" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie2-melania.jpg "> | MELANIA | Brett Ratner |  AMC Empire 25 | Feb 4 |
 |   3   | <img style="height: 100px; width: auto;" alt="Poster of Blue Angels" src="/book-observations/2026books/movie3-blueangels.jpg"> | Blue Angels 3D ([review](https://medium.com/@gangankan/blue-angels-2024-1249f9967563)) | Paul Crowder |  AMC 34th Street 14 | Feb 14 |
 |   4   | <img style="height: 100px; width: auto;" alt="Poster of A Better Tomorrow" src="/book-observations/2026books/movie4-a_better_tomorrow.jpg"> | A Better Tomorrow - Hong Kong Cinema Classics | John Woo | AMC Kips Bay 15 | Mar 1 |
+|   5   | <img style="height: 100px; width: auto;" alt="Poster of Hoppers" src="/book-observations/2026books/movie5-hoppers.webp"> | Hoppers | Daniel Chong |  |  |
