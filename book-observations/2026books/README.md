@@ -69,4 +69,4 @@
 |   2   | <img style="height: 100px; width: auto;" alt="Poster of Melania" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/movie2-melania.jpg "> | MELANIA | Brett Ratner |  AMC Empire 25 | Feb 4 |
 |   3   | <img style="height: 100px; width: auto;" alt="Poster of Blue Angels" src="/book-observations/2026books/movie3-blueangels.jpg"> | Blue Angels 3D ([review](https://medium.com/@gangankan/blue-angels-2024-1249f9967563)) | Paul Crowder |  AMC 34th Street 14 | Feb 14 |
 |   4   | <img style="height: 100px; width: auto;" alt="Poster of A Better Tomorrow" src="/book-observations/2026books/movie4-a_better_tomorrow.jpg"> | A Better Tomorrow - Hong Kong Cinema Classics | John Woo | AMC Kips Bay 15 | Mar 1 |
-|   5   | <img style="height: 100px; width: auto;" alt="Poster of Hoppers" src="/book-observations/2026books/movie5-hoppers.webp"> | Hoppers | Daniel Chong |  |  |
+|   5   | <img style="height: 100px; width: auto;" alt="Poster of Hoppers" src="/book-observations/2026books/movie5-hoppers.webp"> | Hoppers | Daniel Chong | AMC Orpheum 7 | Mar 7 |
