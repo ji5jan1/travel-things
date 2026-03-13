@@ -70,4 +70,4 @@
 |   3   | <img style="height: 100px; width: auto;" alt="Poster of Blue Angels" src="/book-observations/2026books/movie3-blueangels.jpg"> | Blue Angels 3D ([review](https://medium.com/@gangankan/blue-angels-2024-1249f9967563)) | Paul Crowder |  AMC 34th Street 14 | Feb 14 |
 |   4   | <img style="height: 100px; width: auto;" alt="Poster of A Better Tomorrow" src="/book-observations/2026books/movie4-a_better_tomorrow.jpg"> | A Better Tomorrow - Hong Kong Cinema Classics | John Woo | AMC Kips Bay 15 | Mar 1 |
 |   5   | <img style="height: 100px; width: auto;" alt="Poster of Hoppers" src="/book-observations/2026books/movie5-hoppers.webp"> | Hoppers | Daniel Chong | AMC Orpheum 7 | Mar 7 |
-|   6   | <img style="height: 100px; width: auto;" alt="Poster of Kiki's Delivery Service" src="/book-observations/2026books/movie6-kiki.jpg"> | Kiki's Delivery Service 4K IMAX | Studio Ghibli | AMC Lincoln Square 13 | Mar 12 |
+|   6   | <img style="height: 100px; width: auto;" alt="Poster of Kiki's Delivery Service" src="/book-observations/2026books/movie6-kiki.jpg"> | Kiki's Delivery Service 4K IMAX | Studio Ghibli <br>  | AMC Lincoln Square 13 | Mar 12 |
