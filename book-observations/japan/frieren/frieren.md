@@ -34,7 +34,7 @@ _Last Update: February 1, 2026_
 ## Publishing History
 
 ### Books
-| <img style="height: 15em; width: auto;" src="/book-observations/japan/frieren/postcard1.jpg"> | <img style="height: 15em; width: auto;" src="/book-observations/japan/frieren/postcard2.jpg"> | <img style="height: 15em; width: auto;" src="/book-observations/japan/frieren/poster.jpg"> | <img style="height: 15em; width: auto;" src="/book-observations/japan/frieren/guide.jpg"> | <img style="height: 15em; width: auto;" src="/book-observations/japan/frieren/artworks.jpg"> |
+| <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/postcard1.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/postcard2.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/poster.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/guide.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/artworks.jpg"> |
 |:---:|:---:|:---:|:---:|:---:|
 
 |            | OG Manga <br> 葬送のフリーレン | Novel <br> 小説 葬送のフリーレン 〜前奏〜 | Novel <br> 小説 アニメ 葬送のフリーレン | Novel <br> OPテーマ「勇者」楽曲用原作小説「奏送」| 
