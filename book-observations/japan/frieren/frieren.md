@@ -15,6 +15,7 @@ _Last Update: February 1, 2026_
 - Anime site: [frieren-anime.jp](https://frieren-anime.jp/)
 - Manga site: [Weekly Shonen Sunday (Shogakukan)](https://websunday.net/work/708/)
 - Art gallery: [frieren-anime.jp](https://frieren-anime.jp/special/gallery/)
+- Other media: [frieren-anime.jp/news/](https://frieren-anime.jp/news/4663/)
 
 ### Social Media
 | Platform | Handle | Followers |
@@ -34,8 +35,11 @@ _Last Update: February 1, 2026_
 ## Publishing History
 
 ### Books
-| <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/postcard1.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/postcard2.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/poster.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/guide.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/artworks.jpg"> |
+| <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga1.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga2.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga3.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga4.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga5.jpg"> | 
 |:---:|:---:|:---:|:---:|:---:|
+| <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga6.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga7.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga8.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga9.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga10.jpg"> | 
+| <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga11.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga12.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga13.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga14.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/manga15.jpg"> | 
+| <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/postcard1.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/postcard2.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/poster.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/guide.jpg"> | <img style="height: 200px; width: auto;" src="/book-observations/japan/frieren/artworks.jpg"> |
 
 |            | OG Manga <br> 葬送のフリーレン | Novel <br> 小説 葬送のフリーレン 〜前奏〜 | Novel <br> 小説 アニメ 葬送のフリーレン | Novel <br> OPテーマ「勇者」楽曲用原作小説「奏送」| 
 |:----------:|----------------|----------------|----------------|----------------|
