@@ -25,16 +25,10 @@
 |   21   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/21-mary_ventura.jpg"> | Mary Ventura and the Ninth Kingdom | Sylvia Plath | Fiction | Strand Bookstore / 2024 | Mar 6 (Revisit) |
 
 
-
-## 👩🏻‍💻 Reading
-|   No. |  Image <br> 封面圖  | Book Name <br> 書名 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 |
-|:-----:|:---:|---|:---:|:---:|:---:|
-|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/little-prince-kr.jpg"> | 어린 왕자 (Le Petit Prince) | 앙투안 드 생텍쥐페리 (지음) <br> 이하영 (옮김) | 어린이 | 고려서적 (Koryo Books) / Feb 18 |
-
-
 ## 📚 Bookshelf
 |   No. | Image <br> 封面圖 |  Book Name <br> 書名 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
 |:---:|:---:|---|:---:|:---:|:---:|
+|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/little-prince-kr.jpg"> | 어린 왕자 (Le Petit Prince) | 앙투안 드 생텍쥐페리 (지음) <br> 이하영 (옮김) | 어린이 | 고려서적 (Koryo Books) / Feb 18 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zuangzi-new.jpg"> | 新譯莊子讀本 (古籍今注新譯叢書)  | 黃錦鋐 | 中國文學 | Amazon Kindle / Jan 27 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/tai-po.jpeg"> | 大埔故事 | 孔慧怡 | 社會學 | 誠品生活台南 / Jun 28, 2025 |
