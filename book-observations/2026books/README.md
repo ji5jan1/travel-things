@@ -65,4 +65,4 @@
 |   4   | <img style="height: 100px; width: auto;" alt="Poster of A Better Tomorrow" src="/book-observations/2026books/movie4-a_better_tomorrow.jpg"> | A Better Tomorrow - Hong Kong Cinema Classics | John Woo | AMC Kips Bay 15 | Mar 1 |
 |   5   | <img style="height: 100px; width: auto;" alt="Poster of Hoppers" src="/book-observations/2026books/movie5-hoppers.webp"> | Hoppers | Daniel Chong | AMC Orpheum 7 | Mar 7 |
 |   6   | <img style="height: 100px; width: auto;" alt="Poster of Kiki's Delivery Service" src="/book-observations/2026books/movie6-kiki.jpg"> | Kiki's Delivery Service 4K IMAX | Studio Ghibli <br> Hayao Miyazaki | AMC Lincoln Square 13 | Mar 12 |
-|   7   | <img style="height: 100px; width: auto;" alt="Poster of Kiki's Delivery Service" src="/book-observations/2026books/movie6-kiki.jpg"> | Hubble 3D | Toni Myers | AMC 34th Street 14 | Mar 21 |
+|   7   | <img style="height: 100px; width: auto;" alt="Poster of Kiki's Delivery Service" src="/book-observations/2026books/movie7-hubble_3d.jpg"> | Hubble 3D | Toni Myers | AMC 34th Street 14 | Mar 21 |
