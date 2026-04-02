@@ -23,6 +23,7 @@
 |   19   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zhuangzi-philosophy.jpg"> | 莊子的生命哲學 | 葉海煙 | 東方哲學 | 新竹市立圖書館HyRead / Jan 10 | - |
 |   20   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/20-norwegian_wood.jpg"> | 挪威的森林【30周年紀念版】 | 村上春樹（原）賴明珠（譯） | 日本文學 | 博客來電子書 / Apr 26, 2025 | Mar 2 |
 |   21   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/21-mary_ventura.jpg"> | Mary Ventura and the Ninth Kingdom | Sylvia Plath | Fiction | Strand Bookstore / 2024 | Mar 6 (Revisit) |
+|   22   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/22-talking.jpg"> | 頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書 | 安達裕哉 <br> 陳亦苓（譯） | 商業 | 博客來電子書 / Mar 24 | Apr |
 
 
 ## 📚 Bookshelf
@@ -42,7 +43,7 @@
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/hk2.jpg"> | 光輝歲月‧香港百年II：追星、炒樓、錢錢錢，那段繁榮發展與創造奇蹟的黃金年代| 雪姬 (Suki Yeung) |        | 博客來電子書 / Jun 25, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/hk3.jpeg"> | 香港故事‧香港百年III：霓虹、屋邨、老街坊，獅子山下的時光旅圖，純樸繁華的鄰里日常| 雪姬 (Suki Yeung) |    | 博客來電子書 / Jun 25, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/egypt.jpg"> | The Great Book of Ancient Egypt | Zahi Hawass | Anthropology | B&N 5AV /  May 12, 2025 |
-|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/letterpress.webp"> | [臺灣活版時代：臺灣活版印刷圖解記錄](https://www.books.com.tw/products/0011014387) | 高鵬翔 |    | 政大書城 / Aug 4, 2025 |
+|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/letterpress.webp"> | 臺灣活版時代：臺灣活版印刷圖解記錄 ([博客來](https://www.books.com.tw/products/0011014387)) ([extra notes](https://medium.com/@gangankan/d-2-%E5%8F%B0%E7%81%A3%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7%E5%8F%B2-715f184df078)0 | 高鵬翔 |    | 政大書城 / Aug 4, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/plath.jpg"> | The Collected Prose of Sylvia Plath | Sylvia Plath | Fiction & Non-fiction | Amazon UK (pre-ordered) / Sept 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/topik.jpg"> | 2026 한국어능력시험 TOPIK 2(토픽 2) 한 번에 통과하기 | 시대에듀 | | 고려서적 (Koryo Books) / Feb 18 |
 
@@ -67,3 +68,4 @@
 |   6   | <img style="height: 100px; width: auto;" alt="Poster of Kiki's Delivery Service" src="/book-observations/2026books/movie6-kiki.jpg"> | Kiki's Delivery Service 4K IMAX | Studio Ghibli <br> Hayao Miyazaki | AMC Lincoln Square 13 | Mar 12 |
 |   7   | <img style="height: 100px; width: auto;" alt="Poster of Hubble 3D" src="/book-observations/2026books/movie7-hubble_3d.jpg"> | Hubble 3D | Toni Myers | AMC 34th Street 14 | Mar 21 |
 |   8   | <img style="height: 100px; width: auto;" alt="Poster of Project Hail Mary" src="/book-observations/2026books/movie8-pj_hail_mary.jpg"> | Project Hail Mary | Phil Lord <br> Christopher Miller | AMC Lincoln Square 13 | Mar 24 |
+|   9   | <img style="height: 100px; width: auto;" alt="Poster of The Super Mario Galaxy Movie" src="/book-observations/2026books/movie9-mario.jpg"> | The Super Mario Galaxy Movie | Aaron Horvath, Michael Jelenic, Pierre Leduc | AMC Lincoln Square 13 | Apr 1 |
