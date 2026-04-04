@@ -50,8 +50,8 @@
 ---
 
 ## 📰 Magazine Shelf
-| <img style="height: 200px; width: auto;" alt="Casa BRUTUS Vol. 299 (Mar 25)" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | <img style="height: 200px; width: auto;" alt="&Premium No. 148 (Apr 26)" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> | <img style="height: 200px; width: auto;" alt="&Premium No. 148 (Apr 26)" src="/book-observations/2026books/magazine3-casa_brutus_oct25.jpg"> |
-|:---:|:---:|:---:|
+| <img style="height: 200px; width: auto;" alt="Casa BRUTUS Vol. 299 (Mar 25)" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | <img style="height: 200px; width: auto;" alt="&Premium No. 148 (Apr 26)" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> | <img style="height: 200px; width: auto;" alt="&Premium No. 148 (Apr 26)" src="/book-observations/2026books/magazine3-casa_brutus_oct25.jpg"> | <img style="height: 200px; width: auto;" alt="Casa BRUTUS Vol. 1045 (Jan 15, 2026)" src="/book-observations/2026books/magazine4-casabrutus_jan26.jpg"> | <img style="height: 200px; width: auto;" alt="PLUS EIGHTY ONE Vol. 96 (Winter 2026)" src="/book-observations/2026books/magazine5-plus81_winter26.webp"> |
+|:---:|:---:|:---:|:---:|:---:|
 
 
 ---
@@ -68,4 +68,4 @@
 |   6   | <img style="height: 100px; width: auto;" alt="Poster of Kiki's Delivery Service" src="/book-observations/2026books/movie6-kiki.jpg"> | Kiki's Delivery Service 4K IMAX | Studio Ghibli <br> Hayao Miyazaki | AMC Lincoln Square 13 | Mar 12 |
 |   7   | <img style="height: 100px; width: auto;" alt="Poster of Hubble 3D" src="/book-observations/2026books/movie7-hubble_3d.jpg"> | Hubble 3D | Toni Myers | AMC 34th Street 14 | Mar 21 |
 |   8   | <img style="height: 100px; width: auto;" alt="Poster of Project Hail Mary" src="/book-observations/2026books/movie8-pj_hail_mary.jpg"> | Project Hail Mary | Phil Lord <br> Christopher Miller | AMC Lincoln Square 13 | Mar 24 |
-|   9   | <img style="height: 100px; width: auto;" alt="Poster of The Super Mario Galaxy Movie" src="/book-observations/2026books/movie9-mario.jpg"> | The Super Mario Galaxy Movie | Aaron Horvath, Michael Jelenic, Pierre Leduc | AMC Lincoln Square 13 | Apr 1 |
+|   9   | <img style="height: 100px; width: auto;" alt="Poster of The Super Mario Galaxy Movie" src="/book-observations/2026books/movie9-mario.jpg"> | The Super Mario Galaxy Movie | Aaron Horvath<br> Michael Jelenic <br> Pierre Leduc | AMC Lincoln Square 13 | Apr 1 |
