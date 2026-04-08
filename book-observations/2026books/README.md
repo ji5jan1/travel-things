@@ -23,7 +23,8 @@
 |   19   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zhuangzi-philosophy.jpg"> | 莊子的生命哲學 | 葉海煙 | 東方哲學 | 新竹市立圖書館HyRead / Jan 10 | - |
 |   20   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/20-norwegian_wood.jpg"> | 挪威的森林【30周年紀念版】 | 村上春樹（原）賴明珠（譯） | 日本文學 | 博客來電子書 / Apr 26, 2025 | Mar 2 |
 |   21   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/21-mary_ventura.jpg"> | Mary Ventura and the Ninth Kingdom | Sylvia Plath | Fiction | Strand Bookstore / 2024 | Mar 6 (Revisit) |
-|   22   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/22-talking.jpg"> | 頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書 | 安達裕哉 <br> 陳亦苓（譯） | 商業 | 博客來電子書 / Mar 24 | Apr |
+|   22   | <img style="height: 100px; width: auto;" src="/2026books/22-reading-tawian.webp"> | 島讀臺灣：旅行時，到書店邂逅一本書！<br> [島讀臺灣 Read The Island](https://event.bookrep.com.tw/activity/2022/readtheisland/) | 詹慶齡、余尚彬 | 旅遊 | 誠品生活台南 / Jun 19, 2025 | Apr 8 |
+|   23   | <img style="height: 100px; width: auto;" src="/2026books/23-talking.jpg"> | 頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書 | 安達裕哉 <br> 陳亦苓（譯） | 商業 | 博客來電子書 / Mar 24 | Apr |
 
 
 ## 📚 Bookshelf
@@ -34,7 +35,6 @@
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zuangzi-new.jpg"> | 新譯莊子讀本 (古籍今注新譯叢書)  | 黃錦鋐 | 中國文學 | Amazon Kindle / Jan 27 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/tai-po.jpeg"> | 大埔故事 | 孔慧怡 | 社會學 | 誠品生活台南 / Jun 28, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/shanhai.webp"> | 山海經【古版彩圖珍藏版】：一窺神祗異獸的起源，最值得典藏的上古百科全書 | 徐客 | 中國文學 | 誠品生活台南 / Jun 6, 2025 |
-|   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/reading-tawian.webp"> | 島讀臺灣：旅行時，到書店邂逅一本書！<br> [島讀臺灣 Read The Island](https://event.bookrep.com.tw/activity/2022/readtheisland/) | 詹慶齡、余尚彬 | 旅遊 | 誠品生活台南 / Jun 19, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/hk-history.jpeg"> | 香港歷史散步（增訂版） | 丁新豹 |    | 博客來電子書 / Jun 25, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/hk-railway.webp"> | 香港鐵路百年蛻變（第三版） | 陳志華、李健信 |    | 博客來電子書 / Jun 25, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/yesi.webp"> | 也斯的香港故事：文學史論述研究 | 王家琪 |     | 博客來電子書 / Jun 25, 2025 |
