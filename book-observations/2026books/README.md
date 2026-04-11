@@ -25,11 +25,13 @@
 |   21   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/21-mary_ventura.jpg"> | Mary Ventura and the Ninth Kingdom | Sylvia Plath | Fiction | Strand Bookstore / 2024 | Mar 6 (Revisit) |
 |   22   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/22-reading-tawian.webp"> | 島讀臺灣：旅行時，到書店邂逅一本書！<br> [島讀臺灣 Read The Island](https://event.bookrep.com.tw/activity/2022/readtheisland/) | 詹慶齡、余尚彬 | 旅遊 | 誠品生活台南 / Jun 19, 2025 | Apr 8 |
 |   23   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/23-talking.jpg"> | 頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書 | 安達裕哉 <br> 陳亦苓（譯） | 商業 | 博客來電子書 / Mar 24 | Apr |
-
+|   24   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/24-sparrows.jpg"> | にっぽんスズメ歳時記 WE♡SUZUME にっぽんの野鳥シリーズ | 中野 さとる | 野鳥写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
+|   25   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/25-earth-palette.jpg"> | 世界の絶景パレット 100色をめぐる旅 | アフロ、永岡書店編集部 | 旅行写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
 
 ## 📚 Bookshelf
 |   No. | Image <br> 封面圖 |  Book Name <br> 書名 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
 |:---:|:---:|---|:---:|:---:|:---:|
+
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/little-prince-kr.jpg"> | 어린 왕자 (Le Petit Prince) | 앙투안 드 생텍쥐페리 (지음) <br> 이하영 (옮김) | 어린이 | 고려서적 (Koryo Books) / Feb 18 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/zuangzi-new.jpg"> | 新譯莊子讀本 (古籍今注新譯叢書)  | 黃錦鋐 | 中國文學 | Amazon Kindle / Jan 27 |
