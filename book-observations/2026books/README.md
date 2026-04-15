@@ -24,9 +24,10 @@
 |   20   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/20-norwegian_wood.jpg"> | 挪威的森林【30周年紀念版】 | 村上春樹（原）賴明珠（譯） | 日本文學 | 博客來電子書 / Apr 26, 2025 | Mar 2 |
 |   21   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/21-mary_ventura.jpg"> | Mary Ventura and the Ninth Kingdom | Sylvia Plath | Fiction | Strand Bookstore / 2024 | Mar 6 (Revisit) |
 |   22   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/22-reading-tawian.webp"> | 島讀臺灣：旅行時，到書店邂逅一本書！<br> [島讀臺灣 Read The Island](https://event.bookrep.com.tw/activity/2022/readtheisland/) | 詹慶齡、余尚彬 | 旅遊 | 誠品生活台南 / Jun 19, 2025 | Apr 8 |
-|   23   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/23-talking.jpg"> | 頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書 | 安達裕哉 <br> 陳亦苓（譯） | 商業 | 博客來電子書 / Mar 24 | Apr |
-|   24   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/24-sparrows.jpg"> | にっぽんスズメ歳時記 WE♡SUZUME にっぽんの野鳥シリーズ | 中野 さとる | 野鳥写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
-|   25   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/25-earth-palette.jpg"> | 世界の絶景パレット 100色をめぐる旅 | アフロ、永岡書店編集部 | 旅行写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
+|   23   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/23-sparrows.jpg"> | にっぽんスズメ歳時記 WE♡SUZUME にっぽんの野鳥シリーズ | 中野 さとる | 野鳥写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
+|   24   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/24-earth-palette.jpg"> | 世界の絶景パレット 100色をめぐる旅 | アフロ、永岡書店編集部 | 旅行写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
+|   25   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/25-talking.jpg"> | 頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書 | 安達裕哉 <br> 陳亦苓（譯） | 商業 | 博客來電子書 / Mar 24 | Apr 15 |
+
 
 ## 📚 Bookshelf
 |   No. | Image <br> 封面圖 |  Book Name <br> 書名 | Author <br> 作者 |  Genre <br> 種類 | Purchase Place & Date <br> 購買地點/日期 | 
