@@ -40,4 +40,3 @@ The language I use is not 100% consistent—depending on the context/ language o
 👯‍♀️ [Sylvia and Kelly](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/sylvia-and-kelly/sylvia-and-kelly.md) [EN]<br>
 📚 [McNally Jackson Books Seaport, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/mcnally-jackson-seaport/mcnally-jackson-seaport.md) [EN]<br>
 📚 [Barnes & Noble Union Square, New York](https://github.com/kelly990918/travel-things/blob/main/book-observations/usa/bn-unionsq/bn-unionsq.md) [EN]<br>
-📝 [Review: _In My Own Process_ by Bruce Lee]() [EN]<br>
