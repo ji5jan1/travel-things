@@ -55,10 +55,9 @@
 |   #   | <img style="height: 120px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/plath.jpg"> | The Collected Prose of Sylvia Plath | Sylvia Plath | Fiction & Non-fiction | Amazon UK (pre-ordered) / Sept 2024 |
 |   #   | <img style="height: 120px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/process-bruce.jpg"> | In My Own Process | Bruce Lee | Non-fiction | Strand Bookstore / May 4, 2024 |
 |   #   | <img style="height: 120px; width: auto;" src="/book-observations/2026books/raising-hare.jpeg"> | Raising Hare | Chloe Dalton | Memoir | Barnes & Noble UES / Apr 13 |
-|   #   | <img style="height: 120px; width: auto;" src="/book-observations/2026books/raising-hare.jpeg"> | The Bird Way: A New Look at How Birds Talk, Work, Play, Parent, and Think | Jennifer Ackerman | Biology | Barnes & Noble UES / Apr 13 |
+|   #   | <img style="height: 120px; width: auto;" src="/book-observations/2026books/the-bird-way.jpeg"> | The Bird Way: A New Look at How Birds Talk, Work, Play, Parent, and Think | Jennifer Ackerman | Biology | Barnes & Noble UES / Apr 13 |
 |   #   | <img style="height: 120px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/topik.jpg"> | 2026 한국어능력시험 TOPIK 2(토픽 2) 한 번에 통과하기 | 시대에듀 | TOPIK | 고려서적 (Koryo Books) / Feb 18 |
 |   #   | <img style="height: 120px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/little-prince-kr.jpg"> | 어린 왕자 (Le Petit Prince) | 앙투안 드 생텍쥐페리 (지음) <br> 이하영 (옮김) | 어린이 | 고려서적 (Koryo Books) / Feb 18 |
-
 
 ---
 
@@ -66,7 +65,6 @@
 | <img style="height: 150px; width: auto;" alt="Casa BRUTUS Vol. 299 (Mar 25)" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | <img style="height: 150px; width: auto;" alt="&Premium No. 148 (Apr 26)" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> | <img style="height: 150px; width: auto;" alt="&Premium No. 148 (Apr 26)" src="/book-observations/2026books/magazine3-casa_brutus_oct25.jpg"> | <img style="height: 150px; width: auto;" alt="Casa BRUTUS Vol. 1045 (Jan 15, 2026)" src="/book-observations/2026books/magazine4-casabrutus_jan26.jpg"> | <img style="height: 150px; width: auto;" alt="PLUS EIGHTY ONE Vol. 96 (Winter 2026)" src="/book-observations/2026books/magazine5-plus81_winter26.webp"> |
 |:---:|:---:|:---:|:---:|:---:|
 | <img style="height: 150px; width: auto;" alt="FUDGE May 2026" src="/book-observations/2026books/magazine6-fudge-may26.webp"> | 
-
 
 ---
 
