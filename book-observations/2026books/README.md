@@ -87,3 +87,8 @@
 |   9   | <img style="height: 150px; width: auto;" alt="Poster of The Super Mario Galaxy Movie" src="/book-observations/2026books/movie9-mario.jpg"> | The Super Mario Galaxy Movie | Aaron Horvath<br> Michael Jelenic <br> Pierre Leduc | ★☆☆☆☆ | AMC Lincoln Square 13 | Apr 1 |
 |   10   | <img style="height: 150px; width: auto;" alt="Poster of Space Station 3D" src="/book-observations/2026books/movie10-space-station.png"> | Space Station 3D | Toni Myers | ★★★☆☆ | AMC 34th Street 14 | Apr 11 |
 |   11   | <img style="height: 150px; width: auto;" alt="Poster of Star Wars: The Mandalorian and Grogu" src="/book-observations/2026books/movie11-mando-grogu.jpg"> | Star Wars: The Mandalorian and Grogu <br><br> _My first Star Wars movie in theatre!_ | Jon Favreau | ★★★★☆ | AMC Orpheum 7 | May 25 |
+
+---
+
+# 🎓 Acaedmic Publications
+- Suzuki, T., Wheatcroft, D. & Griesser, M. Experimental evidence for compositional syntax in bird calls. _Nat Commun_ 7, 10986 (2016). https://doi.org/10.1038/ncomms10986
