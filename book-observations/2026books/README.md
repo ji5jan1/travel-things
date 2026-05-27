@@ -78,7 +78,7 @@
 ---
 
 ## 🎓 Acaedmic Publications
-- Suzuki, T., Wheatcroft, D. & Griesser, M. Experimental evidence for compositional syntax in bird calls. _Nat Commun_ 7, 10986 (2016). https://doi.org/10.1038/ncomms10986
+- Suzuki, T. N. et al. Experimental evidence for compositional syntax in bird calls. _Nat. Commun._ 7:10986 doi: 10.1038/ncomms10986 (2016).
 
 ---
 
