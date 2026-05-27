@@ -52,8 +52,8 @@
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/animal-linguistics.jpg"> | 歡迎加入動物聊天室：跨物種觀察筆記，語言與情感的演化對談 <br> (動物たちは何をしゃべっているのか？) | 山極壽一、鈴木俊貴 <br> 張東君（譯） | 生態學 | 博客來電子書 / May 26 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/naval-ravikant.jpg"> | 納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧 <br> (The Almanack of Naval Ravikant: A Guide to Wealth and Happiness) |  艾瑞克．喬根森 (Eric Jorgenson) <br> 謝佩妏（譯） | 生態學 | 博客來電子書 / Mar 24 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/taiwan-travelougue.jpg"> | 臺灣漫遊錄 | 楊双子 | 小說 | 博客來電子書 / May 27 |
-|   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/kusuriya-15.webp"> | 藥師少女的獨語 (15)  | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 |
-|   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/kusuriya-16.webp"> | 藥師少女的獨語 (16)  | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 |
+|   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/kusuriya-15.webp"> | 藥師少女的獨語 (15) <br> 薬屋のひとりごと (15) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 |
+|   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/kusuriya-16.webp"> | 藥師少女的獨語 (16) <br> 薬屋のひとりごと (16) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/ancient-egypt.jpg"> | 古埃及文明超圖解 | 河合望 <br> 劉姍姍（譯） | 考古學 | 博客來電子書 / May 27 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/egypt.jpg"> | The Great Book of Ancient Egypt | Zahi Hawass | Anthropology | B&N 5AV /  May 12, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/plath.jpg"> | The Collected Prose of Sylvia Plath | Sylvia Plath | Fiction & Non-fiction | Amazon UK (pre-ordered) / Sept 2024 |
