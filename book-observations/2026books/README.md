@@ -78,7 +78,8 @@
 ---
 
 ## 🎓 Acaedmic Publications
-- Suzuki, T. N. et al. Experimental evidence for compositional syntax in bird calls. _Nat. Commun._ 7:10986 doi: 10.1038/ncomms10986 (2016). [[pdf](https://www.nature.com/articles/ncomms10986.pdf)]
+- Suzuki, T. N. et al. "Experimental evidence for compositional syntax in bird calls." _Nat. Commun._ 7, no. 10986 (March 2016). https://www.nature.com/articles/ncomms10986.pdf.
+- Suzuki, T. N. "Parental Alarm Calls Warn Nestlings about Different Predatory Threats." _Current Biology_ 21, no. 1 (January 2011). https://doi.org/10.1016/j.cub.2010.11.027. 
 
 ---
 
