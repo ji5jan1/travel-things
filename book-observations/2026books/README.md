@@ -78,7 +78,7 @@
 ---
 
 ## 🎓 Acaedmic Publications
-- Suzuki, T. N. et al. Experimental evidence for compositional syntax in bird calls. _Nat. Commun._ 7:10986 doi: 10.1038/ncomms10986 (2016).
+- Suzuki, T. N. et al. Experimental evidence for compositional syntax in bird calls. _Nat. Commun._ 7:10986 doi: 10.1038/ncomms10986 (2016). [[pdf](https://www.nature.com/articles/ncomms10986.pdf)]
 
 ---
 
