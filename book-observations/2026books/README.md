@@ -33,6 +33,8 @@
 |   24   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/24-earth-palette.jpg"> | 世界の絶景パレット 100色をめぐる旅 | アフロ、永岡書店編集部 | 旅行写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
 |   25   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/25-talking.jpg"> | 頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書 <br> (頭のいい人が話す前に考えていること) | 安達裕哉 <br> 陳亦苓（譯） | 商業 | 博客來電子書 / Mar 24 | Apr 15 |
 |   26   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/26-letterpress.webp"> | 臺灣活版時代：臺灣活版印刷圖解記錄 ([博客來](https://www.books.com.tw/products/0011014387)) ([notes](https://medium.com/@gangankan/d-2-%E5%8F%B0%E7%81%A3%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7%E5%8F%B2-715f184df078)) | 高鵬翔 | 台灣歷史 | 政大書城 / Aug 4, 2025 | (2025) |
+|   27   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/27-kusuriya-15.webp"> | 藥師少女的獨語 (15) <br> 薬屋のひとりごと (15) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 | Revisited on May 27 |
+|   28   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/28-kusuriya-16.webp"> | 藥師少女的獨語 (16) <br> 薬屋のひとりごと (16) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 | May 27 |
 
 
 ## 📚 Bookshelf
@@ -57,8 +59,6 @@
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/animal-linguistics.jpg"> | 歡迎加入動物聊天室：跨物種觀察筆記，語言與情感的演化對談 <br> (動物たちは何をしゃべっているのか？) | 山極壽一、鈴木俊貴 <br> 張東君（譯） | 生態學 | 博客來電子書 / May 26 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/naval-ravikant.jpg"> | 納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧 <br> (The Almanack of Naval Ravikant: A Guide to Wealth and Happiness) |  艾瑞克．喬根森 (Eric Jorgenson) <br> 謝佩妏（譯） | 生態學 | 博客來電子書 / Mar 24 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/taiwan-travelougue.jpg"> | 臺灣漫遊錄 | 楊双子 | 小說 | 博客來電子書 / May 27 |
-|   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/kusuriya-15.webp"> | 藥師少女的獨語 (15) <br> 薬屋のひとりごと (15) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 |
-|   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/kusuriya-16.webp"> | 藥師少女的獨語 (16) <br> 薬屋のひとりごと (16) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/ancient-egypt.jpg"> | 古埃及文明超圖解 | 河合望 <br> 劉姍姍（譯） | 考古學 | 博客來電子書 / May 27 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/egypt.jpg"> | The Great Book of Ancient Egypt | Zahi Hawass | Anthropology | B&N 5AV /  May 12, 2025 |
 |   #   | <img style="height: 100px; width: auto;" src="https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/plath.jpg"> | The Collected Prose of Sylvia Plath | Sylvia Plath | Fiction & Non-fiction | Amazon UK (pre-ordered) / Sept 2024 |
