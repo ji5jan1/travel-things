@@ -32,8 +32,8 @@
 |   23   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/23-sparrows.jpg"> | にっぽんスズメ歳時記 WE♡SUZUME にっぽんの野鳥シリーズ | 中野 さとる | 野鳥写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
 |   24   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/24-earth-palette.jpg"> | 世界の絶景パレット 100色をめぐる旅 | アフロ、永岡書店編集部 | 旅行写真集 | Books Kinokuniya NYC / Apr 11 | Apr 11 |
 |   25   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/25-talking.jpg"> | 頭腦好的人說話前思考的事：第一本！將「思考維度」融入於「溝通法則」的工具書 <br> (頭のいい人が話す前に考えていること) | 安達裕哉 <br> 陳亦苓（譯） | 商業 | 博客來電子書 / Mar 24 | Apr 15 |
-|   26   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/26-letterpress.webp"> | 臺灣活版時代：臺灣活版印刷圖解記錄 ([博客來](https://www.books.com.tw/products/0011014387)) ([notes](https://medium.com/@gangankan/d-2-%E5%8F%B0%E7%81%A3%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7%E5%8F%B2-715f184df078)) | 高鵬翔 | 台灣歷史 | 政大書城 / Aug 4, 2025 | (2025) |
-|   27   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/27-kusuriya-15.webp"> | 藥師少女的獨語 (15) <br> 薬屋のひとりごと (15) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 | Revisited on May 27 |
+|   26   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/26-letterpress.webp"> | 臺灣活版時代：臺灣活版印刷圖解記錄 ([博客來](https://www.books.com.tw/products/0011014387)) ([notes](https://medium.com/@gangankan/d-2-%E5%8F%B0%E7%81%A3%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7%E5%8F%B2-715f184df078)) | 高鵬翔 | 台灣歷史 | 政大書城 / Aug 4, 2025 | (Feb 2026) |
+|   27   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/27-kusuriya-15.webp"> | 藥師少女的獨語 (15) <br> 薬屋のひとりごと (15) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 | Revisited May 27 |
 |   28   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/28-kusuriya-16.webp"> | 藥師少女的獨語 (16) <br> 薬屋のひとりごと (16) | 日向夏 <br> 可倫（譯） | 小說 | 博客來電子書 / May 27 | May 28 |
 
 
