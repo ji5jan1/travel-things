@@ -8,7 +8,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 
 ### 🗂️ Directory 🗂️
 - 📚 [`book-observations`](https://github.com/kelly990918/travel-things/tree/main/book-observations): my visits to bookstores and libraries, also some book reviews and logs
-    - [🌟2️⃣0️⃣2️⃣6️⃣📖](https://github.com/kelly990918/travel-things/tree/main/book-observations/2026books#readme)
+    - [🌟2️⃣0️⃣2️⃣6️⃣📖](https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/README.md)
 - 💮 [`stamps`](https://github.com/kelly990918/travel-things/blob/main/stamps/stamps.md): I am going philatelic and started to collect stamps, printed materials, and souvenior stamps!  
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels): my 2025 summer trips!
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site): travel experiences and tips
@@ -24,7 +24,7 @@ Hope you'll enjoy my content~ (✿´‿`)
 
 ### 🗂️ 目錄 🗂️ 
 - 📚 [`book-observations`](https://github.com/kelly990918/travel-things/tree/main/book-observations)：書店/圖書館遊蹤、書評等
-    - [🌟2️⃣0️⃣2️⃣6️⃣📖](https://github.com/kelly990918/travel-things/tree/main/book-observations/2026books#readme)
+    - [🌟2️⃣0️⃣2️⃣6️⃣📖](https://github.com/kelly990918/travel-things/blob/main/book-observations/2026books/README.md)
 - 💮 [`stamps`](https://github.com/kelly990918/travel-things/blob/main/stamps/stamps.md): 集郵、集章、集印刷品記事 
 - ☀️ [`summer-travels`](https://github.com/kelly990918/travel-things/tree/main/summer-travels)：2025夏天遊記
 - 🖥️ [`travel-site`](https://github.com/kelly990918/travel-things/tree/main/travel-site)：自製旅遊攻略
