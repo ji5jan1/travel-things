@@ -79,8 +79,9 @@
 ---
 
 ## 🎓 Acaedmic Publications
-- Suzuki, T. N. et al. "Experimental evidence for compositional syntax in bird calls." _Nat. Commun._ 7, no. 10986 (March 2016). https://www.nature.com/articles/ncomms10986.pdf.
-- Suzuki, T. N. "Parental Alarm Calls Warn Nestlings about Different Predatory Threats." _Current Biology_ 21, no. 1 (January 2011). https://doi.org/10.1016/j.cub.2010.11.027. 
+- Andersson, A. A. et al. "Stable isotope analysis as a tool to detect illegal trade in critically endangered cockatoos." _Animal Conservation_ 24, no. 6 (2021): 1021-31. https://doi.org/10.1111/acv.12705.
+- Suzuki, T. N. et al. "Experimental evidence for compositional syntax in bird calls." _Nature Communication_ 7, no. 10986 (2016). https://www.nature.com/articles/ncomms10986.pdf.
+- Suzuki, T. N. "Parental Alarm Calls Warn Nestlings about Different Predatory Threats." _Current Biology_ 21, no. 1 (2011): R15-6. https://doi.org/10.1016/j.cub.2010.11.027. 
 
 ---
 
