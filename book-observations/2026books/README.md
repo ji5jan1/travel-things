@@ -74,7 +74,7 @@
 ## 📰 Magazine Shelf
 | <img style="height: 200px; width: auto;" alt="Casa BRUTUS Vol. 299 (Mar 25)" src="/book-observations/2026books/magazine1-casa_brutus_mar25.webp"> | <img style="height: 200px; width: auto;" alt="&Premium No. 148 (Apr 26)" src="/book-observations/2026books/magazine2-&premium_apr26.jpeg"> | <img style="height: 200px; width: auto;" alt="&Premium No. 148 (Apr 26)" src="/book-observations/2026books/magazine3-casa_brutus_oct25.jpg"> | <img style="height: 200px; width: auto;" alt="Casa BRUTUS Vol. 1045 (Jan 15, 2026)" src="/book-observations/2026books/magazine4-casabrutus_jan26.jpg"> | <img style="height: 200px; width: auto;" alt="PLUS EIGHTY ONE Vol. 96 (Winter 2026)" src="/book-observations/2026books/magazine5-plus81_winter26.webp"> |
 |:---:|:---:|:---:|:---:|:---:|
-| <img style="height: 200px; width: auto;" alt="FUDGE May 2026" src="/book-observations/2026books/magazine6-fudge-may26.webp"> | 
+| <img style="height: 200px; width: auto;" alt="FUDGE May 2026" src="/book-observations/2026books/magazine6-fudge-may26.webp"> | <img style="height: 200px; width: auto;" alt="Casa BRUTUS extra issue - At Home in Nature" src="/book-observations/2026books/magazine7-casa_brutus-house.webp"> | 
 
 ---
 
