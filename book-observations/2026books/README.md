@@ -57,7 +57,6 @@
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/remarkably-bright-creatures.webp"> | 明亮燦爛的你 <br> (Remarkably Bright Creatures) | 雪比．范．裴特 (Shebly Van Pelt) <br> 汪芃（譯） | 小說 | 博客來電子書 / Apr 30 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/birds-myth.jpg"> | 鳥類傳說：從羽翼到寓意，鳥的神話、象徵、生態奧祕與人類千年想像 <br> (Birds: Myth, Lore and Legend) | 瑞秋．華倫．查德 (Rachel Warren Chadd) 瑪麗安．泰勒 (Marianne Taylor) <br> 顏冠睿（譯） | 生態學 | 博客來電子書 / May 26 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/taiwan-raptors.jpg"> | 臺灣猛禽圖鑑 |  廖本興 | 生態學 | 博客來電子書 / May 26 |
-|   *   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/animal-linguistics.jpg"> | 歡迎加入動物聊天室：跨物種觀察筆記，語言與情感的演化對談 <br> (動物たちは何をしゃべっているのか？) | 山極壽一、鈴木俊貴 <br> 張東君（譯） | 生態學 | 博客來電子書 / May 26 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/naval-ravikant.jpg"> | 納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧 <br> (The Almanack of Naval Ravikant: A Guide to Wealth and Happiness) |  艾瑞克．喬根森 (Eric Jorgenson) <br> 謝佩妏（譯） | 生態學 | 博客來電子書 / Mar 24 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/taiwan-travelougue.jpg"> | 臺灣漫遊錄 | 楊双子 | 小說 | 博客來電子書 / May 27 |
 |   #   | <img style="height: 100px; width: auto;" src="/book-observations/2026books/ancient-egypt.jpg"> | 古埃及文明超圖解 | 河合望 <br> 劉姍姍（譯） | 考古學 | 博客來電子書 / May 27 |
