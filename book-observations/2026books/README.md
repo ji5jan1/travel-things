@@ -100,7 +100,9 @@
 |   9   | <img style="height: 150px; width: auto;" alt="Poster of The Super Mario Galaxy Movie" src="/book-observations/2026books/movie9-mario.jpg"> | The Super Mario Galaxy Movie | Aaron Horvath<br> Michael Jelenic <br> Pierre Leduc | ★☆☆☆☆ | AMC Lincoln Square 13 | Apr 1 |
 |   10   | <img style="height: 150px; width: auto;" alt="Poster of Space Station 3D" src="/book-observations/2026books/movie10-space-station.png"> | Space Station 3D | Toni Myers | ★★★☆☆ | AMC 34th Street 14 | Apr 11 |
 |   11   | <img style="height: 150px; width: auto;" alt="Poster of Star Wars: The Mandalorian and Grogu" src="/book-observations/2026books/movie11-mando-grogu.jpg"> | Star Wars: The Mandalorian and Grogu <br><br> _My first Star Wars movie in theatre!_ | Jon Favreau | ★★★★★ | AMC Orpheum 7 | May 25 |
+|   12   | <img style="height: 150px; width: auto;" alt="Poster of Disclosure Day" src="/book-observations/2026books/movie12-disclosure-day.jpg"> | Disclosure Day | Steven Spielberg | ★★☆☆☆ | AMC Kips Bay 15 | Jun 18 |
 
 ## 🎞️ Anime 
-- [ ] NARUTO (83/720)
-- [x] Frieren 
+- [ ] NARUTO (126/720)
+- [x] Frieren
+- [x] Sailor Moon
