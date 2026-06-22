@@ -104,6 +104,6 @@
 |   13   | <img style="height: 150px; width: auto;" alt="Poster of The Sheep Detectives" src="/book-observations/2026books/movie13-sheep-detectives.jpg"> | The Sheep Detectives | Kyle Balda | ★★★★☆ | AMC Orpheum 7 | Jun 19 |
 
 ## 🎞️ Anime 
-- [ ] NARUTO (126/720)
+- [ ] NARUTO (178/720)
 - [x] Frieren
 - [x] Sailor Moon
