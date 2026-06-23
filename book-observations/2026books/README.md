@@ -102,6 +102,8 @@
 |   11   | <img style="height: 150px; width: auto;" alt="Poster of Star Wars: The Mandalorian and Grogu" src="/book-observations/2026books/movie11-mando-grogu.jpg"> | Star Wars: The Mandalorian and Grogu <br><br> _My first Star Wars movie in theatre!_ | Jon Favreau | ★★★★★ | AMC Orpheum 7 | May 25 |
 |   12   | <img style="height: 150px; width: auto;" alt="Poster of Disclosure Day" src="/book-observations/2026books/movie12-disclosure-day.jpg"> | Disclosure Day | Steven Spielberg | ★★☆☆☆ | AMC Kips Bay 15 | Jun 18 |
 |   13   | <img style="height: 150px; width: auto;" alt="Poster of The Sheep Detectives" src="/book-observations/2026books/movie13-sheep-detectives.jpg"> | The Sheep Detectives | Kyle Balda | ★★★★☆ | AMC Orpheum 7 | Jun 19 |
+|   14   | <img style="height: 150px; width: auto;" alt="Poster of Toy Story 5" src="/book-observations/2026books/movie14-toy_story_5.jpg"> | Toy Story 5 | McKenna Harris <br> Andrew Stanton | ★★★★☆ | AMC Orpheum 7 | Jun 22 |
+
 
 ## 🎞️ Anime 
 - [ ] NARUTO (178/720)
