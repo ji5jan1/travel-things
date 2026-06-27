@@ -106,6 +106,6 @@
 
 
 ## 🎞️ Anime 
-- [ ] 🌀 NARUTO (254/720)
+- [ ] 🌀 NARUTO (275/720)
 - [x] 🪄 Frieren
 - [x] 🌙 Sailor Moon
